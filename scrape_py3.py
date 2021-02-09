@@ -9,7 +9,7 @@ import csv
 import pandas as pd
 
 # run as
-# $ python scrape.py gender_int max_place output_filename
+# $ python scrape_py3.py gender_int max_place output_filename
 
 # read geneder_int from command line
 # (gender_int = 0 for both )
