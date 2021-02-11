@@ -9,10 +9,10 @@
 
 # read in the command arguments
 args <- commandArgs( trailingOnly = TRUE )
-input_scraped <- args[1]
-input_matches <- args[2]
-max_time_minutes <- as.numeric( args[3] )
-output_csv <- args[4]
+input_scraped <- 'testwomenscrape.csv'
+input_matches <- 'women_matches.csv'
+max_time_minutes <- 165
+output_csv <- 'testWomenSample.csv'
 
 # read in the data
 dat <- read.csv( input_scraped, as.is = TRUE)
@@ -85,6 +85,7 @@ subset_inds <- dat$match_name %in% unique( fast_names )
 subdat <- dat[ subset_inds, ]
 
 # save the data to csv
+#ordered from fast to slow, by year or something?
 ord <- order( subdat$marathon, subdat$date, subdat$time_minutes )
 vars <- c("name_age","match_name","full_name","marathon",
     "year","date","time","time_minutes")
