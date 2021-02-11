@@ -12,7 +12,7 @@ output_csv <- 'MSampleShoe.csv'
 # read in the data
 perf_data <- read.csv( input_sampled, as.is = TRUE)
 shoe_data <- read.csv( input_shoe, as.is = TRUE)
-print(perf_data)
+#print(shoe_data$match_name)
 # join them together
 perf_data$vaporfly <- NA
 for(j in 1:nrow(perf_data)){
@@ -23,9 +23,17 @@ for(j in 1:nrow(perf_data)){
         shoe_data$marathon == perf_data$marathon[j] &
         shoe_data$year == perf_data$year[j] 
     )
-
+    
     # assign vaporfly variable
-    perf_data$vaporfly[j] <- shoe_data$vaporfly[ind_shoedata]
+    #hitting "int 0" at 440 for some reason
+    if (length(shoe_data$vaporfly[ind_shoedata]) == 0 || is.na(shoe_data$vaporfly[ind_shoedata])){
+        print('here')
+        perf_data$vaporfly[j] <- FALSE
+    }
+    else{
+        perf_data$vaporfly[j] <- shoe_data$vaporfly[ind_shoedata]
+    }
+    print(perf_data$vaporfly[j])
 
     # check for weirdness
     if( length(ind_shoedata) != 1 ){print(j)}
