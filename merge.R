@@ -5,14 +5,14 @@
 args <- commandArgs( trailingOnly = TRUE )
 #args <- c("men_sampled.csv","men_shoe.csv","men_sampled_shoe.csv")
 
-input_sampled <- args[1]
-input_shoe <- args[2]
-output_csv <- args[3]
+input_sampled <- 'testMenSample.csv'
+input_shoe <- 'men_shoe.csv'
+output_csv <- 'MSampleShoe.csv'
 
 # read in the data
 perf_data <- read.csv( input_sampled, as.is = TRUE)
 shoe_data <- read.csv( input_shoe, as.is = TRUE)
-
+print(perf_data)
 # join them together
 perf_data$vaporfly <- NA
 for(j in 1:nrow(perf_data)){
