@@ -8,7 +8,7 @@
 #     output_csv
 
 # read in the command arguments
-args <- commandArgs( trailingOnly = TRUE )
+# args <- commandArgs( trailingOnly = TRUE )
 input_scraped <- 'testwomenscrape.csv'
 input_matches <- 'women_matches.csv'
 max_time_minutes <- 165
@@ -80,7 +80,7 @@ fast_names <- unique( dat$match_name[fast_inds] )
 cat("Number of athletes:\n")
 print(length(fast_names))
 
-# get subset of full dataset
+# get subset of full dataset--> only keeping people that ran fast in 2015/2016, pre vaporfly!
 subset_inds <- dat$match_name %in% unique( fast_names )
 subdat <- dat[ subset_inds, ]
 
