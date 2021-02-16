@@ -7,8 +7,8 @@
 ###
 
 # args <- commandArgs(trailingOnly = TRUE)
-args <- c("WSampleShoe.csv","women_fit.RData")
-# args <- c("men_sampled_shoe.csv", "women_sampled_shoe.csv", "combined_fit.RData")
+#args <- c("WSampleShoe.csv","women_fit.RData")
+args <- c("MSampleShoe.csv", "WSampleShoe.csv", "combined_fit.RData")
 
 input_perf_csv <- args[1]
 output_rdata <- args[length(args)]
