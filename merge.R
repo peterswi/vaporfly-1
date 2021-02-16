@@ -5,9 +5,9 @@
 args <- commandArgs( trailingOnly = TRUE )
 #args <- c("men_sampled.csv","men_shoe.csv","men_sampled_shoe.csv")
 
-input_sampled <- 'testMenSample.csv'
-input_shoe <- 'men_shoe.csv'
-output_csv <- 'MSampleShoe.csv'
+input_sampled <- 'testWomenSample.csv'
+input_shoe <- 'women_shoe.csv'
+output_csv <- 'WSampleShoe.csv'
 
 # read in the data
 perf_data <- read.csv( input_sampled, as.is = TRUE)

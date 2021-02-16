@@ -2,7 +2,7 @@
 
 # look at average performance with and without shoe
 # for each athlete
-data_files <- c("men_sampled_shoe.csv","women_sampled_shoe.csv")
+data_files <- c("MSampleShoe.csv","WSampleShoe.csv")
 
 pdf("data_explore.pdf",width=10,height=4)
 par(family = "serif", mar=c(3.5,4,3,0.5))
