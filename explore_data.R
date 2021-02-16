@@ -7,7 +7,7 @@ data_files <- c("MSampleShoe.csv","WSampleShoe.csv")
 pdf("data_explore.pdf",width=10,height=4)
 par(family = "serif", mar=c(3.5,4,3,0.5))
 layout( matrix(1:2,1,2), widths = c(0.6,0.4))
-plot( NA, type="n", xlim = c(1,365*5), ylim = c(0,1),
+plot( NA, type="n", xlim = c(1,365*6), ylim = c(0,1),
     axes = FALSE, ann = FALSE)
 cols <- c("black","blue")
 for(j in 1:2){
