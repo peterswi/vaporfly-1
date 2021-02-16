@@ -31,7 +31,7 @@ for(j in 1:2){
 }
 legend("topleft",legend=c("Women","Men"), pch = 1, col = rev(cols) )
 axis(1, at = 365*(0:5), labels = rep("",6), lwd.ticks = 1, lwd = 0 )
-axis(1, at = 365*(0.5 + (0:4)), labels = 2015:2019, lwd = 0 )
+axis(1, at = 365*(0.5 + (0:5)), labels = 2015:2020, lwd = 0 )
 axis(2, lwd.ticks=1, lwd = 0)
 mtext("Adoption of Vaporfly Shoes", side=3, line = 0.5)
 mtext("Date", side=1, line = 2.5)
