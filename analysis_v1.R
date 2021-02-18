@@ -44,15 +44,17 @@ day_count <- perf_data$day_count[not_missing]
 # fit the models
 fit1 <- lme4::lmer( y ~ x1 + (1|f1) + (1|f2), REML = TRUE )
 fit2 <- lme4::lmer( log(y) ~ x1 + (1|f1) + (1|f2), REML = TRUE )
-ols <- lm(y ~ x1)
+ols1 <- lm(y ~ x1)
+ols2 <- lm(y ~ x1 + f1 + f2) #this runs, but (1|fi) not working?
+ols3 <- lm(log(y) ~ x1 + (f1) + (f2))
 
 # ols2 <- lm(y ~ x1 + f1 + f2) THIS ISNT REALLY DOING ANYTHING
 
 print(summary(fit1))
 print(summary(fit2))
-print(summary(ols))
-
-#print(summary(ols2))
+print(summary(ols1))
+print(summary(ols2))
+print(summary(ols3))
 
 vc <- lme4::VarCorr(fit1)
 covparms1 <- c(vc$f1,vc$f2,attr(vc,"sc")^2)
