@@ -37,12 +37,9 @@ with open("strava_results_test.csv", 'w',newline='') as results_file:
             row.append(item.text.strip('\n').strip())
         row.append(result_table[i].attrs['data-activity_id'])
         strava_write.writerow(row)
-
 """
-headings = []
-for td in results_table_data[0].find_all("th"):
-    # remove any newlines and extra spaces from left and right
-    headings.append(td.b.text.replace('\n', ' ').strip())
+    NOW: we are scraping one page successfully, now we want to be able to scrape multiple pages
+    of results within that page, and also keep it specific to men vs women.
 
-print(headings)
+    Suggested way would be to use Selenium?
 """
