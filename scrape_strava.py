@@ -6,7 +6,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 #BOSTON MARATHON 2014-- Sample Data
-url="https://www.strava.com/running_races/2018-boston-marathon"
+
+
 
 """
     NOW: we are scraping one page successfully, now we want to be able to scrape multiple pages
@@ -43,41 +44,89 @@ driver.quit()
 """
 SUCCESFUL BEAUTIFUL SOUP SCRAPE OF STATIC PAGE:
 """
-
-# Make a GET request to fetch the raw HTML content
-html_content = requests.get(url).text
-
-# Parse the html content
-soup = BeautifulSoup(html_content, "html.parser")
-#print(soup.prettify()) # print the parsed data of html
-print("Page Title: ",soup.title)
-
-results_section=soup.find(id="results-table-container")
-#print(results_section.prettify())
-result_table=results_section.find_all('tr')
-
+## MISSING MARATHONS: 2016 Berlin, 2016 NYC, 2014 tokyo, 2019 tokyo, 2017 London
+races=['2014-Boston-Marathon','2015-Boston-Marathon','2016-Boston-Marathon','2017-Boston-Marathon','2018-Boston-Marathon','2019-Boston-Marathon','2014-Berlin-Marathon','2015-Berlin-Marathon','2017-BMW-Berlin-Marathon','2018-BMW-Berlin-Marathon','2019-BMW-Berlin-Marathon','2014-New-York-City-Marathon','2015-New-York-City-Marathon','2017-TCS-New-York-City-Marathon','2018-TCS-New-York-City-Marathon','2019-TCS-New-York-City-Marathon','2014-Chicago-Marathon','2015-Chicago-Marathon','2016-Chicago-Marathon','2017-Chicago-Marathon','2018-Chicago-Marathon','2019-Chicago-Marathon','2015-Tokyo-Marathon','2016-Tokyo-Marathon','2017-Tokyo-Marathon','2018-Tokyo-Marathon','2015-London-Marathon','2016-London-Marathon','2018-Virgin-Money-London-Marathon','2019-Virgin-Money-London-Marathon']
+races2=['2014-Boston-Marathon','2015-Boston-Marathon','2016-Boston-Marathon']
+url="https://www.strava.com/running_races/{}"
 #Write data to CSV
-with open("strava_results_test.csv", 'w',newline='') as results_file:
+with open("scrape_strava_results.csv", 'w',newline='') as results_file:
+    #init our csv
     strava_write=csv.writer(results_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-    headers= result_table[0].find_all('th')
-    firstRow=[]
-    print('here')
-    for header in headers:
-        firstRow.append(header.text)
-    firstRow.append('data-activity_id')
+    firstRow=['Rank', 'Name', 'Gender', 'Age', 'Finish', 'Pace', 'Strava Activity', 'data-activity_id', 'athlete_id','race_name']
     strava_write.writerow(firstRow)
-    for i in (range(len(result_table))[1:]):
-        data=result_table[i].find_all('td')
-        row=[]
-        for item in data:
-            entry=item.text.strip('\n').strip()
-            row.append(entry.encode('utf-8'))
-        row.append(result_table[i].attrs['data-activity_id'])
-        print(row)
-        strava_write.writerow(row)
 
-#MIGHT NOT NEED SELENIUM,READ:
-"""
-url takes the form : https://www.strava.com/running-races/2019-boston-marathon?gender=ALL&page=100
-can just iterate over a certain number of pages for all marathons of interest by changing page variable
-"""
+    
+    #iterate through rest of results pages
+    #NOW--> create list of races to iterate through
+    #iterate starting on second page
+    for race_name in races:
+        race_url=url.format(race_name)
+        print(race_url)
+        #first want to figure out how many pages there are
+        url_iter = race_url + '/results?gender=ALL&page={}'.format(1)
+        print(url_iter)
+        # Make a GET request to fetch the raw HTML content
+        html_content = requests.get(url_iter).text
+
+        # Parse the html content
+        soup = BeautifulSoup(html_content, "html.parser")
+
+        results_section=soup.find(id="results-table")
+
+        result_table=results_section.find_all('tr')
+        
+        headers= result_table[0].find_all('th')
+        pages=soup.find_all("div",{"class":"pages"})
+        numResults=pages[0].text.strip()
+        index=numResults.find('f',0,len(numResults))
+        numPages=int(numResults[index+2:])//20
+        if numPages>101:
+            numpages=101
+        for i in (range(len(result_table))[1:]):
+                    data=result_table[i].find_all('td')
+                    row=[]
+                    for item in data:
+                        entry=item.text.strip('\n').strip()
+                        row.append(entry.encode('utf-8'))
+                    links=result_table[i].find_all('a', href=True)  
+                    row.append(result_table[i].attrs['data-activity_id'])
+                    row.append(links[0]['href'][10:])
+                    row.append(race_name)
+                    strava_write.writerow(row)
+        
+        #starting at page 2 and iterating through all results
+        for page in range(2,numPages):
+            url_iter = race_url + '/results?gender=ALL&page={}'.format(page)
+            if (page%25==0):
+                print(url_iter)
+            # Make a GET request to fetch the raw HTML content
+            html_content = requests.get(url_iter).text
+
+            # Parse the html content
+            soup = BeautifulSoup(html_content, "html.parser")
+
+            results_section=soup.find(id="results-table")
+
+            result_table=results_section.find_all('tr')
+            
+            headers= result_table[0].find_all('th')
+
+            #SHOULD I ITERATE SEPARATELY OVER MEN AND WOMEN?
+
+            for i in (range(len(result_table))[1:]):
+                data=result_table[i].find_all('td')
+                row=[]
+                for item in data:
+                    entry=item.text.strip('\n').strip()
+                    row.append(entry.encode('utf-8'))
+                links=result_table[i].find_all('a', href=True)  
+                row.append(result_table[i].attrs['data-activity_id'])
+                row.append(links[0]['href'][10:])
+                row.append(race_name)
+                strava_write.writerow(row)
+
+    #MIGHT NOT NEED SELENIUM,READ:
+    """
+    url takes the form : https://www.strava.com/running-races/2019-boston-marathon?gender=ALL&page=100
+    can just iterate over a certain number of pages for all marathons of interest by changing page variable
+    """
