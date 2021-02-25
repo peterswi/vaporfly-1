@@ -47,6 +47,10 @@ SUCCESFUL BEAUTIFUL SOUP SCRAPE OF STATIC PAGE:
 ## MISSING MARATHONS: 2016 Berlin, 2016 NYC, 2014 tokyo, 2019 tokyo, 2017 London
 races=['2014-Boston-Marathon','2015-Boston-Marathon','2016-Boston-Marathon','2017-Boston-Marathon','2018-Boston-Marathon','2019-Boston-Marathon','2014-Berlin-Marathon','2015-Berlin-Marathon','2017-BMW-Berlin-Marathon','2018-BMW-Berlin-Marathon','2019-BMW-Berlin-Marathon','2014-New-York-City-Marathon','2015-New-York-City-Marathon','2017-TCS-New-York-City-Marathon','2018-TCS-New-York-City-Marathon','2019-TCS-New-York-City-Marathon','2014-Chicago-Marathon','2015-Chicago-Marathon','2016-Chicago-Marathon','2017-Chicago-Marathon','2018-Chicago-Marathon','2019-Chicago-Marathon','2015-Tokyo-Marathon','2016-Tokyo-Marathon','2017-Tokyo-Marathon','2018-Tokyo-Marathon','2015-London-Marathon','2016-London-Marathon','2018-Virgin-Money-London-Marathon','2019-Virgin-Money-London-Marathon']
 races2=['2014-Boston-Marathon','2015-Boston-Marathon','2016-Boston-Marathon']
+
+#added a timer
+tic=time.perf_counter()
+
 url="https://www.strava.com/running_races/{}"
 #Write data to CSV
 with open("scrape_strava_results.csv", 'w',newline='') as results_file:
@@ -81,7 +85,8 @@ with open("scrape_strava_results.csv", 'w',newline='') as results_file:
         index=numResults.find('f',0,len(numResults))
         numPages=int(numResults[index+2:])//20
         if numPages>101:
-            numpages=101
+            numPages=101
+        print("number of results pages to be scraped:",numPages-1)
         for i in (range(len(result_table))[1:]):
                     data=result_table[i].find_all('td')
                     row=[]
@@ -130,3 +135,9 @@ with open("scrape_strava_results.csv", 'w',newline='') as results_file:
     url takes the form : https://www.strava.com/running-races/2019-boston-marathon?gender=ALL&page=100
     can just iterate over a certain number of pages for all marathons of interest by changing page variable
     """
+#finish timing
+toc =time.perf_counter()
+print(f"Completed Execution in {toc - tic:0.2f} seconds")
+"""
+When capping results @ 2000 results per race, total run time is 902 seconds (15 minutes)
+"""
