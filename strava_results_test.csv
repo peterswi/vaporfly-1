@@ -1,22 +1,21 @@
-Rank,Name,Gender,Age,Finish,Pace,Strava Activity
-1,Kenneth B.,M,35-44,19s,0s/km,"My 13th Boston Marathon
-#BostonStrong #11...",318124113
-2,Brian H.,M,25-34,2:20:31,3:20/km,Morning Run,497490342
-3,Matt Flaherty,M,35-44,2:21:20,3:21/km,"Boston Marathon - 2:21:20, 32nd overall, ...",132958181
-4,Matthew Laye,M,35-44,2:23:32,3:24/km,"2014 Boston Marathon: 2:23:32, 34th male",132735241
-5,Crosby Freeman,M,35-44,2:27:37,3:30/km,118th Boston Marathon,132716103
-6,Curly Guillen,M,35-44,2:28:30,3:31/km,"BOSTON MARATHON (04/21/2014 Hopkinton, MA)",132777175
-7,Patrick Reaves,M,35-44,2:29:31,3:33/km,118th Boston Marathon (2:29:31 - PR),132739552
-8,Marc Schulze,M,35-44,2:29:41,3:33/km,Boston Marathon 2014,299447787
-9,Sam Robinson,M,35-44,2:30:14,3:34/km,Boston Marathon. So much fun!,132947806
-10,Chris Mocko,M,25-34,2:30:24,3:34/km,118th Boston Marathon,132952700
-11,Alex Varner,M,35-44,2:32:05,3:36/km,2014 Boston Marathon,133134556
-12,Mark H.,M,25-34,2:33:53,3:39/km,"04/21/2014 Hopkinton, MA",133113182
-13,Josh Erekson,M,35-44,2:34:17,3:39/km,Boston Marathon 2014,133042413
-14,Justin  M.,M,35-44,2:35:02,3:40/km,2014 Boston Marathon,133260026
-15,Thomas B.,M,25-34,2:35:22,3:41/km,Boston Marathon!,224681351
-16,Damon Valenzona,M,25-34,2:35:31,3:41/km,Boston Marathon 2014,163540064
-17,Matt Aguero,M,35-44,2:35:33,3:41/km,Boston Marathon,133318240
-18,Dane Batzel,M,,2:35:45,3:41/km,2014 Boston Marathon 2:35:45,549774465
-19,Steve L.,M,35-44,2:35:55,3:42/km,Boston Marathon - 2:35:55 PR,132713785
-20,John Compton,M,,2:36:03,3:42/km,Boston Marathon,293065037
+Rank,Name,Gender,Age,Finish,Pace,Strava Activity,data-activity_id
+b'1',b'Reid C.',b'M',b'35-44',b'2:25:02',b'3:26/km',b'Boston marathon - just get to finish',1512221840
+b'2',b'Benjamin Z.',b'M',b'25-34',b'2:28:02',b'3:30/km',b'Morning Run',1512356091
+b'3',b'Christian T.',b'M',b'25-34',b'2:29:01',b'3:32/km',b'2018 Boston Marathon 18th Overall',1512205886
+b'4',b'Jesse Anderson',b'M',b'25-34',b'2:29:01',b'3:32/km',b'Boston',1512322766
+b'5',b'Zack Beavin',b'M',b'25-34',b'2:31:02',b'3:35/km',b'Boston 2018',1512237455
+b'6',b'Nate Guthals',b'M',b'25-34',b'2:31:44',b'3:36/km',"b'Boston Marathon. \xe2\x80\x9cPerfect\xe2\x80\x9d conditions, or...'",1512649166
+b'7',b'Will Graham',b'M',b'',b'2:32:44',b'3:37/km',b'Boston Marathon- 29th place. Get some!!!',1512305241
+b'8',b'Scott Mindel',b'M',b'25-34',b'2:32:48',b'3:37/km',"b'Boston Marathon 29th overall, very humbli...'",1512221057
+b'9',b'Fan Zhou',b'M',b'25-34',b'2:32:50',b'3:37/km',b'Morning Run',1512289713
+b'10',b'Dylan Lowry',b'M',b'25-34',b'2:32:50',b'3:37/km',b'Boston motha fuckin marathon. 2:32:50 for...',1515230308
+b'11',b'Cole Sanseverino',b'M',b'25-34',b'2:32:58',b'3:38/km',b'Boston Marathon: 31st!',1512277082
+b'12',b'Nicholas Lemon',b'M',b'25-34',b'2:33:16',b'3:38/km',b'Morning Run',1512226641
+b'13',b'Andrew D.',b'M',b'25-34',b'2:33:23',b'3:38/km',b'Boston Marathon',1514771808
+b'14',b'Patrick Hearn',b'M',b'25-34',b'2:33:35',b'3:38/km',b'Boston swimathon',1512620745
+b'15',b'Johan Trimaille',b'M',b'',b'2:33:44',b'3:39/km',b'Boston marathon 37eme overall \xf0\x9f\x92\xa8\xf0\x9f\x92\xa6\xf0\x9f\x92\xa7\xf0\x9f\x8c\xa7',1512383287
+b'16',b'Colin Riley',b'M',b'25-34',b'2:34:19',b'3:39/km',b'122nd Boston Marathon - 41st Place',1512942504
+b'17',b'Braden Perry',b'M',b'25-34',b'2:34:28',b'3:40/km',b'Boston Marathon!',1512826317
+b'18',b'Morgan Kennedy',b'M',b'',b'2:34:35',b'3:40/km',b'Boston',1512879330
+b'19',b'Alexander Rink',b'M',b'25-34',b'2:34:43',b'3:40/km',b'Boston Marathon. Official time 2:34:43. 46th',1512244790
+b'20',b'Tim T.',b'M',b'25-34',b'2:34:52',b'3:40/km',b'Morning Run',1551936158
