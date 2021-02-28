@@ -53,7 +53,7 @@ tic=time.perf_counter()
 
 url="https://www.strava.com/running_races/{}"
 #Write data to CSV
-with open("scrape_strava_results.csv", 'w',newline='') as results_file:
+with open("wmm_results.csv", 'w',newline='') as results_file:
     #init our csv
     strava_write=csv.writer(results_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     firstRow=['Rank', 'Name', 'Gender', 'Age', 'Finish', 'Pace', 'Strava Activity', 'data-activity_id', 'athlete_id','race_name']
@@ -137,7 +137,8 @@ with open("scrape_strava_results.csv", 'w',newline='') as results_file:
     """
 #finish timing
 toc =time.perf_counter()
-print(f"Completed Execution in {toc - tic:0.2f} seconds")
+duration = toc - tic
+print(f"Completed Execution in {duration:0.2f} seconds")
 """
 When capping results @ 2000 results per race, total run time is 902 seconds (15 minutes)
 """
