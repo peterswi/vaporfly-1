@@ -5,14 +5,38 @@ import pandas as pd
 import urllib3
 import mechanize
 import http.cookiejar
-
+from robobrowser import RoboBrowser
 import time
 
+
+werkzeug.cached_property = werkzeug.utils.cached_property
+
 tic=time.perf_counter()
+
+#new attempt: RoboBrowser-- init and go to login
+browser = RoboBrowser(history=True)
+browser.open('https://strava.com/login')
+
+#get login form
+login=browser.get_form()
+
+#login credentials & submit forms
+login["email"]='wpeters1998@gmail.com'
+login['password']='fib1123581321'
+
+browser.submit_form(login) #, NEED SOMETHING ELSE HERE?)
+browser.open('https.strava.com/activities/497490342') #--> test 
+
+#Now it works like beautiful soup?
+gear=browser.find_all("span",{"class":"gear-name"})
+gear_entry=gear[0].text.strip('\n').strip().encode('utf-8')
+
+#Now we navigate to the pages of interest
+
 #GOING TO NEED TO BE LOGGED IN FOR THIS ONE-- NEED TO CHECK ON THAT.
 # Check this link for log-in method: 
-## MECHANIZE ATTEMPT-- now works!:
-
+## MECHANIZE ATTEMPT-- now works for a limited number of requests:
+"""
 cj = http.cookiejar.CookieJar()
 br = mechanize.Browser()
 br.set_cookiejar(cj)
@@ -30,10 +54,10 @@ br.addheaders = [('User-agent', 'Chrome')]
 br.open('https://strava.com/login')
 
 # View available forms
-"""
+
 for f in br.forms():
     print(f)
-"""
+
 
 br.select_form(nr=0)
 br.form['email'] = 'wpeters1998@gmail.com'
@@ -85,7 +109,7 @@ with open("activity_data.csv", 'w',newline='') as results_file:
             print('gear: ',gear_entry)
         count=count+1
 
-
+"""
 toc =time.perf_counter()
 duration = toc - tic
 print(f"Completed Execution in {duration:0.2f} seconds")
