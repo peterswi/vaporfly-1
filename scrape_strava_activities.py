@@ -7,28 +7,47 @@ import mechanize
 import http.cookiejar
 import time
 from fake_useragent import UserAgent
+import mechanicalsoup
 
 #GOING TO NEED TO BE LOGGED IN FOR THIS SCRAPE
 
 tic=time.perf_counter()
+user='wpeters1998@gmail.com'
+password='fib1123581321'
+
+#MECHANICAL SOUP
+#Try this url: https://mechanicalsoup.readthedocs.io/en/stable/tutorial.html
+browser = mechanicalsoup.StatefulBrowser()
+browser.open("https://www.strava.com/login")
+print(browser.url)
+
+browser.select_form('form[action="/session"]')
+browser.form.print_summary()
+
+
+
 
 #REQUESTS METHOD
 ua = UserAgent()
 header = {'User-Agent':str(ua.chrome)}
 
 session = requests.Session()
+session.headers=header
 payload = {'action':'/session'}
-sec =session.get("https://www.strava.com/login")
+sec = session.get("https://www.strava.com/login")
 signin = BeautifulSoup(sec._content, 'html.parser')
 token=signin.find('input', {'name':'authenticity_token'})['value']
 
+
 #at this point need to figure out WHAT to put in this payload
 payload['authenticity_token'] = token
-payload['email']='wpeters1998@gmail.com'
-payload['password']='fib1123581321'
+# payload["#__VIEWSTATE"]=viewstate
+# payload["#__VIEWSTATEGENERATOR"]=viewstategenerator
+payload['email']=user
+payload['password']=password
 print('payload:',payload)
-s = session.post("https://www.strava.com/login", data=payload,headers=header)
-p= session.get("https://www.strava.com/settings/profile",headers=header)
+s = session.post("https://www.strava.com/login", data=payload, verify=False)
+p= session.get("https://www.strava.com/settings/profile")
 #THIS IS NOT POSTING CORRECTLY
 
 soup = BeautifulSoup(p.text, 'html.parser')
@@ -145,4 +164,35 @@ gear=browser.find_all("span",{"class":"gear-name"})
 gear_entry=gear[0].text.strip('\n').strip().encode('utf-8')
 
 #Now we navigate to the pages of interest
+"""
+
+
+"""
+import lxml.html
+def strava_login(service, username, password):
+    # GET parameters - URL we'd like to log into.
+    params = {'service': service}
+    LOGIN_URL = 'https://strava.com/login'
+
+    # Start session and get login form.
+    session = requests.session()
+    login = session.get(LOGIN_URL, params=params)
+
+    # Get the hidden elements and put them in our form.
+    login_html = lxml.html.fromstring(login.text)
+    hidden_elements = login_html.xpath('//form//input[@type="hidden"]')
+    print(hidden_elements)
+    form = {x.attrib['name']: x.attrib['value'] for x in hidden_elements}
+
+    # "Fill out" the form.
+    form['username'] = username
+    form['password'] = password
+
+    # Finally, login and return the session.
+    session.post(LOGIN_URL, data=form, params=params)
+    return session
+testSesh=strava_login("https://www.strava.com/settings/profile",user, password)
+soup = BeautifulSoup(testSesh.text, 'html.parser')
+head=soup.find("div",{'id':'my-profile'})
+print('profile:',head)
 """
