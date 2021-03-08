@@ -15,32 +15,27 @@ tic=time.perf_counter()
 user='wpeters1998@gmail.com'
 password='fib1123581321'
 
-#MECHANICAL SOUP
+#MECHANICAL SOUP-- Getting Close
 #Try this url: https://mechanicalsoup.readthedocs.io/en/stable/tutorial.html
-browser = mechanicalsoup.StatefulBrowser()
-browser.open("https://www.strava.com/login")
-print(browser.url)
 
-browser.select_form('form[action="/session"]')
-browser.form.print_summary()
-
-#fill Log in form
-browser["email"]=user
-browser["password"]=password
-browser["remember_me"]="on"
-print("New Form")
-browser.form.print_summary()
-
-#submit form
-response=browser.submit_selected()
-page2=browser.open("https://www.strava.com/settings/profile")
+# Non-stateful browser-- quicker?
+browser = mechanicalsoup.Browser(soup_config={'features': 'lxml'}, user_agent='MyBot/0.1: mysite.example.com/bot_info')
+login_page = browser.get("https://strava.com/login")
+login_page.raise_for_status()
+login_form = mechanicalsoup.Form(login_page.soup.select_one('#login_form'))
+login_form.input({"email":user, "password": password})
+page2 = browser.submit(login_form, login_page.url)
 
 
-soup = BeautifulSoup(page2.text, 'html.parser')
-head=soup.find("div",{'id':'my-profile'})
-print('profile:',head.find("h1"))
+testUrl="https://www.strava.com/activities/2292639868/overview"
+page3=browser.get(testUrl)
+
+## TOO MANY REQUESTS-- might need to try sleeping every 10?
+# Looks like it just locks me out of activities page-- maybe i should scrape activities & races at same time
+# That way, it breaks from 
 
 
+print('"""""')
 #loading data into dataframe
 data = pd.read_csv("strava_results_test.csv") #change to wmm_results.csv 
 
@@ -50,27 +45,28 @@ activities= data['data-activity_id'].to_list()
 
 url = "https://strava.com/activities/{}"
 
+
 with open("activity_data.csv", 'w',newline='') as results_file:
     strava_write=csv.writer(results_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         
-    firstrow=['activity_id','gear']
+    firstrow=['activity_id','shoes','device','suffer']
     strava_write.writerow(firstrow)
 
     count =0
-    for activity in activities:
+    for activity in activities[:500]:
         
         row=[]
         row.append(activity)
         #get our URL
         activity_url=url.format(activity)+"/overview"
         
-        html_content = session.get(activity_url).text
+        html_content = browser.get(activity_url).text
 
         #if html_content.status_code == 429:
         #    time.sleep(int(html_content.headers["Retry-After"]))
         
         soup = BeautifulSoup(html_content, "html.parser")
-
+        #GEt Shoes
         gear=soup.find_all("span",{"class":"gear-name"})
         if(len(gear)>0):
             gear_entry=gear[0].text.strip('\n').strip().encode('utf-8')
@@ -78,12 +74,38 @@ with open("activity_data.csv", 'w',newline='') as results_file:
             gear_entry=b'\xe2\x80\x94'
         
         row.append(gear_entry)
+        #Get Device
+        gear2=soup.find("div",{"class":"device spans8"})
+        if(gear2):
+            device_entry=gear2.text.strip('\n').strip().encode('utf-8')
+        else:
+            device_entry=b'\xe2\x80\x94'
+        row.append(device_entry)
+
+        #Get Suffer
+        suffer=soup.find("li",{"class":"suffer-score"})
         
+        if(suffer):
+            suffer=suffer.find('a')
+            suffer_entry=gear[0].text.strip('\n').strip().encode('utf-8')
+        else:
+            suffer_entry=b'\xe2\x80\x94'
+        row.append(suffer_entry)
+
+        #write our row
         strava_write.writerow(row)
 
         if (count%100==0):
             print('count: ',count)
             print('gear: ',gear_entry)
+            print('device: ',device_entry)
+            print('suffer score: ',suffer_entry)
+
+            print('sleeping for 10 sec..')
+            time.sleep(10)
+            print('awake!')
+            
+
         count=count+1
 
 
@@ -206,5 +228,33 @@ print('payload:',payload)
 s = session.post("https://www.strava.com/login", data=payload, verify=False)
 p= session.get("https://www.strava.com/settings/profile")
 #THIS IS NOT POSTING CORRECTLY
+
+"""
+
+"""
+#mechanical browser
+# THIS IS A STATEFUL BROWSER-- seems to be time consuming
+browser = mechanicalsoup.StatefulBrowser(
+    soup_config={'features': 'lxml'},
+    raise_on_404=True,
+    user_agent='MyBot/0.1: mysite.example.com/bot_info',
+)
+browser.open("https://www.strava.com/login")
+print(browser.url)
+
+browser.select_form('form[action="/session"]')
+
+
+#fill Log in form
+browser["email"]=user
+browser["password"]=password
+browser["remember_me"]="on"
+print("New Form")
+browser.form.print_summary()
+
+#submit form
+response=browser.submit_selected()
+page = browser.page
+print(page.title.text)
 
 """
