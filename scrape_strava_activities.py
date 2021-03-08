@@ -34,6 +34,8 @@ page3=browser.get(testUrl)
 # Looks like it just locks me out of activities page-- maybe i should scrape activities & races at same time
 # That way, it breaks from 
 
+#Other work around-- once i hit 429 Error, change IP address?
+
 
 print('"""""')
 #loading data into dataframe
