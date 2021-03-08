@@ -24,35 +24,21 @@ print(browser.url)
 browser.select_form('form[action="/session"]')
 browser.form.print_summary()
 
+#fill Log in form
+browser["email"]=user
+browser["password"]=password
+browser["remember_me"]="on"
+print("New Form")
+browser.form.print_summary()
+
+#submit form
+response=browser.submit_selected()
+page2=browser.open("https://www.strava.com/settings/profile")
 
 
-
-#REQUESTS METHOD
-ua = UserAgent()
-header = {'User-Agent':str(ua.chrome)}
-
-session = requests.Session()
-session.headers=header
-payload = {'action':'/session'}
-sec = session.get("https://www.strava.com/login")
-signin = BeautifulSoup(sec._content, 'html.parser')
-token=signin.find('input', {'name':'authenticity_token'})['value']
-
-
-#at this point need to figure out WHAT to put in this payload
-payload['authenticity_token'] = token
-# payload["#__VIEWSTATE"]=viewstate
-# payload["#__VIEWSTATEGENERATOR"]=viewstategenerator
-payload['email']=user
-payload['password']=password
-print('payload:',payload)
-s = session.post("https://www.strava.com/login", data=payload, verify=False)
-p= session.get("https://www.strava.com/settings/profile")
-#THIS IS NOT POSTING CORRECTLY
-
-soup = BeautifulSoup(p.text, 'html.parser')
+soup = BeautifulSoup(page2.text, 'html.parser')
 head=soup.find("div",{'id':'my-profile'})
-print('profile:',head)
+print('profile:',head.find("h1"))
 
 
 #loading data into dataframe
@@ -195,4 +181,30 @@ testSesh=strava_login("https://www.strava.com/settings/profile",user, password)
 soup = BeautifulSoup(testSesh.text, 'html.parser')
 head=soup.find("div",{'id':'my-profile'})
 print('profile:',head)
+"""
+
+"""
+#REQUESTS METHOD
+ua = UserAgent()
+header = {'User-Agent':str(ua.chrome)}
+
+session = requests.Session()
+session.headers=header
+payload = {'action':'/session'}
+sec = session.get("https://www.strava.com/login")
+signin = BeautifulSoup(sec._content, 'html.parser')
+token=signin.find('input', {'name':'authenticity_token'})['value']
+
+
+#at this point need to figure out WHAT to put in this payload
+payload['authenticity_token'] = token
+# payload["#__VIEWSTATE"]=viewstate
+# payload["#__VIEWSTATEGENERATOR"]=viewstategenerator
+payload['email']=user
+payload['password']=password
+print('payload:',payload)
+s = session.post("https://www.strava.com/login", data=payload, verify=False)
+p= session.get("https://www.strava.com/settings/profile")
+#THIS IS NOT POSTING CORRECTLY
+
 """
