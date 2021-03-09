@@ -6,7 +6,7 @@ import urllib3
 import mechanize
 import http.cookiejar
 import time
-from fake_useragent import UserAgent
+
 import mechanicalsoup
 
 #GOING TO NEED TO BE LOGGED IN FOR THIS SCRAPE
@@ -33,6 +33,9 @@ page3=browser.get(testUrl)
 ## TOO MANY REQUESTS-- might need to try sleeping every 10?
 # Looks like it just locks me out of activities page-- maybe i should scrape activities & races at same time
 # That way, it breaks from 
+
+#REQUEST LIMIT IS 1000/dau
+# RANDOM SAMPLING?
 
 #Other work around-- once i hit 429 Error, change IP address?
 
