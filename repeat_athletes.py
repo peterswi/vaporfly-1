@@ -7,6 +7,7 @@ data = pd.read_csv("wmm_results.csv") #change to wmm_results.csv
 data=pd.DataFrame(data)
 #init count variable in df
 data['count']=0
+data['year']=0
 
 #init count dict
 count={}
@@ -24,9 +25,12 @@ for i in range(len(data['athlete_id'])):
     data['count'][i]=count[athlete]
     # data.at(i,'count')=count[athlete]
 
+    year=int(data['race_name'][i][:4])
+    data['year'][i]=year
+
 #this is now the dataset of repeat marathoners-- 
 repeat=data[data['count']>1]
 
-repeat.to_csv('csv/output.csv',index=False)
-repeat=pd.read_csv('csv/output.csv')
-print(repeat)
+
+repeat.to_csv('csv/repeatAthletes.csv',index=False)
+
