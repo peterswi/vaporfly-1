@@ -8,171 +8,161 @@ import http.cookiejar
 import time
 import sys
 import mechanicalsoup
+from passwords import user_pass
 
 #GOING TO NEED TO BE LOGGED IN FOR THIS SCRAPE
+def scrape_activities(username, password, inputCsv, outCsv):
+    tic=time.perf_counter()
+    # TRY THIS USING MULTIPLE ACCOUNTS / BROWSERS?
+    user=username
+    password=password
 
-tic=time.perf_counter()
-# TRY THIS USING MULTIPLE ACCOUNTS / BROWSERS?
-user='wpeters1998@gmail.com'
-password='fib1123581321'
-user1=sys.argv[1] #taking personal acocount and user info in via cli
-password1=sys.argv[2]
-print(user1,password1)
-
-#MECHANICAL SOUP-- Getting Close
-#Try this url: https://mechanicalsoup.readthedocs.io/en/stable/tutorial.html
-
-# Non-stateful browser-- quicker?
-browser = mechanicalsoup.Browser(soup_config={'features': 'lxml'}, user_agent='MyBot/0.1: mysite.example.com/bot_info')
-login_page = browser.get("https://strava.com/login")
-login_page.raise_for_status()
-login_form = mechanicalsoup.Form(login_page.soup.select_one('#login_form'))
-login_form.input({"email":user1, "password": password1})
-page2 = browser.submit(login_form, login_page.url)
+    print('Users and Pass:')
+    print(user,password)
 
 
-testUrl="https://www.strava.com/activities/2292639868/overview"
-page3=browser.get(testUrl)
-
-## TOO MANY REQUESTS-- might need to try sleeping every 10?
-# Looks like it just locks me out of activities page-- maybe i should scrape activities & races at same time
-# That way, it breaks from 
-
-#REQUEST LIMIT IS 1000/day, 100/15min
-# RANDOM SAMPLING?
-
-#Other work around-- once i hit 429 Error, change IP address?
+    #MECHANICAL SOUP-- 
+    #could do for loop and loop through 
+    browser = mechanicalsoup.Browser(soup_config={'features': 'lxml'}, user_agent='MyBot/0.1: mysite.example.com/bot_info')
+    login_page = browser.get("https://strava.com/login")
+    login_page.raise_for_status()
+    login_form = mechanicalsoup.Form(login_page.soup.select_one('#login_form'))
+    login_form.input({"email":user, "password": password})
 
 
-print('"""""')
-#loading data into dataframe-- NOW USING OUR SAMPLED DATASET
-data = pd.read_csv("csv/sampledData.csv") 
-
-#getting activities in a list
-activities= data['data-activity_id'].to_list()
-print('Num Activities to scrape:',len(activities[665:]))
-
-url = "https://strava.com/activities/{}"
+    #REQUEST LIMIT IS 1000/day, 100/15min
+    # RANDOM SAMPLING?
 
 
-with open("csv/sampledActivityData1.csv", 'a',newline='') as results_file:
-    strava_write=csv.writer(results_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        
-    #firstrow=['activity_id','shoes','device','suffer']
-    #strava_write.writerow(firstrow)
+    print('"""""')
+    #loading data into dataframe-- NOW USING OUR SAMPLED DATASET
+    data = pd.read_csv(inputCsv) 
 
-    count =0
-    for activity in activities[776:]:
-        
-        row=[]
-        row.append(activity)
-        #get our URL
-        activity_url=url.format(activity)+"/overview"
+    #getting activities in a list
+    activities= data['data-activity_id'].to_list()
+    
 
-        nav_page=browser.get(activity_url)
+    url = "https://strava.com/activities/{}"
 
-        
-        if (nav_page.status_code ==200): 
-            html_content = nav_page.text
 
-            soup = BeautifulSoup(html_content, "html.parser")
-            #GEt Shoes
-            gear=soup.find_all("span",{"class":"gear-name"})
-            if(len(gear)>0):
-                gear_entry=gear[0].text.strip('\n').strip().encode('utf-8')
-            else:
-                gear_entry=b'\xe2\x80\x94'
+    with open(outCsv, 'w',newline='') as results_file:
+        strava_write=csv.writer(results_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             
-            row.append(gear_entry)
-            #Get Device
-            gear2=soup.find("div",{"class":"device spans8"})
-            if(gear2):
-                device_entry=gear2.text.strip('\n').strip().encode('utf-8')
-            else:
-                device_entry=b'\xe2\x80\x94'
-            row.append(device_entry)
+        #firstrow=['activity_id','shoes','device','suffer']
+        #strava_write.writerow(firstrow)
 
-            #Get Suffer
-            suffer=soup.find("li",{"class":"suffer-score"})
+        count =0
+        for activity in activities:
             
-            if(suffer):
-                suffer=suffer.find('a')
-                suffer_entry=suffer.text.strip('\n').strip().encode('utf-8')
-            else:
-                suffer_entry=b'\xe2\x80\x94'
-            row.append(suffer_entry)
+            row=[]
+            row.append(activity)
+            #get our URL
+            activity_url=url.format(activity)+"/overview"
 
-            #write our row
-            strava_write.writerow(row)
-            if (count%100==1):
-                print('count: ',count)
-                print('gear: ',gear_entry)
-                print('device: ',device_entry)
-                print('suffer score: ',suffer_entry)
-
-            if ((count%100==0)and(count>0)):
-                print('""""""')
-                print('count: ',count)
-                print('sleeping for 15 min to avoid requests problem')
-                time.sleep(900)
-                print('awake!')
-                print('"""""')
-        else: 
-            #just doing the same thing, but after 15 minutes
-            print('""""""')
-            print('Error Code ',nav_page.status_code,'. Sleeping for 15 minutes, then trying again.')
-            time.sleep(900)
-            
-            #Send browser to page again
             nav_page=browser.get(activity_url)
-            print('Awake after error, new response:',nav_page.status_code)
-            print('""""""')
-            html_content = nav_page.text
+
             
-            soup = BeautifulSoup(html_content, "html.parser")
-            #GEt Shoes
-            gear=soup.find_all("span",{"class":"gear-name"})
-            if(len(gear)>0):
-                gear_entry=gear[0].text.strip('\n').strip().encode('utf-8')
-            else:
-                gear_entry=b'\xe2\x80\x94'
-            
-            row.append(gear_entry)
-            #Get Device
-            gear2=soup.find("div",{"class":"device spans8"})
-            if(gear2):
-                device_entry=gear2.text.strip('\n').strip().encode('utf-8')
-            else:
-                device_entry=b'\xe2\x80\x94'
-            row.append(device_entry)
+            if (nav_page.status_code ==200): 
+                html_content = nav_page.text
 
-            #Get Suffer
-            suffer=soup.find("li",{"class":"suffer-score"})
-            
-            if(suffer):
-                suffer=suffer.find('a')
-                suffer_entry=suffer.text.strip('\n').strip().encode('utf-8')
-            else:
-                suffer_entry=b'\xe2\x80\x94'
-            row.append(suffer_entry)
+                soup = BeautifulSoup(html_content, "html.parser")
+                #GEt Shoes
+                gear=soup.find_all("span",{"class":"gear-name"})
+                if(len(gear)>0):
+                    gear_entry=gear[0].text.strip('\n').strip().encode('utf-8')
+                else:
+                    gear_entry=b'\xe2\x80\x94'
+                
+                row.append(gear_entry)
+                #Get Device
+                gear2=soup.find("div",{"class":"device spans8"})
+                if(gear2):
+                    device_entry=gear2.text.strip('\n').strip().encode('utf-8')
+                else:
+                    device_entry=b'\xe2\x80\x94'
+                row.append(device_entry)
 
-            #write our row
-            strava_write.writerow(row)
-            if (count%100==1):
-                print('count: ',count)
-                print('gear: ',gear_entry)
-                print('device: ',device_entry)
-                print('suffer score: ',suffer_entry)
+                #Get Suffer
+                suffer=soup.find("li",{"class":"suffer-score"})
+                
+                if(suffer):
+                    suffer=suffer.find('a')
+                    suffer_entry=suffer.text.strip('\n').strip().encode('utf-8')
+                else:
+                    suffer_entry=b'\xe2\x80\x94'
+                row.append(suffer_entry)
 
-        count=count+1
+                #write our row
+                strava_write.writerow(row)
+                if (count%100==1):
+                    print('count: ',count)
+                    print('gear: ',gear_entry)
+                    print('device: ',device_entry)
+                    print('suffer score: ',suffer_entry)
+
+                if ((count%100==0)and(count>0)):
+                    print('""""""')
+                    print('count: ',count)
+                    print('sleeping for 15 min to avoid requests problem')
+                    time.sleep(900)
+                    print('awake!')
+                    print('"""""')
+            else: 
+                #just doing the same thing, but after 15 minutes
+                print('""""""')
+                print('Error Code ',nav_page.status_code,'. Sleeping for 15 minutes, then trying again.')
+                time.sleep(900)
+                
+                #Send browser to page again
+                nav_page=browser.get(activity_url)
+                print('Awake after error, new response:',nav_page.status_code)
+                print('""""""')
+                html_content = nav_page.text
+                
+                soup = BeautifulSoup(html_content, "html.parser")
+                #GEt Shoes
+                gear=soup.find_all("span",{"class":"gear-name"})
+                if(len(gear)>0):
+                    gear_entry=gear[0].text.strip('\n').strip().encode('utf-8')
+                else:
+                    gear_entry=b'\xe2\x80\x94'
+                
+                row.append(gear_entry)
+                #Get Device
+                gear2=soup.find("div",{"class":"device spans8"})
+                if(gear2):
+                    device_entry=gear2.text.strip('\n').strip().encode('utf-8')
+                else:
+                    device_entry=b'\xe2\x80\x94'
+                row.append(device_entry)
+
+                #Get Suffer
+                suffer=soup.find("li",{"class":"suffer-score"})
+                
+                if(suffer):
+                    suffer=suffer.find('a')
+                    suffer_entry=suffer.text.strip('\n').strip().encode('utf-8')
+                else:
+                    suffer_entry=b'\xe2\x80\x94'
+                row.append(suffer_entry)
+
+                #write our row
+                strava_write.writerow(row)
+                if (count%100==1):
+                    print('count: ',count)
+                    print('gear: ',gear_entry)
+                    print('device: ',device_entry)
+                    print('suffer score: ',suffer_entry)
+
+            count=count+1
 
 
-toc =time.perf_counter()
-duration = toc - tic
-print(f"Completed Execution in {duration:0.2f} seconds")
+    toc =time.perf_counter()
+    duration = toc - tic
+    print(f"Completed Execution in {duration:0.2f} seconds")
 
-
-
+#example program call
+scrape_activities(user_pass[0][0],user_pass[0][1],'csv/sampledData.csv','activityScrapeCsv/ouput1.csv')
 
 """
 
