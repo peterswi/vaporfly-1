@@ -6,7 +6,7 @@ import urllib3
 import mechanize
 import http.cookiejar
 import time
-
+import sys
 import mechanicalsoup
 
 #GOING TO NEED TO BE LOGGED IN FOR THIS SCRAPE
@@ -15,6 +15,9 @@ tic=time.perf_counter()
 # TRY THIS USING MULTIPLE ACCOUNTS / BROWSERS?
 user='wpeters1998@gmail.com'
 password='fib1123581321'
+user1=sys.argv[1] #taking personal acocount and user info in via cli
+password1=sys.argv[2]
+print(user1,password1)
 
 #MECHANICAL SOUP-- Getting Close
 #Try this url: https://mechanicalsoup.readthedocs.io/en/stable/tutorial.html
@@ -24,7 +27,7 @@ browser = mechanicalsoup.Browser(soup_config={'features': 'lxml'}, user_agent='M
 login_page = browser.get("https://strava.com/login")
 login_page.raise_for_status()
 login_form = mechanicalsoup.Form(login_page.soup.select_one('#login_form'))
-login_form.input({"email":user, "password": password})
+login_form.input({"email":user1, "password": password1})
 page2 = browser.submit(login_form, login_page.url)
 
 
@@ -47,19 +50,19 @@ data = pd.read_csv("csv/sampledData.csv")
 
 #getting activities in a list
 activities= data['data-activity_id'].to_list()
-print('Num Activities to scrape:',len(activities))
+print('Num Activities to scrape:',len(activities[665:]))
 
 url = "https://strava.com/activities/{}"
 
 
-with open("csv/sampled_activity_data.csv", 'w',newline='') as results_file:
+with open("csv/sampledActivityData1.csv", 'a',newline='') as results_file:
     strava_write=csv.writer(results_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         
-    firstrow=['activity_id','shoes','device','suffer']
-    strava_write.writerow(firstrow)
+    #firstrow=['activity_id','shoes','device','suffer']
+    #strava_write.writerow(firstrow)
 
     count =0
-    for activity in activities[665:]:
+    for activity in activities[776:]:
         
         row=[]
         row.append(activity)
