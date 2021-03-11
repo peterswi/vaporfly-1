@@ -1,0 +1,452 @@
+Rank,Name,Gender,Age,Finish,Pace,Strava Activity,data-activity_id,athlete_id,race_name,count,year
+b'1186',b'Matthias L.',b'M',b'45-54',b'3:35:31',b'5:06/km',b'Berlin Marathon 2015 - 5. Teilnahme',1052659650,4533581,2015-Berlin-Marathon,2,2015
+b'1572',b'Jo\xc3\xa3o Paulo F.',b'M',b'35-44',b'3:15:31',b'4:38/km',b'Corrida matinal',1666007311,24230352,2018-Virgin-Money-London-Marathon,3,2018
+b'1225',b'Mindy M.',b'F',b'35-44',b'3:34:12',b'5:05/km',b'Chicago 2016 3:34:10 PR!!',739742222,6097963,2016-Chicago-Marathon,2,2016
+b'296',b'Micha\xc5\x82 Le\xc5\x9bniak',b'M',b'25-34',b'2:39:32',b'3:47/km',b'London Marathon Super Happy PB by 2min!',2326841948,3772829,2019-Virgin-Money-London-Marathon,2,2019
+b'223',b'Rich C.',b'M',b'35-44',b'2:52:33',b'4:05/km',b'Morning Run',549394289,9213258,2016-Boston-Marathon,3,2016
+b'1238',b'Patrick Pezzati',b'M',b'55-64',b'3:23:26',b'4:49/km',b'2015 Boston Marathon',289236555,2829147,2015-Boston-Marathon,3,2015
+b'914',b'Tom Frantz',b'M',b'25-34',b'2:53:33',b'4:07/km',b'Tough last 6 but I\xe2\x80\x99m just glad to be here...',2292546299,25694900,2019-Boston-Marathon,3,2019
+b'233',b'Hans Chr Aarnes',b'M',b'',b'2:45:05',b'3:55/km',b'New York Marathon 2.44.58',2838932874,2220580,2019-TCS-New-York-City-Marathon,6,2019
+b'214',b'Garrett \xf0\x9f\x8d\x94.',b'M',b'25-34',b'2:47:54',b'3:59/km',b'Morning Run',1946595254,10860860,2018-TCS-New-York-City-Marathon,6,2018
+b'131',b'Anthony Quinn',b'M',b'45-54',b'2:46:42',b'3:57/km',b'Morning Run',1262963266,5232261,2017-TCS-New-York-City-Marathon,5,2017
+b'861',b'Mark S.',b'M',b'55-64',b'3:02:55',b'4:20/km',b'London Marathon VLM2018\xf0\x9f\x8c\xa1\xef\xb8\x8f\xf0\x9f\x8c\x9e',1524578347,4003689,2018-Virgin-Money-London-Marathon,4,2018
+b'234',b'PK Houle',b'M',b'25-34',b'2:45:07',b'3:55/km',b'NYC Marathon; 2:45:04',2839150434,24639829,2019-TCS-New-York-City-Marathon,2,2019
+b'1187',b'Sam Relano',b'M',b'75+',b'3:16:50',b'4:40/km',b'The Boston Marathon',549646760,7275456,2016-Boston-Marathon,3,2016
+b'355',b'Larry Neumann',b'M',b'55-64',b'3:04:23',b'4:22/km',b'04/21/2014 Boston Marathon',132749127,2252672,2014-Boston-Marathon,2,2014
+b'1398',b'Ian Young',b'M',b'35-44',b'3:44:17',b'5:19/km',b'Berlin Marathon',405629395,3256094,2015-Berlin-Marathon,2,2015
+b'21',b'Kristian Ulriksen',b'M',b'25-34',b'2:27:30',b'3:30/km',b'Berlin Marathon - 2.27.30!! PB with 12.37!',401198758,2578098,2015-Berlin-Marathon,5,2015
+b'316',b'Mike T.',b'M',b'45-54',b'2:47:42',b'3:58/km',"b'Berlin Marathon 2018, 2.47.42, 24 second PB'",1845540966,5427754,2018-BMW-Berlin-Marathon,3,2018
+b'102',b'Espen Waage Skjeflo',b'M',b'25-34',b'2:35:39',b'3:41/km',"b'Berlin Marathon (og tydeligvis litt til),...'",1199220015,10028711,2017-BMW-Berlin-Marathon,2,2017
+b'698',b'Eric Johnson',b'M',b'45-54',b'3:05:15',b'4:23/km',"b'04/20/2015 Hopkinton, Massachusetts'",289530279,3170639,2015-Boston-Marathon,3,2015
+b'1131',b'Russell \xe2\x9a\xbd Dawson',b'M',b'45-54',b'3:19:33',b'4:44/km',b'119th Boston Marathon',290203760,4579013,2015-Boston-Marathon,3,2015
+b'175',b'Rob Welling',b'M',b'25-34',b'3:08:59',b'4:29/km',"b'10/12/2014 Chicago, Illinois'",206610835,2104594,2014-Chicago-Marathon,4,2014
+b'409',b'Andrew Hadro',b'M',b'35-44',b'2:57:37',b'4:13/km',b'2015 Boston Marathon',542499483,14496794,2015-Boston-Marathon,4,2015
+b'1573',b'Kristian Cecil',b'M',b'25-34',b'3:13:58',b'4:36/km',b'Berlin Marathon. Nr 115 i alt og 70 i sub...',1845406527,27480252,2018-BMW-Berlin-Marathon,2,2018
+b'309',b'Ralph D.',b'M',b'35-44',b'3:23:45',b'4:50/km',"b'11/02/2014 Staten Island, New York'",216223455,3510841,2014-New-York-City-Marathon,2,2014
+b'259',b'Steven Waldon',b'M',b'35-44',b'2:59:23',b'4:15/km',b'2014 Boston Marathon',176475080,4998431,2014-Boston-Marathon,7,2014
+b'955',b'Matt Boyd',b'M',b'45-54',b'2:54:04',b'4:08/km',b'Boston Marathon',2292177713,26783417,2019-Boston-Marathon,3,2019
+b'802',b'Javier G.',b'M',b'45-54',b'3:22:04',b'4:47/km',b'158. Chicago Marathon 2016. All Majors done!',739696319,1626301,2016-Chicago-Marathon,6,2016
+b'141',b'brian schroy',b'M',b'25-34',b'2:44:04',b'3:53/km',b'Boston Marathon',1523394472,428821,2018-Boston-Marathon,4,2018
+b'329',b'Brian P.',b'M',b'',b'2:56:25',b'4:11/km',b'2016 Boston Marathon',549542051,7846401,2016-Boston-Marathon,3,2016
+b'1658',b'Shari C.',b'F',b'45-54',b'3:27:47',b'4:55/km',b'Morning Run',1285328702,3420146,2017-TCS-New-York-City-Marathon,2,2017
+b'75',b'Karl W.',b'M',b'35-44',b'2:29:57',b'3:33/km',b'TMR SLR - LONDON MARATHON (aka TMR Marath...',2325223550,591185,2019-Virgin-Money-London-Marathon,2,2019
+b'261',b'Peter B.',b'M',b'35-44',b'2:53:03',b'4:06/km',b'Boston Marathon 2015',290303614,3304210,2015-Boston-Marathon,4,2015
+b'820',b'Cornel N.',b'M',b'45-54',b'3:37:02',b'5:09/km',b'New York Marathon',424791865,5912742,2015-New-York-City-Marathon,3,2015
+b'574',b'Thomas Shanabruch',b'M',b'35-44',b'2:48:29',b'4:00/km',b'Boston Marathon. Tons of fun today. So th...',2292334607,20052071,2019-Boston-Marathon,5,2019
+b'9',b'Alex Milne',b'M',b'25-34',b'2:28:24',b'3:31/km',b'VLM - 2:28:24 for 34th overall. Horrible ...',1524635030,1262861,2018-Virgin-Money-London-Marathon,2,2018
+b'241',b'Alexey M.',b'M',b'',b'3:19:09',b'4:43/km',b'Tokyo Marathon 2017',879861977,2938077,2017-Tokyo-Marathon,4,2017
+b'1502',b'Yasu T.',b'M',b'45-54',b'3:09:08',b'4:29/km',b'NYC marathon 2019',2839029259,4317786,2019-TCS-New-York-City-Marathon,4,2019
+b'1274',b'Kenny Patt',b'M',b'25-34',b'3:35:23',b'5:06/km',b'2016 Chicago Marathon - Marathon PR!!',739687836,11347114,2016-Chicago-Marathon,2,2016
+b'1996',b'Marc De Leeuw',b'M',b'45-54',b'3:08:05',b'4:27/km',b'Berlin marathon. Official time 3:08:05',2749321883,19634817,2019-BMW-Berlin-Marathon,2,2019
+b'314',b'P\xc3\xa5l Skyrud',b'M',b'',b'3:27:19',b'4:55/km',b'Tokyo marathon',880265238,14851094,2017-Tokyo-Marathon,2,2017
+b'806',b'John Kane',b'M',b'45-54',b'2:56:17',b'4:11/km',"b'Chicago marathon massive Pb, so happy, an...'",2786183385,12586577,2019-Chicago-Marathon,2,2019
+b'504',b'Robert Knight',b'M',b'25-34',b'2:44:15',b'3:54/km',b'London Marathon 2019 (2:44:15)',2325322292,15751587,2019-Virgin-Money-London-Marathon,4,2019
+b'659',b'J Lopez',b'M',b'35-44',b'3:16:15',b'4:39/km',b'Morning Run',765251442,10251176,2016-Chicago-Marathon,2,2016
+b'963',b'Muhammad Abdullah Indra C Uno',b'M',b'45-54',b'4:34:10',b'6:30/km',"b'10/12/2014 Chicago, Illinois'",209553405,3569099,2014-Chicago-Marathon,2,2014
+b'219',b'Matthew K.',b'M',b'45-54',b'2:47:27',b'3:58/km',"b'A hot, horrible London Marathon. 2:47:27 ...'",1524522693,2540596,2018-Virgin-Money-London-Marathon,3,2018
+b'53',b'Yean Jimenez',b'M',b'35-44',b'2:41:02',b'3:49/km',b'Morning Run',1263039116,13292549,2017-TCS-New-York-City-Marathon,2,2017
+b'176',b'Tony Collie',b'M',b'45-54',b'3:08:25',b'4:28/km',"b'28/09/14 Berlin, Berlin, Germany'",200905606,1561767,2014-Berlin-Marathon,3,2014
+b'1235',b'Rob Rivera',b'M',b'35-44',b'3:05:08',b'4:23/km',b'NYC Marathon',2839387529,14836008,2019-TCS-New-York-City-Marathon,3,2019
+b'927',b'John M.',b'M',b'35-44',b'3:06:51',b'4:26/km',b'New York Marathon',1946346593,17511650,2018-TCS-New-York-City-Marathon,2,2018
+b'939',b'Ed C.',b'M',b'65-69',b'3:57:10',b'5:37/km',b'NYC Marathon',214946199,3435682,2014-New-York-City-Marathon,3,2014
+b'221',b'Michael Zelwin',b'M',b'25-34',b'2:41:42',b'3:50/km',b'2019 Chicago Marathon - Nearly 7 minute PR',2786054756,21474571,2019-Chicago-Marathon,3,2019
+b'895',b'Cory Sinotte',b'M',b'25-34',b'2:59:09',b'4:15/km',b'Morning Run',1564769620,24906437,2018-Boston-Marathon,2,2018
+b'48',b'Chai E.',b'M',b'45-54',b'2:41:43',b'3:50/km',b'2014 Boston Marathon',132765930,384435,2014-Boston-Marathon,9,2014
+b'1640',b'Darko Cviji\xc4\x87',b'M',b'35-44',b'3:14:49',b'4:37/km',b'Morning Run',1845775475,20719041,2018-BMW-Berlin-Marathon,2,2018
+b'264',b'Nico N.',b'M',b'35-44',b'2:59:13',b'4:15/km',b'Chi Marathon',739719405,17729613,2016-Chicago-Marathon,4,2016
+b'22',b'Nick Roch\xc3\xa9',b'M',b'25-34',b'2:25:39',b'3:27/km',b'Live to fight another day... 2 min PB. Go...',1844890188,12560804,2018-BMW-Berlin-Marathon,3,2018
+b'1148',b'Carl C.',b'M',b'45-54',b'3:32:16',b'5:02/km',b'Chicago Marathon',739790098,16008959,2016-Chicago-Marathon,2,2016
+b'1498',b'Jo\xc3\xa3o Paulo F.',b'M',b'35-44',b'3:12:59',b'4:34/km',b'Corrida matinal',1846421228,24230352,2018-BMW-Berlin-Marathon,3,2018
+b'48',b'Sean Watson',b'M',b'35-44',b'2:32:27',b'3:37/km',b'Chipless Chi Marathon for a workout. Watc...',1890326393,9626533,2018-Chicago-Marathon,3,2018
+b'346',b'Karl Fitzgerald',b'',b'',b'2:46:35',b'3:57/km',b'Marathon PB\xf0\x9f\x98\x8aalthough a little frustrated ...',2786090511,14115807,2019-Chicago-Marathon,4,2019
+b'645',b'Jana Trenk',b'F',b'25-34',b'2:59:48',b'4:16/km',b'2018 NYC Marathon 2:59:48',1946189582,7390620,2018-TCS-New-York-City-Marathon,3,2018
+b'1290',b'Moritz Sch\xc3\xa4fer',b'M',b'35-44',b'3:13:17',b'4:35/km',b'Berlin Marathon 2017',1199607797,17528312,2017-BMW-Berlin-Marathon,2,2017
+b'393',b'Neil Trott',b'M',b'',b'2:55:39',b'4:10/km',"b'04/26/2015 London, United Kingdom'",294311367,7152268,2015-London-Marathon,4,2015
+b'38',b'Andy Grant',b'M',b'45-54',b'2:33:39',b'3:38/km',"b'04/26/2015 London, United Kingdom'",293140941,4186823,2015-London-Marathon,2,2015
+b'579',b'Anthony P.',b'M',b'25-34',b'2:58:41',b'4:14/km',b'Boston Marathon 2017. A hot and painful o...',946501682,4763769,2017-Boston-Marathon,2,2017
+b'1229',b'Mike S.',b'M',b'35-44',b'3:08:57',b'4:29/km',b'Berlin Marathon - on course for PB for mo...',1845148226,14850708,2018-BMW-Berlin-Marathon,3,2018
+b'1832',b'Cesar T.',b'M',b'35-44',b'3:30:14',b'4:59/km',b'My 1st NYC Marathon',1263297498,5290430,2017-TCS-New-York-City-Marathon,2,2017
+b'1927',b'Paula R.',b'F',b'45-54',b'3:31:55',b'5:01/km',b'Maratona de Boston 2016. A melhor e a pio...',550130588,3229458,2016-Boston-Marathon,2,2016
+b'1291',b'Trey Parker',b'M',b'45-54',b'3:14:00',b'4:36/km',b'NYC Marathon',1946420800,23148066,2018-TCS-New-York-City-Marathon,2,2018
+b'236',b'Manuela K.',b'F',b'45-54',b'3:18:45',b'4:43/km',"b'11/02/2014 Staten Island, New York'",215196378,784958,2014-New-York-City-Marathon,2,2014
+b'187',b'Patrick Lambe',b'M',b'35-44',b'2:49:35',b'4:01/km',b'Boston marathon',289478528,3844119,2015-Boston-Marathon,4,2015
+b'102',b'Steve Ban',b'M',b'',b'2:59:20',b'4:15/km',"b'10/12/2014 Chicago, Illinois'",206730229,3887390,2014-Chicago-Marathon,3,2014
+b'876',b'Michael Earley',b'M',b'',b'2:58:53',b'4:14/km',b'London Marathon 2016',555826508,272922,2016-London-Marathon,2,2016
+b'654',b'richard paulius',b'M',b'25-34',b'3:16:03',b'4:39/km',b'C H I C A G O  -  3 : 1 6 : 0 3',739652499,4574402,2016-Chicago-Marathon,3,2016
+b'49',b'Anthony Clark',b'M',b'35-44',b'2:32:25',b'3:37/km',b'London Marathon - decent day at the office',555525184,3656134,2016-London-Marathon,4,2016
+b'78',b'Chris Richardson',b'M',b'25-34',b'2:39:17',b'3:46/km',b'London Marathon - 138th',1524503389,3536115,2018-Virgin-Money-London-Marathon,4,2018
+b'927',b'Tommy Mazza',b'M',b'20-24',b'2:59:29',b'4:15/km',b'Morning Run',1718805524,26743105,2018-Boston-Marathon,2,2018
+b'153',b'Hiro Aono',b'M',b'35-44',b'2:39:43',b'3:47/km',b'BMW Berlin Marathon 2018 (2:39:43 - PR) F...',1845563223,654075,2018-BMW-Berlin-Marathon,5,2018
+b'330',b'Robert Dunn',b'M',b'35-44',b'2:40:20',b'3:48/km',b'London Marathon 2019. New PB :-)',2325450919,8551482,2019-Virgin-Money-London-Marathon,2,2019
+b'310',b'Richard Wing',b'M',b'25-34',b'2:49:38',b'4:01/km',b'Morning Run',1512262529,16818224,2018-Boston-Marathon,2,2018
+b'157',b'Bjorn Smeets',b'M',b'35-44',b'2:39:48',b'3:47/km',b'Berlin marathon',1845018245,3743684,2018-BMW-Berlin-Marathon,2,2018
+b'1374',b'Justin Gilmore',b'M',b'45-54',b'2:58:04',b'4:13/km',b'Finally a sub 3 at London \xf0\x9f\x8e\x89',2325498290,17021390,2019-Virgin-Money-London-Marathon,2,2019
+b'676',b'Scott M.',b'M',b'',b'2:54:19',b'4:08/km',b'Chicago Marathon',2786131026,13071564,2019-Chicago-Marathon,3,2019
+b'391',b'Jan V.',b'M',b'45-54',b'2:54:07',b'4:08/km',b'Feelin\xe2\x80\x99 King of NY : Not the chrono I Hop...',1946453009,13720119,2018-TCS-New-York-City-Marathon,2,2018
+b'992',b'Carlos Ruiz Rodr\xc3\xadguez',b'M',b'',b'3:08:19',b'4:28/km',b'Marat\xc3\xb3n de New York 2018',1946609798,17311290,2018-TCS-New-York-City-Marathon,2,2018
+b'1003',b'Tim Borbely',b'M',b'45-54',b'4:40:54',b'6:39/km',b'Chicago Marathon 2014',207745395,1508285,2014-Chicago-Marathon,2,2014
+b'901',b'Daniel Vanier',b'M',b'',b'3:11:32',b'4:32/km',b'Course \xc3\xa0 pied matinale',401211596,11523634,2015-Boston-Marathon,2,2015
+b'644',b'Doug P.',b'M',b'35-44',b'3:15:31',b'4:38/km',b'Chicago marathon',739585000,9959157,2016-Chicago-Marathon,4,2016
+b'1038',b'Jimmy Schwartz',b'M',b'35-44',b'2:55:01',b'4:09/km',b'2019 Boston Marathon',2292136654,8038443,2019-Boston-Marathon,2,2019
+b'584',b'Taisuk Kim',b'M',b'25-34',b'2:59:05',b'4:15/km',"b'New York City Marathon, My First Major!'",1946253380,17584392,2018-TCS-New-York-City-Marathon,2,2018
+b'1186',b'Skeleton B.',b'M',b'45-54',b'3:08:58',b'4:29/km',b'London Marathon 2018',1527158025,7881681,2018-Virgin-Money-London-Marathon,2,2018
+b'1959',b'Tyler L.',b'M',b'35-44',b'3:03:58',b'4:22/km',b'123rd Boston Marathon',2292281171,595261,2019-Boston-Marathon,2,2019
+b'85',b'Adam G.',b'M',b'35-44',b'2:43:07',b'3:52/km',b'2015 Boston Marathon',289918388,1635,2015-Boston-Marathon,5,2015
+b'744',b'Brian S.',b'M',b'35-44',b'2:57:24',b'4:12/km',b'Morning Run',1512586945,15143761,2018-Boston-Marathon,3,2018
+b'849',b'Toby C.',b'M',b'45-54',b'3:02:40',b'4:20/km',b'Morning Run',1524620526,7727630,2018-Virgin-Money-London-Marathon,3,2018
+b'387',b'Andrew A.',b'M',b'',b'2:51:46',b'4:04/km',b'Boston Marathon',1512594099,5019745,2018-Boston-Marathon,4,2018
+b'633',b'Christopher V.',b'M',b'25-34',b'3:05:14',b'4:23/km',b'Morning Run',1263151054,2305476,2017-TCS-New-York-City-Marathon,4,2017
+b'6',b'Rafael Oliveira',b'M',b'35-44',b'2:31:52',b'3:36/km',b'Berlin Marathon 2014',201206541,1092401,2014-Berlin-Marathon,7,2014
+b'815',b'chris rosol',b'M',b'45-54',b'3:22:48',b'4:48/km',b'Chicago Running',906963524,119048,2016-Chicago-Marathon,2,2016
+b'290',b'Bo Brewer',b'M',b'25-34',b'2:47:12',b'3:58/km',b'49th New York City Marathon',2838915235,13745882,2019-TCS-New-York-City-Marathon,2,2019
+b'1994',b'Shicheng X.',b'M',b'25-34',b'3:04:16',b'4:22/km',b'Morning Run',2292113557,24377919,2019-Boston-Marathon,2,2019
+b'523',b'Henry Morrison',b'M',b'35-44',b'2:58:00',b'4:13/km',b'Morning Run',1946430280,17983276,2018-TCS-New-York-City-Marathon,2,2018
+b'696',"b""Da'Rel Patterson""",b'M',b'35-44',b'3:09:25',b'4:29/km',b'Morning Run',1221266250,10737598,2017-Chicago-Marathon,2,2017
+b'1393',b'Freddy Ketchum',b'M',b'25-34',b'3:07:35',b'4:27/km',b'NYC Marathon 2019 \xf0\x9f\x8d\x8e\xf0\x9f\x97\xbd\xf0\x9f\x8c\x89',2838785416,16953291,2019-TCS-New-York-City-Marathon,2,2019
+b'1803',b'Salman Shariat',b'M',b'25-34',b'3:13:30',b'4:35/km',b'NYC marathon. Perfect weather!',2838804289,9975534,2019-TCS-New-York-City-Marathon,2,2019
+b'1935',b'Erin Fredrickson',b'F',b'25-34',b'3:21:29',b'4:47/km',b'Found my wall at mile 24! \xf0\x9f\x92\x99\xf0\x9f\x8f\x83\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x92\x9b',946625806,14791298,2017-Boston-Marathon,3,2017
+b'375',b'Rob Magliaro',b'M',b'',b'2:42:49',b'3:52/km',b'Berlin Marathon',2748962274,16702592,2019-BMW-Berlin-Marathon,6,2019
+b'716',b'Aaron Reed',b'M',b'45-54',b'2:54:50',b'4:09/km',b'Morning Run',2786137278,18186218,2019-Chicago-Marathon,2,2019
+b'1659',b'Tatyana S.',b'F',b'',b'3:08:13',b'4:28/km',b'Thank you Chicago!!! Official time: 3:08:11',2786141226,3444575,2019-Chicago-Marathon,3,2019
+b'948',b'Jamie Phelps',b'M',b'35-44',b'2:53:59',b'4:07/km',b'Well... it was Boston baby!',2292319224,549746,2019-Boston-Marathon,3,2019
+b'518',b'Kevin K.',b'M',b'45-54',b'3:14:34',b'4:37/km',b'Morning Run',987542138,1658955,2014-Boston-Marathon,3,2014
+b'776',b'Delai Z.',b'M',b'45-54',b'2:57:38',b'4:13/km',b'Boston Marathon',1513054296,16205786,2018-Boston-Marathon,2,2018
+b'943',b'Steve B.',b'M',b'45-54',b'4:30:15',b'6:24/km',b'Morning Run',206562139,2188147,2014-Chicago-Marathon,3,2014
+b'901',b'Luis Baon',b'M',b'35-44',b'2:54:12',b'4:08/km',b'Carrera de ma\xc3\xb1ana',2750088655,6390058,2019-BMW-Berlin-Marathon,2,2019
+b'223',b'Xiang F.',b'M',b'',b'3:04:39',b'4:23/km',b'Morning Run',411260346,307597,2015-Chicago-Marathon,3,2015
+b'1338',b'Rich Hynes',b'M',b'',b'2:57:43',b'4:13/km',b'VLM 2019. Course PB/Not overall PB',2325491405,5898670,2019-Virgin-Money-London-Marathon,2,2019
+b'214',b'Jonathan K.',b'M',b'35-44',b'2:47:06',b'3:58/km',b'Boston Marathon. Left leg quad + hip flex...',946767554,2084847,2017-Boston-Marathon,2,2017
+b'324',b'Jean-Luc Lagoutte',b'M',b'45-54',b'3:12:37',b'4:34/km',b'Marathon de Chicago 2015',411277220,4063905,2015-Chicago-Marathon,3,2015
+b'956',b'Vincenzo \xe2\x99\x92.',b'M',b'',b'2:59:43',b'4:16/km',b'Y donde esta Vicente? \xf0\x9f\x8e\xb5',1512411029,23235410,2018-Boston-Marathon,2,2018
+b'309',b'David Y.',b'M',b'45-54',b'2:57:16',b'4:12/km',b'2017 Chicago Marathon',1221260348,319017,2017-Chicago-Marathon,2,2017
+b'1175',b'Joel Martindale',b'M',b'',b'2:56:36',b'4:11/km',b'Boston Marathon',2292242627,13395669,2019-Boston-Marathon,6,2019
+b'531',b'Stephanie L.',b'F',b'45-54',b'3:30:31',b'4:59/km',b'\xe6\x9d\xb1\xe4\xba\xac \xe3\x83\x9e\xe3\x83\xa9\xe3\x82\xbd\xe3\x83\xb3',1424618783,6439991,2018-Tokyo-Marathon,3,2018
+b'390',b'Marc Paulhamus',b'M',b'',b'2:51:53',b'4:04/km',"b'Boston Marathon - Wet, Windy, Cold'",1519460562,6117177,2018-Boston-Marathon,2,2018
+b'1358',b'Monica Zaremba',b'F',b'35-44',b'3:27:44',b'4:55/km',"b'04/20/2015 Boston,  baby!'",290070521,6382423,2015-Boston-Marathon,2,2015
+b'260',b'Rob Daly',b'M',b'35-44',b'2:50:55',b'4:03/km',b'Virgin London Marathon 2015 - missed targ...',293241403,1742405,2015-London-Marathon,3,2015
+b'324',b'Russell Greenwald',b'M',b'35-44',b'2:54:50',b'4:09/km',"b'04/20/2015 Hopkinton, Massachusetts'",290114684,3168311,2015-Boston-Marathon,5,2015
+b'1301',b'Kevin Willsher',b'M',b'35-44',b'2:57:25',b'4:12/km',b'VLM 2019 - 2:57:35',2325332897,10738154,2019-Virgin-Money-London-Marathon,2,2019
+b'1351',b'Thomas Petersen',b'M',b'35-44',b'2:58:14',b'4:13/km',b'Boston Marathon 2019 \xf0\x9f\x87\xba\xf0\x9f\x87\xb8\xf0\x9f\x8f\x83\xf0\x9f\x8f\xbb\xe2\x80\x8d\xe2\x99\x82\xef\xb8\x8f',2292405800,27111112,2019-Boston-Marathon,2,2019
+b'1171',b'Florian J. Kraemer',b'M',b'35-44',b'3:10:26',b'4:31/km',b'44. Berlin Marathon',1199008214,9090798,2017-BMW-Berlin-Marathon,3,2017
+b'87',b'John Ihor Campagna',b'M',b'25-34',b'2:37:31',b'3:44/km',b'NYC Marathon',2838985904,26365066,2019-TCS-New-York-City-Marathon,2,2019
+b'1376',b'Mattias Bryneson',b'M',b'45-54',b'3:43:13',b'5:17/km',b'Berlin marathon 2015',401429192,5948298,2015-Berlin-Marathon,2,2015
+b'451',b'kothandapani kc',b'M',b'55-64',b'3:41:42',b'5:15/km',b'Morning Run',879953784,19671867,2017-Tokyo-Marathon,2,2017
+b'306',b'Dan Larson',b'M',b'45-54',b'3:08:21',b'4:28/km',b'Morning Run',425093821,821979,2015-New-York-City-Marathon,2,2015
+b'653',b'Pavel Grozny',b'M',b'25-34',b'3:48:19',b'5:25/km',"b'09/28/2014 Berlin, Berlin, Germany'",203956138,5552398,2014-Berlin-Marathon,2,2014
+b'200',b'George Dzhgarkava',b'M',b'25-34',b'2:41:52',b'3:50/km',b'BMW Berlin Marathon 2018',1845494006,29018943,2018-BMW-Berlin-Marathon,4,2018
+b'1598',b'Matt Collins',b'M',b'25-34',b'3:10:41',b'4:31/km',b'Morning Run',2838964968,15819069,2019-TCS-New-York-City-Marathon,6,2019
+b'1811',b'Borja Basagoiti',b'M',b'35-44',b'3:22:41',b'4:48/km',b'Carrera de ma\xc3\xb1ana',1199800640,6470778,2017-BMW-Berlin-Marathon,3,2017
+b'1045',b'Andrea C.',b'M',b'35-44',b'3:02:20',b'4:19/km',b'London Marathon',555466375,12353071,2016-London-Marathon,4,2016
+b'484',b'Anthony Moore',b'M',b'',b'2:59:19',b'4:15/km',"b'04/20/2015 Hopkinton, Massachusetts'",289435121,6820343,2015-Boston-Marathon,3,2015
+b'565',b'Bruno Dedieu',b'M',b'45-54',b'2:57:50',b'4:13/km',b'Chicago Marathon',1890424135,9186096,2018-Chicago-Marathon,3,2018
+b'239',b'Robin P.',b'M',b'45-54',b'2:49:44',b'4:01/km',"b'04/26/2015 London, United Kingdom'",293040460,139061,2015-London-Marathon,2,2015
+b'44',b'Brock Butler',b'M',b'35-44',b'2:25:45',b'3:27/km',b'Berlin Marathon',2748799819,713415,2019-BMW-Berlin-Marathon,2,2019
+b'1090',b'Trevor K.',b'M',b'35-44',b'2:54:51',b'4:09/km',b'VLM2019 - 2.54.51',2325325533,554393,2019-Virgin-Money-London-Marathon,2,2019
+b'1822',b'Ryan T.',b'M',b'35-44',b'3:13:44',b'4:35/km',"b'Watch went black at mile 25, so everythin...'",2838938931,37657817,2019-TCS-New-York-City-Marathon,2,2019
+b'1605',b'Annabel Litchfield',b'F',b'25-34',b'3:16:04',b'4:39/km',b'London Marathon 2018 - 163rd Female - no ...',1525442913,5910927,2018-Virgin-Money-London-Marathon,2,2018
+b'1317',b'Ben C.',b'M',b'',b'3:11:50',b'4:33/km',b'Boston marathon',946519323,9276055,2017-Boston-Marathon,2,2017
+b'443',b'Lyonel Varain',b'M',b'45-54',b'3:31:39',b'5:01/km',"b'11/02/2014 Staten Island, New York'",215845603,6062144,2014-New-York-City-Marathon,3,2014
+b'1220',b'\xc3\x8fve Bastrash',b'M',b'',b'3:10:45',b'4:31/km',b'Chicago Marathon!',1890483889,22472292,2018-Chicago-Marathon,2,2018
+b'914',b'Young C.',b'M',b'35-44',b'3:40:52',b'5:14/km',b'NYC Marathon',424718575,7617285,2015-New-York-City-Marathon,6,2015
+b'1953',b'Reynolds W.',b'M',b'',b'3:21:43',b'4:47/km',b'Boston Marathon',948278279,20028750,2017-Boston-Marathon,2,2017
+b'218',b'Brayton Osgood',b'M',b'35-44',b'2:57:12',b'4:12/km',b'Boston - 2014',133143169,7544,2014-Boston-Marathon,2,2014
+b'1045',b'Cesare Rotundo',b'M',b'55-64',b'3:17:01',b'4:40/km',"b'My 2nd Boston - I gave it all I had, cold...'",289326402,310881,2015-Boston-Marathon,4,2015
+b'457',b'Martin R.',b'M',b'35-44',b'2:56:03',b'4:10/km',b'2017 Boston Marathon',946491202,2405592,2017-Boston-Marathon,4,2017
+b'406',b'Leonardo J.',b'M',b'',b'2:59:40',b'4:15/km',b'Morning Run',1221241611,19164164,2017-Chicago-Marathon,3,2017
+b'268',b'Jin Zhu',b'',b'',b'3:22:10',b'4:47/km',b'Morning Run',879845958,12918267,2017-Tokyo-Marathon,3,2017
+b'1413',b'James Ellis',b'M',b'35-44',b'3:12:58',b'4:34/km',b'Morning Run',1524722378,16504238,2018-Virgin-Money-London-Marathon,2,2018
+b'485',b'Phillip S. M.',b'M',b'35-44',b'3:09:24',b'4:29/km',b'Chicago Marathon',739836371,3940376,2016-Chicago-Marathon,3,2016
+b'501',b'Benn T.',b'M',b'35-44',b'2:53:21',b'4:06/km',b'London Marathon 2016...spot the wall.',555788378,1674305,2016-London-Marathon,7,2016
+b'1140',b'Annabelle Winters',b'F',b'35-44',b'3:19:55',b'4:44/km',"b'04/20/2015 Hopkinton, Massachusetts'",290071216,6424671,2015-Boston-Marathon,2,2015
+b'1406',b'Koji Kawano',b'M',b'55-64',b'3:21:21',b'4:46/km',b'Boston Marathon 2016',549546232,1191434,2016-Boston-Marathon,2,2016
+b'784',b'David Lynn',b'M',b'55-64',b'3:09:42',b'4:30/km',b'Morning Run',1263020245,15833801,2017-TCS-New-York-City-Marathon,4,2017
+b'13',b'Tony Payne',b'M',b'25-34',b'2:19:39',b'3:19/km',b'BERLIN MARATHON 2:19:39',1198901827,6563413,2017-BMW-Berlin-Marathon,2,2017
+b'918',b'Tommaso D.',b'M',b'35-44',b'3:13:20',b'4:35/km',b'2017 NYC Marathon - Personal Best!',1262984442,1323107,2017-TCS-New-York-City-Marathon,2,2017
+b'413',b'James Wright',b'M',b'',b'2:53:50',b'4:07/km',b'Morning Run',1524676017,5422190,2018-Virgin-Money-London-Marathon,5,2018
+b'166',b'Michael Herrera',b'M',b'25-34',b'2:50:39',b'4:03/km',b'Boston Marathon - Beers with JuiceBox Ultra',549366665,7423195,2016-Boston-Marathon,5,2016
+b'369',b'Sebastiaan B.',b'M',b'35-44',b'3:27:27',b'4:55/km',b'New York Marathon 2014',240578627,2568120,2014-New-York-City-Marathon,3,2014
+b'423',b'Diego Monton',b'M',b'45-54',b'2:58:41',b'4:14/km',b'Carrera a la hora del almuerzo',553350459,11674708,2016-Boston-Marathon,2,2016
+b'1949',b'marc dumbell',b'M',b'45-54',b'3:21:45',b'4:47/km',b'London Marathon 2018',1525452984,7556711,2018-Virgin-Money-London-Marathon,2,2018
+b'680',b'\xe3\x81\x91\xe3\x81\xa4\xe3\x81\xad \xe3\x81\x86\xe3\x82\x8d\xe3\x82\x93',b'M',b'45-54',b'4:08:26',b'5:53/km',b'Morning Run',879849260,5984049,2017-Tokyo-Marathon,3,2017
+b'1362',b'Monsamat Thutiyakul',b'M',b'',b'4:35:34',b'6:32/km',b'Morning Run',1424596989,13355943,2018-Tokyo-Marathon,2,2018
+b'510',b'Ben Cardinal',b'M',b'35-44',b'3:24:06',b'4:50/km',b'2015 Chicago Marathon',411171228,6052029,2015-Chicago-Marathon,3,2015
+b'451',b'Michel Cusson \xe2\x93\x8b',b'M',b'45-54',b'2:58:31',b'4:14/km',b'Marathon de Boston 2015',289295928,1719036,2015-Boston-Marathon,8,2015
+b'443',b'Mike Dechnik',b'M',b'45-54',b'2:59:15',b'4:15/km',b'120th Boston Marathon',549392118,2507437,2016-Boston-Marathon,5,2016
+b'1924',b'Mark H.',b'M',b'45-54',b'3:11:30',b'4:32/km',b'Morning Run',2786392847,12825646,2019-Chicago-Marathon,2,2019
+b'1398',b'Billy Devletoglu',b'M',b'35-44',b'3:23:02',b'4:49/km',b'TCS NYC Marathon!',1263221148,23696094,2017-TCS-New-York-City-Marathon,4,2017
+b'850',b'Ilya Yaroshenko',b'M',b'45-54',b'3:13:55',b'4:36/km',b'\xd0\xa7\xd0\xb8\xd0\xba\xd0\xb0\xd0\xb3\xd0\xbe \xd0\xbc\xd0\xb0\xd1\x80\xd0\xb0\xd1\x84\xd0\xbe\xd0\xbd',1221292908,22768292,2017-Chicago-Marathon,3,2017
+b'1425',b'Adrian Cooper',b'M',b'45-54',b'2:58:34',b'4:14/km',b'London Marathon',2325335729,19154383,2019-Virgin-Money-London-Marathon,2,2019
+b'605',b'Cq L.',b'',b'45-54',b'2:59:02',b'4:15/km',b'2017 Boston Marathon',946490283,9085994,2017-Boston-Marathon,2,2017
+b'1237',b'Tom Godfrey',b'M',b'35-44',b'3:20:00',b'4:44/km',b'NYC marathon. 3:20:00',1262888115,1707811,2017-TCS-New-York-City-Marathon,3,2017
+b'1094',b'Stewart Spink',b'M',b'45-54',b'3:10:20',b'4:31/km',b'New York Marathon 2018',1946306159,7707905,2018-TCS-New-York-City-Marathon,8,2018
+b'1355',b'john corrigan',b'M',b'55-64',b'3:20:30',b'4:45/km',b'2016 boston marathon',549442698,1321705,2016-Boston-Marathon,3,2016
+b'978',b'Guillemnsky Arag\xc3\xb3n',b'M',b'35-44',b'2:54:22',b'4:08/km',b'BOSTON MARATHON',2292079951,12727280,2019-Boston-Marathon,5,2019
+b'864',b'Nacho Aguirre Rodr\xc3\xadguez',b'M',b'35-44',b'2:51:19',b'4:04/km',b'Virgin London Marathon 2:51:18(PB)',2327270708,3237815,2019-Virgin-Money-London-Marathon,3,2019
+b'1057',b'Kenji Hirohata',b'M',b'35-44',b'2:56:35',b'4:11/km',b'Berlin Marathon',2748733107,1326778,2019-BMW-Berlin-Marathon,5,2019
+b'802',b'Brandon Zimmerman',b'',b'',b'3:08:42',b'4:28/km',"b'04/20/2015 Hopkinton, Massachusetts'",289460574,6183041,2015-Boston-Marathon,2,2015
+b'218',b'Julio Vela',b'M',b'25-34',b'2:43:45',b'3:53/km',b'Berlin Marathon 2017',1199287454,11486756,2017-BMW-Berlin-Marathon,10,2017
+b'860',b'Melissa C.',b'F',b'25-34',b'3:04:57',b'4:23/km',b'NYC Marathon',1946254925,12036596,2018-TCS-New-York-City-Marathon,3,2018
+b'395',b'Iron Grump',b'M',b'45-54',b'2:53:17',b'4:06/km',b'London marathon 2018 - Hot hot hot',1524626821,3563836,2018-Virgin-Money-London-Marathon,2,2018
+b'143',b'Ed Waller',b'M',b'',b'2:43:42',b'3:53/km',b'Boston Marathon!!',946520828,9649657,2017-Boston-Marathon,3,2017
+b'565',b'Craig K.',b'M',b'25-34',b'3:02:57',b'4:20/km',b'NYC Marathon 2017',1263135907,2283404,2017-TCS-New-York-City-Marathon,2,2017
+b'354',b'Matan Korrub',b'M',b'35-44',b'2:48:58',b'4:00/km',b'2019 NYC Marathon - 2:48:54 (10 min PR!)',2838825186,3467841,2019-TCS-New-York-City-Marathon,6,2019
+b'1247',b'Lucien A.',b'M',b'35-44',b'3:53:25',b'5:32/km',b'Morning Run',424995176,8360369,2015-New-York-City-Marathon,3,2015
+b'44',b'Dave Metzger',b'M',b'',b'2:34:00',b'3:39/km',b'Quadz be burnin Boston Marathon',946802422,13847312,2017-Boston-Marathon,4,2017
+b'168',b'Perry Anderson',b'M',b'35-44',b'3:11:00',b'4:32/km',"b'2017 TOKYO MARATHON close to 5 min PR, BQ...'",879875804,14264933,2017-Tokyo-Marathon,3,2017
+b'544',b'Ivan Zimnukhov',b'M',b'35-44',b'2:48:00',b'3:59/km',b'Boston Marathon 2019',2292165526,26634072,2019-Boston-Marathon,4,2019
+b'633',b'Frank T.',b'M',b'65-69',b'3:43:22',b'5:18/km',b'New York City Marathon (Garmin)',222875347,2441416,2014-New-York-City-Marathon,3,2014
+b'131',b'Alexander L.',b'M',b'35-44',b'2:38:34',b'3:45/km',b'Berlin Marathon 2018 (PR!!\xf0\x9f\x98\x8e)',1845193311,19322762,2018-BMW-Berlin-Marathon,2,2018
+b'319',b'Nick C.',b'M',b'',b'2:51:41',b'4:04/km',b'New York Marathon 2018',1946352403,9328155,2018-TCS-New-York-City-Marathon,2,2018
+b'907',b'Claudete M.',b'F',b'55-64',b'4:10:37',b'5:56/km',b'Berlin Marathon',201160574,3390473,2014-Berlin-Marathon,2,2014
+b'250',b'Jim Moore',b'M',b'45-54',b'2:48:42',b'4:00/km',b'Boston Marathon 2017 - 2 minute PR! And m...',946548869,2154996,2017-Boston-Marathon,5,2017
+b'1771',b'Ayshalynn P.',b'F',b'25-34',b'3:21:15',b'4:46/km',b'TCY NYC Marathon 2018 - splits and knee w...',1946587960,2725646,2018-TCS-New-York-City-Marathon,2,2018
+b'299',b'Greg Rolfes',b'M',b'25-34',b'2:50:26',b'4:02/km',b'Boston sleeveless-T party',947490558,565542,2017-Boston-Marathon,4,2017
+b'614',b'Clayton Combe',b'M',b'35-44',b'3:42:09',b'5:16/km',b'NYC Marathon',819255904,19065121,2014-New-York-City-Marathon,3,2014
+b'36',b'Seiichi K.',b'M',b'55-64',b'3:59:39',b'5:41/km',b'2016\xe6\x9d\xb1\xe4\xba\xac\xe3\x83\x9e\xe3\x83\xa9\xe3\x82\xbd\xe3\x83\xb3',3394520597,49573701,2016-Tokyo-Marathon,3,2016
+b'1715',b'Pascal Irminger',b'M',b'35-44',b'3:17:12',b'4:40/km',b'London Marathon 2016 // 3:17:12 // New PB',555347709,9004972,2016-London-Marathon,4,2016
+b'59',b'Matthew A.',b'M',b'35-44',b'2:28:21',b'3:31/km',b'London Marathon 2.28.12 PB',2325211301,4027775,2019-Virgin-Money-London-Marathon,4,2019
+b'341',b'Steven Gonser',b'M',b'35-44',b'2:58:19',b'4:14/km',b'Chicago Marathon. Dang you calf!',1221247624,605889,2017-Chicago-Marathon,2,2017
+b'495',b'James Johnson',b'M',b'35-44',b'2:55:59',b'4:10/km',b'London 2018 2:55 hot hot hot',1524537030,2285181,2018-Virgin-Money-London-Marathon,3,2018
+b'515',b'Quentin Tran',b'M',b'',b'3:09:55',b'4:30/km',b'Morning Run',772436088,18404882,2015-Berlin-Marathon,5,2015
+b'23',b'Kristian Ulriksen',b'M',b'25-34',b'2:23:48',b'3:24/km',b'London Marathon - 2:23:48 (70:02/73:46)',2325195969,2578098,2019-Virgin-Money-London-Marathon,5,2019
+b'745',b'lorin michael',b'M',b'45-54',b'4:01:29',b'5:43/km',b'2014 Chicago Marathon - 10/12/2014 Chicag...',206639417,3738392,2014-Chicago-Marathon,2,2014
+b'1176',b'Nigel D.',b'M',b'35-44',b'4:22:18',b'6:13/km',b'Boston - My slowest but most eventful Mar...',132780144,2487956,2014-Boston-Marathon,2,2014
+b'1309',b'Brian Bigoni',b'M',b'45-54',b'3:11:37',b'4:32/km',b'Morning Run',947782860,16576736,2017-Boston-Marathon,2,2017
+b'137',b'Alex Giacco',b'M',b'25-34',b'2:43:41',b'3:53/km',b'Morning Run',1946322083,36074031,2018-TCS-New-York-City-Marathon,3,2018
+b'756',b'Jeremy Bauer',b'M',b'45-54',b'3:34:31',b'5:05/km',b'Morning Run',424719242,497815,2015-New-York-City-Marathon,9,2015
+b'966',b'Mike Aubin',b'M',b'45-54',b'3:07:47',b'4:27/km',b'TCS New York Marathon',1946523297,18566697,2018-TCS-New-York-City-Marathon,3,2018
+b'1110',b'Kyriakos Exadaktylos',b'M',b'45-54',b'3:10:36',b'4:31/km',b'Morning Run',1946236415,20385383,2018-TCS-New-York-City-Marathon,3,2018
+b'1903',b'Chloe Green',b'F',b'35-44',b'3:04:56',b'4:23/km',b'London Marathon',2326720376,20376996,2019-Virgin-Money-London-Marathon,3,2019
+b'812',b'Ashley S.',b'M',b'35-44',b'2:56:20',b'4:11/km',b'Chicago marathon 2:56:18 CR',2786462387,5559515,2019-Chicago-Marathon,7,2019
+b'580',b'Daniel Tellam',b'M',b'25-34',b'2:57:45',b'4:13/km',b'#112/365 London Marathon',1524904182,4620298,2018-Virgin-Money-London-Marathon,2,2018
+b'1098',b'Michael Morris',b'M',b'45-54',b'3:17:14',b'4:40/km',b'New York City Marathon',1262875892,12305026,2017-TCS-New-York-City-Marathon,2,2017
+b'408',b'S K.',b'F',b'',b'3:23:05',b'4:49/km',b'\xe6\x9c\x9d\xe3\x81\xae\xe3\x83\xa9\xe3\x83\xb3\xe3\x83\x8b\xe3\x83\xb3\xe3\x82\xb0',1424590947,9721401,2018-Tokyo-Marathon,2,2018
+b'1200',b'Martin Mergl',b'M',b'45-54',b'2:56:52',b'4:11/km',b'Course \xc3\xa0 pied matinale',2292173624,20277553,2019-Boston-Marathon,4,2019
+b'26',b'Benjamin Coughlin',b'M',b'25-34',b'2:38:25',b'3:45/km',"b'04/21/2014 Hopkinton, MA'",148838777,5073200,2014-Boston-Marathon,3,2014
+b'938',b'Martin Mergl',b'M',b'45-54',b'3:05:46',b'4:24/km',b'Course \xc3\xa0 pied matinale',946594952,20277553,2017-Boston-Marathon,4,2017
+b'295',b'Sen Wu',b'M',b'35-44',b'2:40:17',b'3:48/km',b'2019 Berlin Marathon',2749131312,20297988,2019-BMW-Berlin-Marathon,2,2019
+b'20',b'Ron Brooks',b'M',b'35-44',b'2:41:52',b'3:50/km',b'Chicago Marathon - new PR',206533961,2606762,2014-Chicago-Marathon,6,2014
+b'1162',b'Michelle M.',b'F',b'',b'3:16:26',b'4:39/km',b'My 11th running of the Boston Marathon',549765885,13273337,2016-Boston-Marathon,3,2016
+b'464',b'Max W.',b'M',b'35-44',b'3:08:14',b'4:28/km',b'Morning Run',402880791,3587157,2015-Berlin-Marathon,2,2015
+b'156',b'Liam Butler',b'M',b'35-44',b'2:45:04',b'3:55/km',b'New York Marathon (Chip Time 02:44:58) - ...',1946278909,18094519,2018-TCS-New-York-City-Marathon,3,2018
+b'140',b'Stephen M.',b'',b'',b'2:33:57',b'3:39/km',b'London 2019',2326293889,7038101,2019-Virgin-Money-London-Marathon,3,2019
+b'568',b'Ben H.',b'M',b'35-44',b'3:13:00',b'4:34/km',b'Chicago Marathon',739683891,1974361,2016-Chicago-Marathon,3,2016
+b'1152',b'Rachel Rising',b'F',b'25-34',b'2:55:37',b'4:10/km',b'London Marathon take 2.. PB \xe2\x9c\x85 sub 3 \xe2\x9c\x85',2326651524,11019466,2019-Virgin-Money-London-Marathon,2,2019
+b'1944',b'Peter B.',b'M',b'35-44',b'3:03:46',b'4:21/km',b'Boston Marathon 2019',2292299056,3304210,2019-Boston-Marathon,4,2019
+b'902',b'Ben Tam',b'M',b'35-44',b'3:10:58',b'4:32/km',b'Boston Marathon',614552106,15861658,2016-Boston-Marathon,3,2016
+b'1231',b'Kevin Yuen',b'M',b'45-54',b'4:08:34',b'5:53/km',b'Chicago Marathon',411097674,6717510,2015-Chicago-Marathon,2,2015
+b'745',b'Annie Byrne',b'F',b'25-34',b'2:49:08',b'4:01/km',b'London Marathon 2.49.05 \xf0\x9f\x8f\x83\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f - no collaps...',2325273949,17358825,2019-Virgin-Money-London-Marathon,2,2019
+b'544',b'Erben W.',b'M',b'',b'2:58:25',b'4:14/km',b'Morning Run',1946385899,792010,2018-TCS-New-York-City-Marathon,2,2018
+b'1389',b'Stephen Patrick Bustos',b'M',b'55-64',b'3:28:43',b'4:57/km',b'Boston Marathon 2015 (nr 5)',289557742,2275033,2015-Boston-Marathon,4,2015
+b'767',b'Phil Roberts',b'M',b'35-44',b'2:49:33',b'4:01/km',b'Morning Run',2325644978,12212265,2019-Virgin-Money-London-Marathon,3,2019
+b'1121',b'Olman Chacon',b'',b'',b'2:59:44',b'4:16/km',b'Morning Run',2798244839,9564199,2019-Chicago-Marathon,2,2019
+b'855',b'Rich B.',b'M',b'35-44',b'3:03:49',b'4:21/km',"b'Chicago!! DONE \xe2\x9c\x85\xf0\x9f\xa6\x84\xf0\x9f\x8f\x83\xf0\x9f\x91\x8d cold, wet and windy d...'",1890463255,22188261,2018-Chicago-Marathon,2,2018
+b'424',b'Chris Schwarz',b'M',b'45-54',b'2:42:45',b'3:51/km',b'London Marathon - a huge PB!',2325572501,21425257,2019-Virgin-Money-London-Marathon,3,2019
+b'554',b'Barnaby Simpson',b'M',b'45-54',b'2:55:40',b'4:10/km',"b'Berlin Mara 2.55.40.  A tough one, mentally.'",1845290737,11150994,2018-BMW-Berlin-Marathon,4,2018
+b'550',b'Aaron Schwartzbard',b'M',b'35-44',b'2:54:39',b'4:08/km',"b'Bosstown #18, Cold Rain & Headwind Editio...'",1512278913,6314725,2018-Boston-Marathon,5,2018
+b'1984',b'Parker English',b'M',b'35-44',b'3:24:24',b'4:51/km',b'NYC Marathon.',1946242404,4753976,2018-TCS-New-York-City-Marathon,3,2018
+b'961',b'Jeff Whittington',b'M',b'70-74',b'3:14:28',b'4:37/km',b'London Marathon',294870262,7222990,2015-London-Marathon,2,2015
+b'1926',b'Morty Ray',b'M',b'35-44',b'3:54:57',b'5:34/km',b'Chicago Marathon!!',739698904,14246035,2016-Chicago-Marathon,2,2016
+b'735',b'Markus Smed',b'M',b'25-34',b'3:01:41',b'4:18/km',b'Boston Marathon 2017',946534713,9498227,2017-Boston-Marathon,2,2017
+b'742',b'Romuald #runandfreedom',b'M',b'45-54',b'3:48:37',b'5:25/km',b'Marathon de New-York',215536288,5417339,2014-New-York-City-Marathon,2,2014
+b'414',b'Stephen  H.',b'M',b'45-54',b'2:56:38',b'4:11/km',b'London marathon !',293156879,3955051,2015-London-Marathon,4,2015
+b'22',b'Martin Kj\xc3\xa4ll-Ohlsson',b'M',b'',b'2:30:33',b'3:34/km',b'NYC Marathon 2018. 2:30:33. Det var maks ...',1946174058,14419395,2018-TCS-New-York-City-Marathon,3,2018
+b'427',b'Martin D.',b'M',b'35-44',b'2:51:29',b'4:04/km',b'Berlin marathon 2018',1845477842,5848415,2018-BMW-Berlin-Marathon,2,2018
+b'605',b'Nikki Salenetri',b'F',b'35-44',b'3:28:01',b'4:56/km',b'NYC Marathon! Really 26.59 miles and 3:27...',424938739,9753916,2015-New-York-City-Marathon,2,2015
+b'1249',b'Matthias Nelke',b'M',b'45-54',b'3:12:16',b'4:33/km',b'Berlin Marathon 2017',1199247421,2488675,2017-BMW-Berlin-Marathon,2,2017
+b'155',b'Christopher Klucznik',b'M',b'35-44',b'2:44:11',b'3:53/km',"b'A ""bit"" of a positive split on a warm day...'",946497045,1971045,2017-Boston-Marathon,5,2017
+b'1384',b'Gary B.',b'M',b'45-54',b'3:10:15',b'4:31/km',b'London Marathon - 3rd and last',555757209,1142179,2016-London-Marathon,2,2016
+b'304',b'jason old',b'M',b'',b'2:46:38',b'3:57/km',b'Morning Run',555390905,3388005,2016-London-Marathon,3,2016
+b'365',b'Marijn V.',b'M',b'35-44',b'3:14:42',b'4:37/km',b'2015 Bank of America Chicago Marathon',411433189,5063595,2015-Chicago-Marathon,6,2015
+b'182',b'Ian Blackwell',b'M',b'25-34',b'2:45:28',b'3:55/km',b'Boston Marathon',946618709,11283613,2017-Boston-Marathon,3,2017
+b'694',b'Shirtless Runner @shirtlessrunner',b'M',b'45-54',b'3:01:12',b'4:18/km',b'Morning Run',1947703440,22918135,2018-TCS-New-York-City-Marathon,3,2018
+b'462',b'Jerry Williamson',b'M',b'45-54',b'2:56:15',b'4:11/km',b'Morning Run',946473274,16820710,2017-Boston-Marathon,4,2017
+b'1717',b'Jack Cherewatti',b'M',b'25-34',b'3:01:32',b'4:18/km',b'Morning Run',2358646346,2732460,2019-Boston-Marathon,3,2019
+b'1615',b'Michael Chico',b'M',b'',b'3:07:41',b'4:27/km',b'Morning Run',2786591797,20568837,2019-Chicago-Marathon,2,2019
+b'128',b'Caleb Ault',b'M',b'25-34',b'3:02:40',b'4:20/km',"b'10/12/2014 Chicago, Illinois'",207584693,6217445,2014-Chicago-Marathon,6,2014
+b'5',b'Reid C.',b'M',b'35-44',b'2:10:29',b'3:06/km',b'Berlin Marathon',401215699,7029099,2015-Berlin-Marathon,2,2015
+b'131',b'Jacques Labbaci',b'M',b'45-54',b'2:39:26',b'3:47/km',b'London marathon',555370259,3882539,2016-London-Marathon,3,2016
+b'1186',b'Mischa Rihm',b'M',b'',b'3:00:38',b'4:17/km',b'Chicago Marathon',2786784715,18867215,2019-Chicago-Marathon,3,2019
+b'75',b'Peter Belfield',b'M',b'35-44',b'2:45:18',b'3:55/km',b'Chicago Marathon 2:45',739551482,137480,2016-Chicago-Marathon,4,2016
+b'1490',b'Paige T.',b'F',b'25-34',b'3:14:34',b'4:37/km',b'Boston Marathon!',947565127,18985210,2017-Boston-Marathon,3,2017
+b'349',b'Reece Barclay',b'M',b'25-34',b'2:48:19',b'3:59/km',b'VMLM - big pb & toilet break at 17 miles.',555255892,4384776,2016-London-Marathon,2,2016
+b'507',b'Luis Ramirez',b'M',b'',b'3:28:22',b'4:56/km',b'Tokio Marathon',1424599407,12258275,2018-Tokyo-Marathon,2,2018
+b'115',b'Ben W.',b'M',b'35-44',b'2:49:34',b'4:01/km',b'Boston Marathon',188287142,313539,2014-Boston-Marathon,6,2014
+b'755',b'Jm A.',b'M',b'35-44',b'3:01:12',b'4:18/km',b'Chicago Marathon 2018',1897345894,19891378,2018-Chicago-Marathon,2,2018
+b'1989',b'Jimmy Parry',b'M',b'35-44',b'3:13:31',b'4:35/km',"b'Right on Hereford, left on Boylston'",1512404075,2835863,2018-Boston-Marathon,3,2018
+b'697',b'Dan Hughes',b'M',b'35-44',b'2:59:32',b'4:15/km',b'Well that was warm...VLM2018 \xe2\x98\x80\xef\xb8\x8f\xf0\x9f\x98\x8e\xe2\x98\x80\xef\xb8\x8f\xf0\x9f\x98\x8e *2.59.30',1525030304,13423375,2018-Virgin-Money-London-Marathon,2,2018
+b'275',b'Giovanni Landaverde',b'M',b'35-44',b'3:14:12',b'4:36/km',b'Tokyo Marathon',1426442797,27273294,2018-Tokyo-Marathon,2,2018
+b'98',b'Matt Hillard',b'M',b'25-34',b'2:34:39',b'3:40/km',b'2019 Boston Marathon!',2292127271,17466131,2019-Boston-Marathon,2,2019
+b'1002',b'Jay P.',b'M',b'35-44',b'3:06:45',b'4:26/km',b'Berlin Marathon',1205345332,663346,2017-BMW-Berlin-Marathon,2,2017
+b'1058',b'Felipe J.',b'M',b'55-64',b'4:01:24',b'5:43/km',"b'11/02/2014 Staten Island, New York'",216133613,6184103,2014-New-York-City-Marathon,3,2014
+b'183',b'Dave Metzger',b'M',b'',b'2:45:27',b'3:55/km',"b'Boston 2018, good job butt'",1512726170,13847312,2018-Boston-Marathon,4,2018
+b'1200',b'Nicole D.',b'F',b'45-54',b'3:19:16',b'4:43/km',b'Morning Run',1324952300,21901810,2017-TCS-New-York-City-Marathon,4,2017
+b'1429',b'Jan Erik Aarethun',b'M',b'',b'3:45:19',b'5:20/km',b'Berlin Running',807009065,18844815,2015-Berlin-Marathon,2,2015
+b'1436',b'James Coleman',b'M',b'35-44',b'3:11:27',b'4:32/km',b'Died at 20! That was hard!  But a new PB ...',555278143,5026455,2016-London-Marathon,4,2016
+b'305',b'Phillip E.',b'M',b'35-44',b'2:50:25',b'4:02/km',b'How not to run a marathon...',1524745253,14306540,2018-Virgin-Money-London-Marathon,4,2018
+b'1543',b'Patrick B.',b'M',b'',b'3:14:59',b'4:37/km',"b'London 2018 hot in the city, extra km acc...'",1524942541,25406859,2018-Virgin-Money-London-Marathon,2,2018
+b'475',b'Alex Giacco',b'M',b'25-34',b'2:51:37',b'4:04/km',b'Morning Run',2839516488,36074031,2019-TCS-New-York-City-Marathon,3,2019
+b'615',b'juni\xc3\xb4 do assuru\xc3\xa1 prakasa',b'M',b'55-64',b'2:58:40',b'4:14/km',b'the best chicago marathon',1890495512,10621752,2018-Chicago-Marathon,2,2018
+b'893',b'Alyssa M.',b'F',b'25-34',b'2:59:06',b'4:15/km',b'NYC 2019 \xe2\x9d\xa4\xef\xb8\x8f\xf0\x9f\x8e\x89',2838908220,15096785,2019-TCS-New-York-City-Marathon,2,2019
+b'1175',b'Carol V.',b'F',b'',b'4:22:05',b'6:13/km',"b'4/21/14 Hopkinton, MA'",136285755,4670506,2014-Boston-Marathon,3,2014
+b'1063',b'Kortnee Borden',b'M',b'35-44',b'2:59:15',b'4:15/km',b'42nd Chicago Marathon',2786416194,19146939,2019-Chicago-Marathon,2,2019
+b'1570',b'Jamie CW',b'F',b'35-44',b'3:16:06',b'4:39/km',b'Morning Run',946695508,5705401,2017-Boston-Marathon,2,2017
+b'1723',b'Eric Helmantel',b'M',b'55-64',b'3:21:01',b'4:46/km',b'marathon Berlijn',1199502515,15375518,2017-BMW-Berlin-Marathon,2,2017
+b'372',b'Nils Neumann',b'M',b'25-34',b'2:42:45',b'3:51/km',b'Lauf am Morgen',2751098194,32649083,2019-BMW-Berlin-Marathon,2,2019
+b'92',b'Kyle Brumbaugh',b'M',b'35-44',b'3:02:14',b'4:19/km',b'2014 New York City Marathon',225040056,1423775,2014-New-York-City-Marathon,5,2014
+b'267',b'carlos montero',b'M',b'45-54',b'3:08:25',b'4:28/km',b'Carrera matutina',415506657,4220354,2015-Chicago-Marathon,3,2015
+b'1223',b'Melissa H.',b'F',b'',b'3:10:24',b'4:31/km',b'Boston Marathon',966806332,21614344,2017-Boston-Marathon,2,2017
+b'1214',b'TOMO Kuwahara',b'M',b'35-44',b'3:04:46',b'4:23/km',b'New York City Marathon',2839078206,6406620,2019-TCS-New-York-City-Marathon,4,2019
+b'1606',b'Camilo Martinez',b'M',b'35-44',b'3:17:14',b'4:40/km',b'Morning Run',1891058464,2202854,2018-Chicago-Marathon,4,2018
+b'765',b'Luc Isaak',b'M',b'45-54',b'3:01:25',b'4:18/km',b'2018 Chicago Marathon (3:01:25)',1890696337,2994802,2018-Chicago-Marathon,3,2018
+b'517',b'Sophia L.',b'F',b'',b'2:57:31',b'4:12/km',b'Morning Run',946531931,7242156,2017-Boston-Marathon,4,2017
+b'82',b'javi mu\xc3\xb1oz',b'M',b'35-44',b'2:38:48',b'3:46/km',b'Carrera de ma\xc3\xb1ana',955495717,12498718,2017-Boston-Marathon,2,2017
+b'489',b'Bradlaugh R.',b'M',b'35-44',b'3:00:22',b'4:16/km',b'Boston - not QUITE a negative split',549405190,1099305,2016-Boston-Marathon,7,2016
+b'1198',b'Peter M.',b'M',b'45-54',b'3:21:53',b'4:47/km',"b'04/26/2015 London, United Kingdom'",311788296,3211857,2015-London-Marathon,2,2015
+b'148',b'Joar Markhus',b'M',b'45-54',b'3:05:18',b'4:23/km',b'Berlin Marathon',201024525,176151,2014-Berlin-Marathon,2,2014
+b'863',b'Stephen Young',b'M',b'25-34',b'3:00:48',b'4:17/km',"b'Pleased with that, next stop London!!'",1845037945,7151925,2018-BMW-Berlin-Marathon,3,2018
+b'1177',b'Isabella Donadio',b'F',b'',b'3:16:38',b'4:40/km',b'Boston Marathon',558729631,14830440,2016-Boston-Marathon,3,2016
+b'352',b'Tamsin \xf0\x9f\xa6\x84\xe2\x98\xa0\xef\xb8\x8f\xf0\x9f\x91\xbb',b'',b'35-44',b'3:11:59',b'4:33/km',b'2015 TCS New York City Marathon',424810524,5919959,2015-New-York-City-Marathon,2,2015
+b'968',b'Sophie Mayschak \xf0\x9f\x87\xab\xf0\x9f\x87\xb7',b'F',b'',b'3:51:24',b'5:29/km',b'Chicago Marathon',410987937,11059647,2015-Chicago-Marathon,2,2015
+b'30',b'Kanok Choy',b'M',b'35-44',b'3:06:29',b'4:25/km',b'Tokyo Mararthon 2015 - 02/22/2015',259135782,6351782,2015-Tokyo-Marathon,2,2015
+b'1141',b'frank fonseca',b'M',b'35-44',b'3:09:20',b'4:29/km',b'Morning Run',1890822586,2480539,2018-Chicago-Marathon,4,2018
+b'10',b'Julian Spence',b'M',b'25-34',b'2:18:42',b'3:17/km',b'Berlin Marathon 2:18:43. 32nd place.',1199697381,2473196,2017-BMW-Berlin-Marathon,2,2017
+b'18',b'Craig Ruddy',b'M',b'25-34',b'2:22:16',b'3:22/km',b'Berlin Marathon - 13 second PB',1201134285,13215838,2017-BMW-Berlin-Marathon,2,2017
+b'1272',b'Sian E.',b'F',b'25-34',b'3:07:44',b'4:27/km',b'VLM 2016',557421419,3730663,2016-London-Marathon,5,2016
+b'589',b'Leo Pike',b'M',b'',b'3:01:49',b'4:19/km',b'Boston Marathon',289265112,5225420,2015-Boston-Marathon,4,2015
+b'700',b'Kevin Murray',b'M',b'55-64',b'2:59:11',b'4:15/km',b'Morning Run',1261410304,25961297,2017-BMW-Berlin-Marathon,2,2017
+b'447',b'Alexandros T.',b'M',b'25-34',b'2:49:24',b'4:01/km',b'Chicago Marathon',2786491209,7278803,2019-Chicago-Marathon,2,2019
+b'904',b'Myri S.',b'F',b'45-54',b'3:40:28',b'5:13/km',b'Carrera por la ma\xc3\xb1ana',990111793,13992366,2015-New-York-City-Marathon,2,2015
+b'89',b'Caitlin Chrisman',b'F',b'35-44',b'2:43:57',b'3:53/km',"b'Chicago Marathon 2017:  2:43:57, 3rd Olym...'",1221122983,7842901,2017-Chicago-Marathon,3,2017
+b'823',b'Sean McGlynn',b'M',b'45-54',b'3:09:14',b'4:29/km',b'2015 Boston Marathon',293615015,7382034,2015-Boston-Marathon,4,2015
+b'1160',b'James A.',b'M',b'35-44',b'2:55:45',b'4:10/km',b'London Marathon 2019 (2:55:45)',2326185654,3348957,2019-Virgin-Money-London-Marathon,3,2019
+b'760',b'Suzanne L.',b'F',b'35-44',b'3:11:34',b'4:32/km',b'Chicago Marathon',1221392497,19169684,2017-Chicago-Marathon,2,2017
+b'1884',b'Erin Jaffke',b'F',b'25-34',b'3:20:39',b'4:45/km',b'Boston marathon 2017!',946601953,13825063,2017-Boston-Marathon,7,2017
+b'1493',b'Beth C.',b'F',b'45-54',b'3:59:51',b'5:41/km',b'A little run through NYC',424865202,647100,2015-New-York-City-Marathon,2,2015
+b'1690',b'James Innes',b'M',b'25-34',b'3:01:12',b'4:18/km',b'Boston!!',2292211412,25666642,2019-Boston-Marathon,2,2019
+b'17',b'Lupe Cabada',b'M',b'35-44',b'2:32:09',b'3:36/km',b'Chicago marathon',411290091,2543489,2015-Chicago-Marathon,2,2015
+b'1951',b'Alessandro Costa',b'M',b'25-34',b'3:11:48',b'4:33/km',b'Chicago Marathon 2019 (passo 4.33)',2786872890,14813110,2019-Chicago-Marathon,2,2019
+b'1237',b'Nick H.',b'M',b'45-54',b'3:09:47',b'4:30/km',b'VLM 18 loved it!',1524608606,10887669,2018-Virgin-Money-London-Marathon,3,2018
+b'67',b'Alan M.',b'M',b'55-64',b'3:20:22',b'4:45/km',b'Tokyo Marathon',258200944,3583994,2015-Tokyo-Marathon,4,2015
+b'1421',b'Philippe R.',b'M',b'45-54',b'4:23:43',b'6:15/km',b'Course \xc3\xa0 pied matinale',411167692,6367170,2015-Chicago-Marathon,2,2015
+b'292',b'Seiichi K.',b'M',b'55-64',b'4:26:09',b'6:18/km',b'2015\xe6\x9d\xb1\xe4\xba\xac\xe3\x83\x9e\xe3\x83\xa9\xe3\x82\xbd\xe3\x83\xb3',3394520310,49573701,2015-Tokyo-Marathon,3,2015
+b'455',b'Jim Connell',b'M',b'45-54',b'2:58:39',b'4:14/km',"b'20/04/2015 Hopkinton, Massachusetts'",289934400,4047877,2015-Boston-Marathon,7,2015
+b'798',b'Julie Przybyla',b'F',b'35-44',b'3:32:55',b'5:03/km',"b'04/21/2014 Hopkinton, MA'",162451740,3834668,2014-Boston-Marathon,2,2014
+b'1075',b'Kuen C.',b'M',b'35-44',b'2:55:29',b'4:10/km',b'\xe6\x99\xa8\xe9\x96\x93\xe8\xb7\x91\xe6\xad\xa5',2293131423,19453760,2019-Boston-Marathon,3,2019
+b'1368',b'Irineu Romano',b'M',b'45-54',b'2:58:26',b'4:14/km',b'Morning Run',2292484211,19193203,2019-Boston-Marathon,5,2019
+b'427',b'Mike N.',b'M',b'45-54',b'3:00:18',b'4:16/km',b'Chicago Marathon',1221376523,429572,2017-Chicago-Marathon,3,2017
+b'1380',b'Daniel Lally',b'M',b'35-44',b'2:58:07',b'4:13/km',b'Morning Run',2325869694,21841577,2019-Virgin-Money-London-Marathon,2,2019
+b'262',b'Humberto C.',b'M',b'25-34',b'3:16:58',b'4:40/km',b'2014 Bank of America Chicago Marathon',215646838,6996541,2014-Chicago-Marathon,5,2014
+b'844',b'Jonny Cuthbert',b'M',b'25-34',b'3:02:34',b'4:20/km',b'Morning Run',1524554988,14372823,2018-Virgin-Money-London-Marathon,2,2018
+b'198',b'Espen Waage Skjeflo',b'M',b'25-34',b'2:36:55',b'3:43/km',b'London maraton - 2:36:42',2325727313,10028711,2019-Virgin-Money-London-Marathon,2,2019
+b'799',b'Steven H.',b'M',b'45-54',b'2:59:43',b'4:16/km',b'Sub 3 at 2018 Berlin Marathon',1845281398,2134599,2018-BMW-Berlin-Marathon,5,2018
+b'116',b'Shintaro Toh',b'M',b'35-44',b'2:57:47',b'4:13/km',b'\xe6\x9d\xb1\xe4\xba\xac\xe3\x83\x9e\xe3\x83\xa9\xe3\x82\xbd\xe3\x83\xb32018 2:57:44\xe8\x87\xaa\xe5\xb7\xb1\xe3\x83\x99\xe3\x82\xb9\xe3\x83\x88',1424540463,4769217,2018-Tokyo-Marathon,2,2018
+b'591',b'Yury G.',b'M',b'35-44',b'3:44:08',b'5:19/km',"b'09/28/14 Berlin, Berlin, Germany'",200888025,3081300,2014-Berlin-Marathon,3,2014
+b'542',b'Sami Kabil',b'',b'25-34',b'3:12:05',b'4:33/km',b'Course \xc3\xa0 pied matinale',853010472,19708406,2016-Chicago-Marathon,5,2016
+b'1683',b'Angel Z.',b'F',b'35-44',b'3:08:25',b'4:28/km',b'CHICAGO MARATHON \xe2\x9c\xa8',2786850114,20671481,2019-Chicago-Marathon,3,2019
+b'1267',b'Roberto Mandje',b'M',b'35-44',b'3:05:52',b'4:24/km',b'2019 TCS NYC Marathon',2839237454,2020133,2019-TCS-New-York-City-Marathon,3,2019
+b'847',"b'Eugene ""JJ"" Schmidt'",b'M',b'70-74',b'3:36:23',b'5:08/km',"b'04/21/2014 Boston... sunny day, I will ta...'",132866758,376926,2014-Boston-Marathon,2,2014
+b'709',b'Carolyn  Y.',b'F',b'35-44',b'2:56:33',b'4:11/km',b'2019 NYC Marathon (official 2:56:29)',2839358641,1244357,2019-TCS-New-York-City-Marathon,4,2019
+b'1371',b'Niall Campbell',b'M',b'25-34',b'3:03:55',b'4:22/km',b'Chicago marathon 2019',2786218400,5099186,2019-Chicago-Marathon,2,2019
+b'61',b'Guillermo Jaime',b'M',b'35-44',b'2:40:36',b'3:48/km',b'Carrera por la ma\xc3\xb1ana',1221530565,21543925,2017-Chicago-Marathon,2,2017
+b'1134',b'Xuefeng B.',b'M',b'45-54',b'3:20:28',b'4:45/km',b'2017 Chicago Marathon',1221312260,4444015,2017-Chicago-Marathon,3,2017
+b'168',b'Chris M.',b'M',b'45-54',b'2:45:46',b'3:56/km',"b'VMLM 2015  - 2:45:47, pretty happy with t...'",293748095,1219138,2015-London-Marathon,4,2015
+b'257',b'Andrew Reeve',b'M',b'45-54',b'3:04:17',b'4:22/km',b'2015 New York Marathon',424660879,2862039,2015-New-York-City-Marathon,6,2015
+b'1362',b'Xiaodong Han',b'M',b'45-54',b'4:18:01',b'6:07/km',b'Morning Run',411026496,10183216,2015-Chicago-Marathon,2,2015
+b'1719',b'Sverre Benjaminsen',b'M',b'45-54',b'3:16:12',b'4:39/km',b'Berlin Maraton',1845407888,829111,2018-BMW-Berlin-Marathon,2,2018
+b'704',b'Monty  .',b'M',b'',b'3:46:39',b'5:22/km',b'NYC Marathon',214924153,3501352,2014-New-York-City-Marathon,2,2014
+b'1023',b'Colin F.',b'M',b'55-64',b'3:01:38',b'4:18/km',b'Virgin London Marathon',556601363,329769,2016-London-Marathon,2,2016
+b'115',b'Anthony Hatswell',b'M',b'35-44',b'2:38:38',b'3:46/km',"b'VLM 2016, PB 2:38.38'",556491757,12733984,2016-London-Marathon,5,2016
+b'172',b'Devon Quaglietta',b'M',b'25-34',b'2:59:14',b'4:15/km',b'Chicago Marathon',410946211,9292746,2015-Chicago-Marathon,5,2015
+b'838',b'Rohit Singh',b'M',b'35-44',b'3:11:17',b'4:32/km',b'NYC Marathon 2017',1263055570,15556653,2017-TCS-New-York-City-Marathon,4,2017
+b'720',b'Magne Paulsen',b'M',b'35-44',b'3:07:54',b'4:27/km',b'NYC Marathon 2017 - Wow that was... humbl...',1263066101,12500317,2017-TCS-New-York-City-Marathon,2,2017
+b'290',b'Olive Moraine',b'M',b'35-44',b'2:50:01',b'4:02/km',b'Boston Marathon',946520289,3972373,2017-Boston-Marathon,2,2017
+b'759',b'Maartje B.',b'F',b'35-44',b'3:30:02',b'4:59/km',b'Boston Marathon 2014',132794709,2764707,2014-Boston-Marathon,3,2014
+b'82',b'Stephen G.',b'M',b'35-44',b'2:50:43',b'4:03/km',b'2015 NYC Marathon - This one hurt',424873186,9182908,2015-New-York-City-Marathon,6,2015
+b'5',b'Peter Bromka',b'M',b'35-44',b'2:29:33',b'3:33/km',"b'Boston Marathon 2016. Well, that was awes...'",549448434,77908,2016-Boston-Marathon,6,2016
+b'704',b'Rob D.',b'M',b'55-64',b'3:26:57',b'4:54/km',b'Boston  Marathon',133301665,3590002,2014-Boston-Marathon,2,2014
+b'1842',b'Jorge Manjarrez',b'M',b'35-44',b'3:11:26',b'4:32/km',b'Carrera por la ma\xc3\xb1ana',1512579136,20237049,2018-Boston-Marathon,2,2018
+b'852',b'Ryan Govier',b'M',b'25-34',b'2:56:58',b'4:12/km',b'World Marathon Major 2/6 - CHICAGO \xf0\x9f\x87\xba\xf0\x9f\x87\xb8 PB ...',2786315135,10704943,2019-Chicago-Marathon,2,2019
+b'782',b'luke wheeler',b'M',b'45-54',b'3:01:04',b'4:17/km',b'Berlin marathon',1207538610,1795001,2017-BMW-Berlin-Marathon,2,2017
+b'1378',b'Joshua A.',b'M',b'35-44',b'3:05:42',b'4:24/km',b'Boston. Fucking. Marathon.',1512316908,13591286,2018-Boston-Marathon,2,2018
+b'125',b'JB Theard',b'M',b'35-44',b'2:47:45',b'3:59/km',b'Berlin marathon',401179718,3487471,2015-Berlin-Marathon,5,2015
+b'79',b'Jeff Tissue',b'M',b'25-34',b'2:38:33',b'3:45/km',b'Boston Marathon 2017',946510945,11145099,2017-Boston-Marathon,5,2017
+b'687',b'Mauricio A',b'M',b'35-44',b'2:56:10',b'4:11/km',b'NYC Marathon (02:56:05)',2838991978,23215273,2019-TCS-New-York-City-Marathon,2,2019
+b'703',b'Julien Sicuro',b'M',b'35-44',b'3:07:23',b'4:26/km',b'NYC aka major bonk',1262952462,6834995,2017-TCS-New-York-City-Marathon,3,2017
+b'220',b'Jamie Hershfang',b'F',b'25-34',b'2:53:55',b'4:07/km',b'2017 Chicago Marathon Debut! 2:53:55',1221317852,11590796,2017-Chicago-Marathon,2,2017
+b'231',b'Gerardo Lopez Gout',b'M',b'35-44',b'2:48:34',b'4:00/km',b'NYC Marathon P Best!! \xe2\x9a\xa1\xef\xb8\x8f\xe2\x9a\xa1\xef\xb8\x8f\xe2\x9a\xa1\xef\xb8\x8f',1946186358,21417105,2018-TCS-New-York-City-Marathon,4,2018
+b'552',b'Carlos Del Rio Castelan',b'M',b'35-44',b'3:02:20',b'4:19/km',b'120th Boston Marathon 2016',553417775,1834028,2016-Boston-Marathon,5,2016
+b'934',b'Steffen S.',b'M',b'35-44',b'3:05:02',b'4:23/km',b'Berlin Marathon 2017',1199257079,24044960,2017-BMW-Berlin-Marathon,2,2017
+b'52',b'Ryan Cox',b'M',b'25-34',b'2:31:43',b'3:36/km',b'Berlin Marathon 2018.',1845031403,11448506,2018-BMW-Berlin-Marathon,3,2018
+b'1559',b'Nick Nenni',b'M',b'25-34',b'3:06:57',b'4:26/km',b'Morning Run',2786174688,19035781,2019-Chicago-Marathon,3,2019
+b'1415',b'Tibby X.',b'F',b'25-34',b'3:23:22',b'4:49/km',b'2017 New York City Marathon',1263330510,18133452,2017-TCS-New-York-City-Marathon,2,2017
+b'1940',b'Richard H.',b'M',b'45-54',b'3:21:52',b'4:47/km',b'Virgin Money London Marathon 2016',557580153,7184243,2016-London-Marathon,2,2016
+b'531',b'Andrew Z.',b'M',b'45-54',b'3:43:38',b'5:18/km',"b'10/12/2014 Chicago, Illinois'",208223806,6130292,2014-Chicago-Marathon,2,2014
+b'1894',b'Vinu Malik',b'M',b'45-54',b'3:58:37',b'5:39/km',b'Boston Marathon 15.  Amazing race dedicat...',289319955,612183,2015-Boston-Marathon,2,2015
+b'639',b'Jordi Amiel',b'M',b'45-54',b'3:53:04',b'5:31/km',"b'10/12/2014 Chicago, Illinois'",209887845,5928209,2014-Chicago-Marathon,2,2014
+b'73',b'Are B.',b'M',b'45-54',b'2:34:21',b'3:39/km',b'Berlin maraton 2:34:21 PB!',1845099611,17200007,2018-BMW-Berlin-Marathon,2,2018
+b'1364',b'Joe Piko',b'M',b'35-44',b'3:05:29',b'4:24/km',b'Morning Run',1518191411,22505539,2018-Boston-Marathon,3,2018
+b'504',b'Mike Stone',b'M',b'45-54',b'3:10:48',b'4:31/km',b'Chicago Marathon',740750541,17396680,2016-Chicago-Marathon,2,2016
+b'358',b'Kenny Brown',b'M',b'45-54',b'3:04:38',b'4:23/km',b'Boston Marathon',556071014,6596836,2014-Boston-Marathon,2,2014
+b'1376',b'Dirk Hanke',b'M',b'45-54',b'3:20:52',b'4:46/km',b'Boston Marathon 2016',786115273,18069630,2016-Boston-Marathon,8,2016
+b'489',b'Joe T.',b'M',b'45-54',b'3:13:07',b'4:35/km',b'Boston Marathon',133084888,304212,2014-Boston-Marathon,4,2014
+b'473',b'Chris C.',b'M',b'35-44',b'2:53:38',b'4:07/km',b'Boston Marathon',1512474881,18793528,2018-Boston-Marathon,2,2018
+b'1119',b'Maxey H.',b'F',b'35-44',b'3:01:45',b'4:18/km',b'Morning Run',1512916372,28293293,2018-Boston-Marathon,2,2018
+b'916',b'Christopher K.',b'M',b'35-44',b'3:12:08',b'4:33/km',b'Shoulder injury worth a 2:55 for a blind ...',289490124,351188,2015-Boston-Marathon,7,2015
+b'75',b'Travis C.',b'M',b'',b'2:36:10',b'3:42/km',b'Chicago Marathon',1890848353,25259046,2018-Chicago-Marathon,4,2018
+b'1592',b'Catarina Mack',b'F',b'65-69',b'3:51:43',b'5:29/km',b'Berlin Marathon',402487183,735071,2015-Berlin-Marathon,8,2015
+b'630',b'Adrien Thomas',b'M',b'25-34',b'2:58:34',b'4:14/km',b'Marathon de Londres 2018',1525266738,13683018,2018-Virgin-Money-London-Marathon,4,2018
+b'199',b'Jeremy Bauer',b'M',b'45-54',b'2:47:25',b'3:58/km',b'One foot in front of the other...',1946141798,497815,2018-TCS-New-York-City-Marathon,9,2018
+b'313',b'Alex van der Horst',b'M',b'35-44',b'3:21:23',b'4:46/km',b'Berlin Marathon 28-09-2014',413408123,4650946,2014-Berlin-Marathon,3,2014
+b'274',b'Nuno B.',b'M',b'',b'3:05:59',b'4:24/km',b'Morning Run',426285818,7281653,2015-New-York-City-Marathon,2,2015
+b'202',b'Timothy Buse',b'M',b'35-44',b'2:56:17',b'4:11/km',b'2014 Boston Marathon',132778254,804277,2014-Boston-Marathon,2,2014
+b'1533',b'Ben Bruno',b'M',b'25-34',b'3:29:09',b'4:57/km',b'2017 Chicago Marathon',1221412302,17857199,2017-Chicago-Marathon,2,2017
+b'1600',b'Shinohara Mutsumi',b'M',b'45-54',b'5:04:47',b'7:13/km',b'\xe6\x9c\x9d\xe3\x81\xae\xe3\x83\xa9\xe3\x83\xb3\xe3\x83\x8b\xe3\x83\xb3\xe3\x82\xb0',1424646904,12335212,2018-Tokyo-Marathon,2,2018
+b'1068',b'Wout V.',b'M',b'35-44',b'3:08:19',b'4:28/km',b'Berlin marathon (3:08:19)',1199142370,5404961,2017-BMW-Berlin-Marathon,3,2017
+b'1870',b'Miguel A Garcia',b'M',b'55-64',b'3:10:50',b'4:31/km',b'2019 Chicago Marathon',2786575766,29604452,2019-Chicago-Marathon,2,2019
+b'1556',b'Erik Zukauskas',b'M',b'35-44',b'3:18:04',b'4:42/km',b'NYC Marathon!',1946198319,17334364,2018-TCS-New-York-City-Marathon,2,2018
+b'180',b'Kazuyo E.',b'',b'',b'3:11:48',b'4:33/km',b'\xe6\x9c\x9d\xe3\x81\xae\xe3\x83\xa9\xe3\x83\xb3\xe3\x83\x8b\xe3\x83\xb3\xe3\x82\xb0',887226578,18726439,2017-Tokyo-Marathon,2,2017
+b'582',b'Matt Z.',b'M',b'25-34',b'3:03:29',b'4:21/km',b'NYC Marathon!',1264473499,10988248,2017-TCS-New-York-City-Marathon,2,2017
+b'69',b'Paul Piper',b'M',b'35-44',b'2:29:11',b'3:32/km',b'London Marathon 2:29:06.',2326012005,7771863,2019-Virgin-Money-London-Marathon,6,2019
+b'91',b'Denize R.',b'M',b'25-34',b'2:44:10',b'3:53/km',b'Morning Run',1278938811,26235781,2017-Chicago-Marathon,4,2017
+b'560',b'Aaron Esposito',b'M',b'45-54',b'3:46:10',b'5:22/km',"b'10/12/2014 Chicago, Illinois'",207243016,2386508,2014-Chicago-Marathon,2,2014
+b'569',b'andrew spector',b'M',b'25-34',b'3:13:00',b'4:34/km',b'2016 Chicago Marathon',739746661,6459996,2016-Chicago-Marathon,2,2016
+b'1408',b'Giles C.',b'M',b'55-64',b'3:12:55',b'4:34/km',b'London marathon - a bit warm but amazing ...',1524576270,249247,2018-Virgin-Money-London-Marathon,3,2018
+b'1088',b'Rafa V.',b'M',b'35-44',b'3:47:55',b'5:24/km',b'Carrera matutina',427119986,6724732,2015-New-York-City-Marathon,2,2015
+b'949',b'Colin C.',b'M',b'',b'3:14:15',b'4:36/km',b'London marathon 10 minutes slower than Bo...',292858702,6787011,2015-London-Marathon,2,2015
+b'116',b'Jordan Andersen',b'M',b'',b'2:32:39',b'3:37/km',b'London Marathon',2325287901,12779886,2019-Virgin-Money-London-Marathon,5,2019
+b'1756',b'Amy C.',b'',b'',b'3:10:32',b'4:31/km',b'Morning Run',1512432805,22808480,2018-Boston-Marathon,3,2018
+b'808',b'Nick Husson',b'M',b'35-44',b'2:58:02',b'4:13/km',b'NYC Marathon - 2:57:59! Guaranteed entry ...',2838830636,22779618,2019-TCS-New-York-City-Marathon,3,2019
+b'370',b'John Longo',b'M',b'',b'2:56:38',b'4:11/km',"b'04/20/2015 Hopkinton, Massachusetts'",289312399,6643620,2015-Boston-Marathon,6,2015
+b'1151',b'Dirk L.',b'M',b'45-54',b'3:09:55',b'4:30/km',b'BERLIN-MARATHON',1199081095,7517413,2017-BMW-Berlin-Marathon,3,2017
+b'1003',b'Shane A.',b'M',b'45-54',b'3:06:59',b'4:26/km',b'Boston Marathon',948341496,986223,2017-Boston-Marathon,3,2017
+b'1332',b'Ady Pendred \xf0\x9f\x87\xac\xf0\x9f\x87\xa7',b'M',b'45-54',b'3:11:38',b'4:32/km',b'London Marathon - The hot one!(official t...',1524628312,3777561,2018-Virgin-Money-London-Marathon,3,2018
+b'561',b'Naomi Mitchell',b'F',b'',b'2:54:31',b'4:08/km',b'Morning Run',556158410,2026157,2016-London-Marathon,4,2016
+b'138',b'Phil L.',b'M',b'35-44',b'2:49:09',b'4:01/km',b'2016 Boston Marathon',549347501,335207,2016-Boston-Marathon,5,2016
+b'382',b'Lauren D.',b'F',b'25-34',b'3:28:04',b'4:56/km',b'NYC MARATHON!!!!',2014475967,37027255,2014-New-York-City-Marathon,4,2014
+b'395',b'Mads Grimsbu',b'M',b'35-44',b'2:48:23',b'3:59/km',b'Chicago Marathon | 2:48:22',2786361811,11080546,2019-Chicago-Marathon,2,2019
+b'580',b'Stephanie K.',b'F',b'35-44',b'3:13:26',b'4:35/km',b'Morning Run',739604255,2210598,2016-Chicago-Marathon,2,2016
+b'1960',b'LoraLee Weaver',b'F',b'45-54',b'3:11:54',b'4:33/km',b'CHICAGO Marathon',2786188640,25750938,2019-Chicago-Marathon,2,2019
+b'225',b'Xaviour W.',b'M',b'',b'2:44:12',b'3:53/km',b'Berlin marathon and running with cramps f...',1199178122,7241069,2017-BMW-Berlin-Marathon,4,2017
+b'998',b'Gill B.',b'F',b'35-44',b'3:15:27',b'4:38/km',"b'04/26/2015 London, United Kingdom'",293164567,5952722,2015-London-Marathon,4,2015
+b'1603',b'James S.',b'M',b'45-54',b'3:00:07',b'4:16/km',b'London Marathon',2325734591,8905341,2019-Virgin-Money-London-Marathon,4,2019
+b'153',b'Andrew Calyvopoulos',b'M',b'45-54',b'3:05:35',b'4:24/km',"b'10/12/2014 Chicago, Illinois'",206592434,5168140,2014-Chicago-Marathon,2,2014
+b'761',b'Sara C.',b'F',b'35-44',b'3:30:14',b'4:59/km',b'Boston Marathon 2014',132769248,2240028,2014-Boston-Marathon,3,2014
+b'589',b'Dominik Hellstern',b'M',b'25-34',b'2:54:25',b'4:08/km',b'\xf0\x9f\x97\xbd TCS NYC Marathon 2019 \xf0\x9f\x97\xbd',2838882405,18330273,2019-TCS-New-York-City-Marathon,2,2019
+b'1070',b'Corredora C.',b'',b'45-54',b'3:30:12',b'4:59/km',b'Morning Run',739715964,7444410,2016-Chicago-Marathon,2,2016
+b'757',b'Mark R.',b'M',b'45-54',b'2:57:50',b'4:13/km',b'London Marathon....PB.....2:57:49',555278296,7505553,2016-London-Marathon,5,2016
+b'20',b'Yipeng Li',b'M',b'35-44',b'2:30:10',b'3:34/km',b'\xe6\x99\xa8\xe9\x97\xb4\xe8\xb7\x91\xe6\xad\xa5',1946142672,15805252,2018-TCS-New-York-City-Marathon,7,2018
+b'768',b'Mario Nascimento',b'M',b'45-54',b'3:01:29',b'4:18/km',b'Corrida matinal',2038792665,37449767,2018-Chicago-Marathon,3,2018
+b'305',b'Paul B.',b'M',b'25-34',b'2:40:31',b'3:48/km',b'2019 Berlin Marathon',2748913330,231196,2019-BMW-Berlin-Marathon,2,2019
+b'203',b'\xc3\x98ystein Sandvik',b'M',b'35-44',b'2:42:19',b'3:51/km',b'Ble sm\xc3\xa5tungt i Berlin - men digg \xc3\xa5 v\xc3\xa6re f...',1845304272,16004160,2018-BMW-Berlin-Marathon,3,2018
+b'667',b'Chris H.',b'M',b'',b'2:54:11',b'4:08/km',b'Chicago Marathon 2019',2786281911,1016958,2019-Chicago-Marathon,3,2019
+b'941',b'David Y.',b'M',b'45-54',b'2:59:36',b'4:15/km',b'2019 TCS New York City Marathon \xe2\x98\x80\xef\xb8\x8fwhoops ...',2839017602,319017,2019-TCS-New-York-City-Marathon,2,2019
+b'1460',b'Peter D.',b'M',b'55-64',b'2:58:52',b'4:14/km',b'London marathon garmin went mad and total...',2326445069,14597423,2019-Virgin-Money-London-Marathon,2,2019
+b'1777',b'Sarah M.',b'F',b'35-44',b'4:10:07',b'5:56/km',b'Fuck yeah marathon',424680113,4674743,2015-New-York-City-Marathon,2,2015
+b'446',b'Eiji O.',b'M',b'35-44',b'3:41:17',b'5:15/km',b'Tokyo Marathon 2017',879925831,124713,2017-Tokyo-Marathon,2,2017
+b'1901',b'Ruth D.',b'F',b'45-54',b'3:41:46',b'5:15/km',"b'04/26/2015 London, United Kingdom'",293570958,488405,2015-London-Marathon,3,2015
+b'780',b'Ralph G.',b'M',b'',b'3:02:42',b'4:20/km',b'Boston Marathon',946584061,8144048,2017-Boston-Marathon,4,2017
+b'791',b'Joel Z. G.',b'M',b'55-64',b'3:41:23',b'5:15/km',b'Morning Run',991139921,1536621,2015-Chicago-Marathon,2,2015
+b'1450',b'J. Nicholson',b'M',b'45-54',b'3:13:52',b'4:36/km',b'2017 Boston Marathon',3787962151,63953318,2017-Boston-Marathon,4,2017
+b'426',b'Ryan Starbuck',b'M',b'35-44',b'2:52:40',b'4:06/km',"b'Wet, wild and covered in Vaseline. 122nd ...'",1512269689,1107614,2018-Boston-Marathon,10,2018
+b'740',b'Joshua Sauvageau',b'M',b'35-44',b'3:38:37',b'5:11/km',b'Chicago Marathon',411002653,8478589,2015-Chicago-Marathon,2,2015
