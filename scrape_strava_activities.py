@@ -28,8 +28,8 @@ def scrape_activities(username, password, inputCsv, outCsv):
     login_page.raise_for_status()
     login_form = mechanicalsoup.Form(login_page.soup.select_one('#login_form'))
     login_form.input({"email":user, "password": password})
-
-
+    page2 = browser.submit(login_form, login_page.url)
+    print(page2)
     #REQUEST LIMIT IS 1000/day, 100/15min
     # RANDOM SAMPLING?
 
@@ -45,14 +45,14 @@ def scrape_activities(username, password, inputCsv, outCsv):
     url = "https://strava.com/activities/{}"
 
 
-    with open(outCsv, 'w',newline='') as results_file:
+    with open(outCsv, 'a',newline='') as results_file:
         strava_write=csv.writer(results_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             
         #firstrow=['activity_id','shoes','device','suffer']
         #strava_write.writerow(firstrow)
 
         count =0
-        for activity in activities:
+        for activity in activities[210:]:
             
             row=[]
             row.append(activity)
@@ -86,7 +86,7 @@ def scrape_activities(username, password, inputCsv, outCsv):
                 suffer=soup.find("li",{"class":"suffer-score"})
                 
                 if(suffer):
-                    suffer=suffer.find('a')
+                    suffer=suffer.find('strong')
                     suffer_entry=suffer.text.strip('\n').strip().encode('utf-8')
                 else:
                     suffer_entry=b'\xe2\x80\x94'
@@ -140,7 +140,7 @@ def scrape_activities(username, password, inputCsv, outCsv):
                 suffer=soup.find("li",{"class":"suffer-score"})
                 
                 if(suffer):
-                    suffer=suffer.find('a')
+                    suffer=suffer.find('strong')
                     suffer_entry=suffer.text.strip('\n').strip().encode('utf-8')
                 else:
                     suffer_entry=b'\xe2\x80\x94'
@@ -162,7 +162,9 @@ def scrape_activities(username, password, inputCsv, outCsv):
     print(f"Completed Execution in {duration:0.2f} seconds")
 
 #example program call
-scrape_activities(user_pass[0][0],user_pass[0][1],'csv/sampledData.csv','activityScrapeCsv/ouput1.csv')
+scrape_activities(user_pass[3][0],user_pass[3][1],'inputCsv/input0.csv','outputActivityCsv/output0.csv')
+
+#down here, could just line up like 10 program calls. or could let maxwell's computer try PARALLEL processing
 
 """
 
