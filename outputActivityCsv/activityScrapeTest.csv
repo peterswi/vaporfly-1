@@ -1,1002 +1,1001 @@
-activity_id,shoes,device,suffer
-402503778,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-552416209,"b'adidas Adizero Tempo\n(3,325.0 mi)'",b'Garmin Forerunner 235',b'385'
-207307777,"b'Brooks Adrenaline GTS\n(2,167.6 mi)'",b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-207462917,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-556516803,b'Newton Gravity 5\n(819.4 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-1259257289,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-220449131,"b'Brooks Ghost\n(1,037.2 mi)'",b'Garmin Forerunner 620',b'\xe2\x80\x94'
-289322304,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-1264433752,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-292915271,b'adidas Supernova Glide Boost\n(655.9 mi)',b'TomTom',b'\xe2\x80\x94'
-446482988,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-1612178182,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-232240072,b'Mizuno Sayonara 1\n(510.7 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-965099467,"b'Puma Bio Ride Bolt\n(3,642.9 mi)'",b'Garmin Forerunner 410',b'\xe2\x80\x94'
-424648564,b'Mizuno Wave Rider 17\n(445.0 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-550176231,"b'Unbranded\n(8,138.6 mi)'",b'Garmin Forerunner 620',b'\xe2\x80\x94'
-410976393,"b'La Sportiva Helios\n(1,637.2 mi)'",b'Garmin Forerunner 620',b'\xe2\x80\x94'
-289576056,b'Nike LunaRacer 3 (Blue)\n(527.7 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-401188707,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'260'
-425058168,b'\xe2\x80\x94',b'Suunto Ambit3 Sport',b'\xe2\x80\x94'
-257081855,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'373'
-1182608371,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-350512006,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-289310242,b'\xe2\x80\x94',b'Strava Android App',b'\xe2\x80\x94'
-426438328,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-549396080,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-549842056,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-401278383,b'Nike Zoom Streak 5 (Laser Crimson)\n(733.2 mi)',b'TomTom',b'\xe2\x80\x94'
-555518906,b'\xe2\x80\x94',b'Suunto Ambit',b'\xe2\x80\x94'
-289243007,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-289667000,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-293737859,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 2',b'367'
-567180964,b'\xe2\x80\x94',b'Polar V800',b'482'
-902598739,b'\xe2\x80\x94',b'GPX',b'\xe2\x80\x94'
-864084263,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'565'
-214801870,"b'Brooks Glycerin\n(1,293.4 mi)'",b'Strava Android App',b'\xe2\x80\x94'
-701233944,b'\xe2\x80\x94',b'GPX',b'\xe2\x80\x94'
-401358938,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-424861696,"b'Brooks Glycerin\n(2,116.2 mi)'",b'Garmin Forerunner 620',b'359'
-293000366,b'Nike Zoom Streak 4 - Yellow\n(377.0 mi)',b'Garmin Forerunner 410',b'\xe2\x80\x94'
-739581776,"b'Skechers Go Ultra\n(10,122.3 mi)'",b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-254438023,b'\xe2\x80\x94',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-739997043,b'adidas adios boost 2.0\n(108.8 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-418239913,b'\xe2\x80\x94',b'Garmin Forerunner 10',b'\xe2\x80\x94'
-425795790,b'Nike Lunar 3\n(109.7 mi)',b'GPX',b'\xe2\x80\x94'
-258334843,b'Newton Gravity III\n(887.8 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-557446749,b'\xe2\x80\x94',b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-880554209,"b'New Balance 890v5\n(2,704.7 mi)'",b'\xe2\x80\x94',b'\xe2\x80\x94'
-549716575,b'Luna Sandals Venado 9/18/2015\n(554.6 mi)',b'Garmin Forerunner 620',b'247'
-200750938,b'\xe2\x80\x94',b'Garmin Forerunner 110',b'\xe2\x80\x94'
-550351738,"b'adidas\n(14,934.0 mi)'",b'Garmin Forerunner 220',b'\xe2\x80\x94'
-401712793,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-549553092,b'New Balance 1400v3\n(499.7 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-410980834,b'Altra Torin 2.0 (2nd pair)\n(77.4 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-401270464,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'598'
-741087429,b'\xe2\x80\x94',b'Suunto',b'\xe2\x80\x94'
-216256937,b'Brooks Adrenaline GTS 14 (red)\n(496.0 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1222758170,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-427696211,b'New Balance 890 v5\n(838.8 mi)',b'Garmin Forerunner 410',b'\xe2\x80\x94'
-290778480,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-739731588,b'Brooks Ghost\n(403.4 mi)',b'Garmin Forerunner 610',b'728'
-418476604,"b'On CloudRacer\n(1,756.9 mi)'",b'\xe2\x80\x94',b'\xe2\x80\x94'
-556027529,b'New Balance 1400 v4\n(196.6 mi)',b'Polar M400',b'\xe2\x80\x94'
-293191495,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-411040093,b'adidas Adios Boost 2\n(228.2 mi)',b'Garmin Forerunner 910XT',b'322'
-556166862,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-289257358,"b'HOKA ONE ONE\n(1,506.9 mi)'",b'Garmin Forerunner 220',b'\xe2\x80\x94'
-412325997,b'\xe2\x80\x94',b'Garmin Forerunner 210',b'\xe2\x80\x94'
-424655028,b'adidas adios bost Size 10\n(635.1 mi)',b'Strava iPhone App',b'\xe2\x80\x94'
-293195656,b'\xe2\x80\x94',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-411224572,b'ASICS Nimbus 17\n(594.0 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-549382861,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-739979656,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 2',b'\xe2\x80\x94'
-135592786,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-424697032,b'Brooks Adrenaline GTS\n(305.9 mi)',b'Garmin Forerunner 920XT',b'232'
-200892921,b'ASICS kayano azul\n(253.5 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-401918783,b'Brooks Ghost\n(150.0 mi)',b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-739691494,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-424772665,b'Nike Zoom Elite 8\n(584.1 mi)',b'Garmin f\xc4\x93nix 2',b'\xe2\x80\x94'
-549599678,b'Saucony Guide 7: Yellow-White (01.31.16)\n(447.2 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-293623241,"b'Saucony Triumph 10\n(1,703.8 mi)'",b'Garmin Forerunner 405',b'\xe2\x80\x94'
-259324866,b'Saucony Triumph 11\n(688.5 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-203391394,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-1276463892,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-289750093,b'Saucony Mirage #5 Blue\n(230.3 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-401200109,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-407339285,b'\xe2\x80\x94',b'TomTom',b'\xe2\x80\x94'
-631381599,b'On Cloudster\n(468.0 mi)',b'Garmin Forerunner 910XT',b'379'
-133329031,b'Pearl Izumi E:motion N1 Road\n(263.3 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-950796714,b'adidas adios\n(224.0 mi)',b'GPX',b'\xe2\x80\x94'
-242544084,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-4358333024,b'\xe2\x80\x94',b'Suunto Ambit2 S',b'\xe2\x80\x94'
-289387157,b'ASICS 33-DFA\n(93.9 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-298385325,b'adidas\n(346.0 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-232483033,b'adidas energy boost vert fluo\n(316.0 mi)',b'GPX',b'\xe2\x80\x94'
-214965059,b'\xe2\x80\x94',b'Suunto Ambit2',b'\xe2\x80\x94'
-289229393,b'Saucony kinvara 5\n(510.2 mi)',b'Strava iPhone App',b'\xe2\x80\x94'
-742838808,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-411232901,b'\xe2\x80\x94',b'Garmin Forerunner 10',b'\xe2\x80\x94'
-705577640,b'adidas Adizero Boston\n(755.5 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-293158752,b'Newton Distance Racer\n(134.9 mi)',b'Garmin Forerunner 310XT',b'658'
-401423964,b'Brooks Ghost\n(515.2 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-258816175,b'Mizuno \xe3\x82\xa6\xe3\x82\xa8\xe3\x83\xbc\xe3\x83\x96\xe3\x82\xb9\xe3\x83\x9a\xe3\x83\xbc\xe3\x82\xb5\xe3\x83\xbc\xe3\x83\x80\xe3\x82\xa4\xe3\x83\x8a\xe3\x83\xaf\xe3\x82\xa4\xe3\x83\x89\n(92.0 mi)',b'Suunto Ambit2',b'\xe2\x80\x94'
-206968906,b'\xe2\x80\x94',b'\xe2\x80\x94',b'354'
-293636489,b'\xe2\x80\x94',b'\xe2\x80\x94',b'479'
-424763065,b'Skechers Go Run Ultra 2 Black/Lime\n(451.3 mi)',b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-550597869,b'Newton Gravity\n(815.3 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-290169905,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'230'
-132706072,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-214943603,b'Saucony Type A5 white/blue/yellow NEW 2014\n(26.6 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-214897640,b'Nike LunarSpider LT+ 2\n(42.4 mi)',b'Suunto Ambit2',b'279'
-292932088,b'Newton Distace\n(272.8 mi)',b'Garmin Forerunner 910XT',b'360'
-215084167,b'Nike Lunarglide +5\n(130.0 mi)',b'Garmin f\xc4\x93nix 2',b'\xe2\x80\x94'
-411858964,b'Mizuno Inspire 10\n(988.8 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-739526386,b'\xe2\x80\x94',b'Garmin v\xc3\xadvoactive',b'469'
-555627314,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-3006701225,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-960303826,b'Altra Torin 2015\n(87.5 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-555371544,b'adidas glide boost blue\n(484.9 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-200902495,"b'New Balance 890 v4\n(9,927.6 mi)'",b'Garmin Forerunner 210',b'\xe2\x80\x94'
-549783159,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'610'
-401162567,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-739670199,"b'ASICS 2000 4 (1)\n(12,775.5 mi)'",b'Garmin Forerunner 230',b'\xe2\x80\x94'
-201362646,b'\xe2\x80\x94',b'Garmin Forerunner 210',b'\xe2\x80\x94'
-555828254,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-411084285,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-217312476,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-550807364,b'Saucony kinvara 6\n(377.6 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-289323839,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-414779915,b'New Balance 880 v2 (Blue)\n(543.0 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-741930007,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-214811210,b'\xe2\x80\x94',b'Suunto Ambit3 Sport',b'\xe2\x80\x94'
-426091843,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-293784838,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-216592812,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-425086628,b'Saucony Fastwitch 6\n(512.3 mi)',b'TomTom',b'\xe2\x80\x94'
-1024825709,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-423017756,b'\xe2\x80\x94',b'Garmin Forerunner 15',b'\xe2\x80\x94'
-555388268,"b'Mizuno Wave Insire 11 Blue\n(1,015.5 mi)'",b'Garmin Forerunner 220',b'\xe2\x80\x94'
-740031809,b'Newton Distance SIII\n(230.4 mi)',b'Garmin Forerunner 735XT',b'885'
-293056091,b'Nike Pegasus 29+ Breathe\n(78.2 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-299300056,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-739516717,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-704076979,b'\xe2\x80\x94',b'Garmin Forerunner 210',b'\xe2\x80\x94'
-402028175,b'ASICS Kayano\n(430.2 mi)',b'TomTom',b'\xe2\x80\x94'
-555500147,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-405609087,b'\xe2\x80\x94',b'Suunto Ambit3 Peak',b'\xe2\x80\x94'
-411293178,"b'Brooks Adrenaline GTX\n(2,761.7 mi)'",b'Garmin f\xc4\x93nix 2',b'\xe2\x80\x94'
-555404444,b'ASICS DS Trainer 20\n(295.7 mi)',b'Garmin Forerunner 620',b'391'
-216501805,b'Mizuno\n(346.8 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-289259389,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-570196457,b'\xe2\x80\x94',b'Garmin Forerunner 10',b'\xe2\x80\x94'
-215220550,b'ASICS\n(989.7 mi)',b'Suunto Ambit',b'\xe2\x80\x94'
-411024516,b'Brooks racer st\n(523.0 mi)',b'Suunto Ambit2 S',b'\xe2\x80\x94'
-148666118,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-549656494,b'Saucony\n(700.2 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-290115199,"b'ASICS GEL-Nimbus 15 LITE-SHOW\n(1,017.9 mi)'",b'Garmin Forerunner 305',b'\xe2\x80\x94'
-555279093,b'ASICS GT 1000\n(607.1 mi)',b'Garmin v\xc3\xadvoactive',b'\xe2\x80\x94'
-289256623,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-549483070,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-427151337,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-555287835,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-401170543,b'Mizuno Hitogami 2\n(329.1 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-785813802,"b'adidas Adios Boost 2\n(7,373.0 mi)'",b'GPX',b'\xe2\x80\x94'
-555429358,b'Nike Lunarlon 7 (marathon 2016)\n(854.3 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-300575978,"b'adidas adizero boost2\n(1,159.4 mi)'",b'Garmin Forerunner 410',b'\xe2\x80\x94'
-323872251,"b'Nike air zoom structure 18\n(1,211.6 mi)'",b'GPX',b'\xe2\x80\x94'
-289399134,b'Mizuno Wave Hitogami 2\n(346.9 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-411902621,b'adidas UltraBoost\n(388.4 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-739665692,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'308'
-196439626,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-555261223,b'\xe2\x80\x94',b'Suunto Ambit3 Sport',b'\xe2\x80\x94'
-739628367,b'Newton Newton Distance V\n(258.3 mi)',b'Garmin Forerunner 735XT',b'321'
-401791695,b'Brooks PureConnect\n(805.9 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-293439356,"b'adidas boost\n(3,236.7 mi)'",b'Garmin Forerunner 610',b'\xe2\x80\x94'
-550751376,"b'ASICS GT 2000 Series\n(3,165.6 mi)'",b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-653039043,b'\xe2\x80\x94',b'GPX',b'\xe2\x80\x94'
-141843796,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'338'
-424684352,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-425127453,b'Brooks PureCadence\n(260.0 mi)',b'Garmin Forerunner 210',b'\xe2\x80\x94'
-411518802,b'ASICS DS Racer\n(100.4 mi)',b'Garmin Forerunner 620',b'317'
-739540229,"b'New Balance Zante\n(3,615.5 mi)'",b'Garmin Forerunner 235',b'698'
-200757823,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'242'
-207072229,"b'Nike Lunar Eclipse\n(9,236.2 mi)'",b'Garmin Forerunner 620',b'\xe2\x80\x94'
-549376512,b'\xe2\x80\x94',b'Garmin Forerunner 25',b'\xe2\x80\x94'
-555690499,b'Brooks Ravenna\n(829.9 mi)',b'TomTom',b'\xe2\x80\x94'
-424613418,b'Brooks Glycerin\n(455.1 mi)',b'Strava iPhone App',b'\xe2\x80\x94'
-556338042,b'\xe2\x80\x94',b'Suunto Ambit2',b'\xe2\x80\x94'
-214805312,b'ASICS Gel Kayano 20\n(259.4 mi)',b'Garmin Forerunner 620',b'448'
-292418258,"b'No name\n(6,274.0 mi)'",b'Garmin Forerunner 305',b'\xe2\x80\x94'
-289450747,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-401477823,b'Nike Flyknit Racer Sherbet\n(395.3 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-293001634,b'\xe2\x80\x94',b'Garmin Forerunner 205',b'\xe2\x80\x94'
-696250225,b'\xe2\x80\x94',b'Fitbit Surge',b'\xe2\x80\x94'
-292984203,b'ASICS Gel - Cumulus 16 Lite - Show\n(547.7 mi)',b'Garmin Forerunner 10',b'\xe2\x80\x94'
-299992127,b'\xe2\x80\x94',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-425516196,b'Saucony FlexFilm A5\n(624.1 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-740440697,b'New Balance 1400v3 - Lime\n(239.4 mi)',b'Soleus GPS',b'\xe2\x80\x94'
-549508965,b'New Balance RC 1400 v3\n(268.6 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1387182712,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-401375095,b'Pearl Izumi ROAD N 0\n(923.1 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-739584596,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-401856204,b'Saucony Fastwitch 6\n(408.4 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-133042318,b'Saucony Kinvara 3 Birthday Bostonians\n(306.7 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-556716173,"b'Saucony Triumph\n(3,321.4 mi)'",b'Garmin Forerunner 410',b'\xe2\x80\x94'
-549606164,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-401190455,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'789'
-214894019,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-427738688,"b'Brooks Adrenaline GTS\n(1,950.7 mi)'",b'Garmin Forerunner 610',b'\xe2\x80\x94'
-658370584,b'\xe2\x80\x94',b'Garmin Forerunner 110',b'\xe2\x80\x94'
-549355937,"b'Saucony Fasttwich 6\n(20,631.8 mi)'",b'Garmin Forerunner 920XT',b'566'
-402901551,b'Saucony kinvara 6\n(619.6 mi)',b'Garmin Forerunner 610',b'328'
-553760556,b'\xe2\x80\x94',b'Suunto Ambit3 Peak',b'\xe2\x80\x94'
-289402091,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-555313707,b'Saucony Omni 13 new\n(502.0 mi)',b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-743477032,b'Nike Pegasus 33\n(649.5 mi)',b'Suunto',b'\xe2\x80\x94'
-555307463,b'Nike Free 5.0 (#5)\n(501.2 mi)',b'Garmin Forerunner 25',b'\xe2\x80\x94'
-289265058,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-556141368,b'\xe2\x80\x94',b'Garmin Forerunner 305',b'\xe2\x80\x94'
-206602570,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-401295862,"b'ASICS Nimbus\n(6,002.4 mi)'",b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-549526642,b'adidas adios\n(82.3 mi)',b'Garmin f\xc4\x93nix 2',b'\xe2\x80\x94'
-739657388,b'Nike Flyknit Free\n(95.6 mi)',b'Garmin f\xc4\x93nix 3',b'115'
-555597872,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-549557157,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-290388472,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-739746961,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-401105506,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-401217196,b'Nike Lunarracers\n(280.9 mi)',b'Garmin Forerunner 110',b'\xe2\x80\x94'
-739875425,b'\xe2\x80\x94',b'TomTom',b'\xe2\x80\x94'
-410961894,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-739887614,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-292975603,b'Zoot Unassigned\n(572.8 mi)',b'Garmin Forerunner 620',b'411'
-401193928,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-555510458,b'\xe2\x80\x94',b'GPX',b'339'
-206563370,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-739625715,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-739608589,b'Nike LunarTempo- Third Edition Green\n(171.1 mi)',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-427297612,"b'ASICS Kayano 21\n(2,559.6 mi)'",b'Garmin Forerunner 210',b'\xe2\x80\x94'
-555260282,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-293178019,b'\xe2\x80\x94',b'Garmin Forerunner 110',b'\xe2\x80\x94'
-739561308,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-258422084,b'ASICS Gel Kayano 20\n(744.1 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-206625130,b'HOKA ONE ONE Huaka\n(351.2 mi)',b'Garmin Forerunner 620',b'364'
-556714459,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-424623639,b'adidas adios boost\n(843.7 mi)',b'TomTom',b'314'
-289402545,b'New Balance 1400 v2\n(292.0 mi)',b'Garmin Forerunner 210',b'\xe2\x80\x94'
-426195483,b'ASICS Kayano 19\n(453.5 mi)',b'GPX',b'412'
-132848969,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-549388302,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-555291207,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-289317934,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-290540997,b'\xe2\x80\x94',b'Garmin Forerunner 10',b'\xe2\x80\x94'
-555505539,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'242'
-549517472,b'Nike Streak LT\n(210.7 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-290189952,b'adidas Boston 5\n(456.0 mi)',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-551373033,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-424637243,"b'Newton\n(1,559.7 mi)'",b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-740048922,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-555783062,b'Brooks racer st\n(631.5 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-549381990,b'Brooks Adrenaline GTS\n(269.2 mi)',b'Garmin Forerunner 920XT',b'322'
-563475648,"b'adidas Adizero Adios Boost 2 (second pair)\n(7,638.9 mi)'",b'Garmin Forerunner 410',b'\xe2\x80\x94'
-290436699,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-819234379,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-427297609,b'\xe2\x80\x94',b'Garmin Forerunner 210',b'\xe2\x80\x94'
-253283573,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-556250514,b'\xe2\x80\x94',b'TomTom',b'\xe2\x80\x94'
-555239067,b'adidas Boost supernova 8\n(473.3 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-555684326,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-2769914456,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'355'
-289262855,b'Saucony kinvara 5\n(467.3 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-739706038,b'ASICS Hyperspeed 7\n(956.3 mi)',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-289205126,b'adidas adios\n(320.4 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-550885160,b'adidas Adios Boost II\n(498.0 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-214892032,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-410975994,b'New Balance 1400 v3 Red/Pink\n(283.3 mi)',b'Suunto Ambit3 Sport',b'337'
-428474349,b'\xe2\x80\x94',b'Suunto Ambit2',b'\xe2\x80\x94'
-739535436,b'Newton Gravity 5\n(222.8 mi)',b'Garmin Forerunner 235',b'444'
-431703265,b'\xe2\x80\x94',b'Garmin Forerunner 210',b'\xe2\x80\x94'
-739946841,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-404959636,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-553238009,b'\xe2\x80\x94',b'Garmin Forerunner 110',b'\xe2\x80\x94'
-293091421,"b'Brooks Ghost\n(2,278.9 mi)'",b'\xe2\x80\x94',b'627'
-739781836,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-739820010,"b'adidas adios\n(1,115.6 mi)'",b'Garmin Forerunner 620',b'\xe2\x80\x94'
-739731992,b'Nike Pegasus 33\n(411.7 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-401534648,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-555837206,b'\xe2\x80\x94',b'TomTom',b'\xe2\x80\x94'
-217710977,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-133823774,b'adidas adios boost\n(29.8 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-739927842,b'Nike Zoom Streak 6 (Racer Blue)\n(192.8 mi)',b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-245672562,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-289500886,b'Saucony kinvara 5\n(401.0 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-200593761,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'323'
-295478664,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-201653359,b'ASICS GT 2000 (Black)\n(268.6 mi)',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-555288072,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'579'
-555500306,b'adidas Glide\n(401.5 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-424744189,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-216473967,b'ASICS cumulus 16\n(379.4 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-292847181,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-556455751,b'\xe2\x80\x94',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-3009433722,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-133154217,b'Mizuno Sayonara black/white 2\n(155.2 mi)',b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-743969681,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-4093053694,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-424747204,b'\xe2\x80\x94',b'Garmin epix',b'\xe2\x80\x94'
-1280950956,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-415613822,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-403028356,b'ASICS NOOSA 10\n(287.8 mi)',b'Suunto Ambit2',b'\xe2\x80\x94'
-739532281,b'Newton Distance S IV\n(123.2 mi)',b'Strava iPhone App',b'\xe2\x80\x94'
-293803676,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'652'
-292863603,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'374'
-551946710,b'Saucony Kinvara\n(428.9 mi)',b'Garmin Forerunner 15',b'\xe2\x80\x94'
-549800473,"b'New Balance 880v4\n(3,457.8 mi)'",b'Garmin Forerunner 220',b'\xe2\x80\x94'
-550078182,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'633'
-424799862,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-289807889,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 2',b'\xe2\x80\x94'
-424711161,b'Mizuno Wave Rider\n(401.9 mi)',b'Strava iPhone App',b'\xe2\x80\x94'
-741167994,b'Nike lunarglide\n(306.3 mi)',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-735549425,b'\xe2\x80\x94',b'GPX',b'\xe2\x80\x94'
-741194332,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-550254045,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-206748603,b'Saucony Kinvara 3 - Silver/Blue/Orange Stripe\n(351.2 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-549517236,b'\xe2\x80\x94',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-289949958,b'Brooks Glycerin\n(448.9 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-425447257,b'Brooks Adrenaline GTS\n(533.7 mi)',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-549987416,b'adidas adizero boston 5 #1\n(529.2 mi)',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-549487314,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-289501162,b'Saucony Triumph 11\n(402.3 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-133350428,b'Newton Gravity yellow\n(404.4 mi)',b'Garmin Forerunner 305',b'\xe2\x80\x94'
-2928086196,b'\xe2\x80\x94',b'\xe2\x80\x94',b'461'
-293134847,"b'Inov-8 195\n(3,858.0 mi)'",b'Garmin Forerunner 610',b'\xe2\x80\x94'
-404257261,b'\xe2\x80\x94',b'Suunto Ambit',b'\xe2\x80\x94'
-739708778,b'HOKA ONE ONE Clifton 3\n(616.2 mi)',b'Garmin Forerunner 910XT',b'357'
-555525950,b'\xe2\x80\x94',b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-401168512,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-4306257129,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-549379571,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-258225776,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-740670603,b'New Balance MRC1600v2\n(108.9 mi)',b'Garmin f\xc4\x93nix 3',b'363'
-553601734,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-991069288,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-740183488,b'\xe2\x80\x94',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-425073983,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-549367262,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-401195682,b'Brooks PureCadence\n(760.2 mi)',b'Garmin Forerunner 920XT',b'779'
-549758922,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-551079806,"b'Saucony Ride 7\n(11,061.6 mi)'",b'Garmin Forerunner 630',b'\xe2\x80\x94'
-207403470,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-206720801,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-549438633,"b""Newton Gravity (girl's)\n(544.6 mi)""",b'Garmin Forerunner 920XT',b'832'
-740403523,b'Nike Lunartempo2-Orange\n(133.3 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-211254285,b'\xe2\x80\x94',b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-549792844,b'Brooks Launch\n(519.0 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-216187665,b'\xe2\x80\x94',b'Garmin Forerunner 305',b'\xe2\x80\x94'
-809482899,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-132835166,b'Saucony Type A5\n(270.1 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-555411057,"b'Saucony Mirage 5\n(7,473.0 mi)'",b'Garmin Forerunner 225',b'\xe2\x80\x94'
-293429733,b'\xe2\x80\x94',b'Garmin Forerunner 110',b'\xe2\x80\x94'
-401566443,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-555675053,b'Brooks Adrenaline GTS\n(278.4 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-412650607,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-504052394,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-289839953,b'\xe2\x80\x94',b'TomTom',b'\xe2\x80\x94'
-289276046,b'HOKA ONE ONE Clifton\n(337.6 mi)',b'Garmin f\xc4\x93nix 3',b'327'
-207015221,b'\xe2\x80\x94',b'Suunto Ambit2 S',b'\xe2\x80\x94'
-555779505,b'adidas Adizero Ace 7\n(206.1 mi)',b'GPX',b'\xe2\x80\x94'
-401230977,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-424717089,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'658'
-289296159,b'Mizuno Wave 18\n(463.1 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-739794592,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-215029394,b'New Balance Fresh Foam 980 V1 AW14 Black/Green\n(440.7 mi)',b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-404571951,"b'Salomon S-Lab Sense 4 Ultra\n(2,615.1 mi)'",b'Garmin f\xc4\x93nix 3',b'231'
-739801291,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-134511290,"b'No name\n(6,274.0 mi)'",b'Garmin Forerunner 305',b'\xe2\x80\x94'
-280027818,b'\xe2\x80\x94',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-555654400,b'\xe2\x80\x94',b'Strava Android App',b'\xe2\x80\x94'
-993489584,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-549423427,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-549432978,b'Saucony kinvara 7\n(333.5 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-289366612,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-555797763,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-206837524,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-424721769,b'adidas BOSTON BOOST\n(704.3 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-550771007,b'ASICS Gel Pursue 2\n(506.7 mi)',b'Suunto Ambit2',b'\xe2\x80\x94'
-200497324,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-293269857,b'ASICS nimbus 16\n(552.5 mi)',b'Garmin Forerunner 610',b'343'
-411154591,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-424630231,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-411099331,b'Saucony Guide 8\n(301.0 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-424723553,b'\xe2\x80\x94',b'Garmin v\xc3\xadvoactive',b'\xe2\x80\x94'
-401391046,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-223354507,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-289484234,"b'HOKA ONE ONE Stinson EVO\n(12,401.5 mi)'",b'Garmin Forerunner 620',b'\xe2\x80\x94'
-739833456,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-296235176,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-215196610,"b'HOKA ONE ONE Clifton\n(1,187.0 mi)'",b'Garmin Forerunner 620',b'\xe2\x80\x94'
-411028202,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-3445823896,b'\xe2\x80\x94',b'Suunto Ambit',b'\xe2\x80\x94'
-555811264,b'Nike Flyknit Lunar 3\n(542.5 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-549455020,b'adidas BB 5\n(147.4 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-2981697565,"b'Crocs Crocs\n(1,732.1 mi)'",b'\xe2\x80\x94',b'\xe2\x80\x94'
-200536826,b'Mizuno Wave Rider   17 Lime\n(538.5 mi)',b'Suunto Ambit2',b'\xe2\x80\x94'
-739866219,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-550423786,b'\xe2\x80\x94',b'Suunto Ambit',b'289'
-739770234,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-739672823,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-849271884,b'Mizuno Wave Rider 18\n(60.4 mi)',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-206746987,b'Saucony Fastwitch 6\n(54.8 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-3813824442,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-264502985,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-556394340,b'ASICS Hyperspeed 6 Pair 3\n(150.3 mi)',b'Garmin Forerunner 620',b'675'
-426737384,b'\xe2\x80\x94',b'GPX',b'\xe2\x80\x94'
-411845320,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-289208128,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-739667458,b'Merrell Vapor Gloves 2\n(567.1 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-549645197,b'ASICS Nimbus 17 Black / Red\n(854.0 mi)',b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-555511152,b'Brooks Transcend\n(831.4 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-413412953,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'347'
-215315553,b'Newton Distance Elite\n(316.8 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-289238880,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-549402936,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-204196231,b'adidas Feather 2\n(120.7 mi)',b'GPX',b'\xe2\x80\x94'
-560284343,b'ASICS YELLOW HYPERSPEED\n(64.4 mi)',b'Garmin Forerunner 15',b'\xe2\x80\x94'
-739712368,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-685704072,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-549478506,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-3243034553,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-429044510,b'adidas Energy\n(357.1 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-745666923,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-424829184,b'adidas Mineral Ultra Boost\n(792.9 mi)',b'Garmin Forerunner 10',b'\xe2\x80\x94'
-401121945,b'ASICS Nimbus 17\n(776.5 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-424770560,b'Nike Lunartempo (Volt)\n(321.1 mi)',b'TomTom',b'\xe2\x80\x94'
-270350401,b'Nike Lunarglide 8\n(547.1 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-555445673,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-411061922,b'Saucony kinvara 5\n(390.2 mi)',b'Strava Android App',b'\xe2\x80\x94'
-549611609,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'585'
-206524692,b'\xe2\x80\x94',b'GPX',b'\xe2\x80\x94'
-459818243,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-549629042,b'\xe2\x80\x94',b'Suunto Ambit3 Peak',b'298'
-555414677,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-555249123,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-133098352,b'Nike Flyknit +1 (Blue)\n(601.4 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-431711286,b'\xe2\x80\x94',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-424764864,b'Saucony Triumph ISO\n(339.3 mi)',b'Garmin Forerunner 620',b'159'
-515685169,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-556406266,b'adidas Adizero feather 4\n(152.0 mi)',b'Garmin f\xc4\x93nix 2',b'\xe2\x80\x94'
-549567888,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-410961600,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'634'
-199038019,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-292840918,b'\xe2\x80\x94',b'Suunto Ambit',b'\xe2\x80\x94'
-430698644,b'\xe2\x80\x94',b'GPX',b'\xe2\x80\x94'
-451714451,b'\xe2\x80\x94',b'Polar V800',b'261'
-157014713,b'\xe2\x80\x94',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-556800974,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-206826023,b'Brooks PureDrift\n(224.2 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-424825514,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-739590625,b'adidas Adizero Adios 3\n(324.4 mi)',b'Strava iPhone App',b'\xe2\x80\x94'
-555626724,b'\xe2\x80\x94',b'Garmin v\xc3\xadvoactive',b'\xe2\x80\x94'
-555372500,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'283'
-424872939,b'Mizuno Wave Inspire 9 #2\n(373.9 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-695145329,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-557534635,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-293781408,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-289388210,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'331'
-549394984,b'ASICS FA-33\n(326.1 mi)',b'TomTom',b'\xe2\x80\x94'
-549504622,b'adidas Adios adizero 3\n(331.4 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-555499672,b'Saucony Kinvara 5  - New July 15\n(151.7 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-739975737,b'ASICS DS Trainer 20\n(533.5 mi)',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-292974310,"b'Nike Free 5.0\n(1,605.8 mi)'",b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-555403708,b'adidas Adios Boost 2\n(417.2 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-292876224,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-739696896,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-401217829,b'Saucony Vitarra\n(789.9 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-993436658,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1504252865,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-289358180,b'adidas Energy Boost 2.0\n(59.7 mi)',b'\xe2\x80\x94',b'269'
-739622608,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'241'
-201299967,b'ASICS GT 2000 V2\n(303.3 mi)',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-293853711,"b'Newton Gravity 2013\n(6,251.1 mi)'",b'GPX',b'\xe2\x80\x94'
-555272702,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-424715686,b'HOKA ONE ONE Huaka 2\n(309.7 mi)',b'Garmin Forerunner 620',b'473'
-292844138,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-462865556,"b'Nike Pegasus\n(3,306.2 mi)'",b'\xe2\x80\x94',b'\xe2\x80\x94'
-555871736,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-135867634,b'\xe2\x80\x94',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-425311455,b'\xe2\x80\x94',b'Garmin Forerunner 110',b'\xe2\x80\x94'
-555368239,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-555264564,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-549817169,b'adidas Energy Boost\n(745.4 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-249083930,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-740540859,b'Brooks Adrenaline GTS\n(267.5 mi)',b'Garmin Forerunner 15',b'\xe2\x80\x94'
-258199795,"b'Mizuno wave aero 12 slim Race\n(1,776.7 mi)'",b'Garmin Forerunner 410',b'\xe2\x80\x94'
-1189092177,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-289393968,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-289357251,b'ASICS Gel Cumulus 16\n(588.1 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-201818541,b'\xe2\x80\x94',b'Garmin Forerunner 410',b'\xe2\x80\x94'
-555510468,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-401527934,b'New Balance MR 1400 #8\n(555.9 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1946628010,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-2325776413,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-1512257044,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'383'
-946555160,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1424617151,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2838936835,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'564'
-879835315,b'Brooks Launch\n(518.4 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1199160226,b'adidas adios adizeros 3\n(205.9 mi)',b'TomTom',b'\xe2\x80\x94'
-1845092702,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-1199788991,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1845254453,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-2292495583,b'\xe2\x80\x94',b'Garmin v\xc3\xadvoactive HR',b'\xe2\x80\x94'
-2292284678,b'Nike PEGASUS 34\n(632.4 mi)',b'Garmin Forerunner 235',b'344'
-946613379,"b'Saucony\n(14,135.5 mi)'",b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1262967963,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'692'
-1199062749,b'Nike the 1%\n(222.4 mi)',b'Garmin Forerunner 235',b'473'
-1890480315,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-1199104203,b'Nike LunarTempo 2\n(256.8 mi)',b'Garmin f\xc4\x93nix 5',b'621'
-1524529202,b'Nike Zoom Fly\n(117.0 mi)',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-1713317755,b'\xe2\x80\x94',b'Garmin Forerunner 35',b'\xe2\x80\x94'
-2786125343,b'Nike Vaporfly 4% Flyknit\n(28.6 mi)',b'\xe2\x80\x94',b'220'
-1512438040,b'Nike Free Flyknit Rn Crimson\n(500.4 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1263313491,"b'HOKA ONE ONE Clifton 2\n(1,060.4 mi)'",b'Garmin Forerunner 225',b'\xe2\x80\x94'
-2839114174,b'Nike Vaporfly Next%\n(49.0 mi)',b'Garmin Forerunner 935',b'448'
-1221315238,b'Saucony kinvara 7\n(170.1 mi)',b'Garmin Forerunner 235',b'580'
-1890977607,"b'adidas adios 3\n(3,844.3 mi)'",b'Garmin Forerunner 935',b'301'
-2750090266,b'\xe2\x80\x94',b'Garmin Forerunner 645 Music',b'\xe2\x80\x94'
-1199263871,b'Saucony Fastwitch 7 Yellow\n(520.6 mi)',b'\xe2\x80\x94',b'406'
-2325333992,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1199931038,b'New Balance Fresh From Boracay V2 blau Marathon\n(591.7 mi)',b'Polar V800',b'\xe2\x80\x94'
-1263217651,b'adidas Supernova\n(657.2 mi)',b'Garmin Forerunner 235',b'317'
-1512226735,"b'HOKA ONE ONE Clayton 2 (III)\n(2,159.4 mi)'",b'Garmin Forerunner 935',b'246'
-1424574053,b'\xe2\x80\x94',b'Garmin v\xc3\xadvoactive',b'\xe2\x80\x94'
-1257869505,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-2292204546,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'282'
-1221377798,b'Brooks Adrenaline GTS\n(634.7 mi)',b'Garmin Forerunner 225',b'428'
-1512480416,b'Skechers Go Run 5 Black\n(481.9 mi)',b'Garmin Forerunner 935',b'470'
-1845110515,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2786208518,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1845844920,b'\xe2\x80\x94',b'Apple Watch Series 2',b'433'
-2325652664,b'adidas adizero Boston 6 white/solar red\n(456.1 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1424653598,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'400'
-1263298107,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-2325814625,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2786169246,b'\xe2\x80\x94',b'Garmin Forerunner 945',b'501'
-1891128477,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-2325652570,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-2325301807,"b'adidas Boston 6\n(13,593.3 mi)'",b'Garmin v\xc3\xadvoactive HR',b'\xe2\x80\x94'
-946689523,b'New Balance Zante v3 Boston (4/12/17)\n(434.0 mi)',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1524927473,b'Altra Escalante\n(501.1 mi)',b'Garmin Forerunner 235',b'502'
-2749069885,b'Nike Pegasus 35\n(168.3 mi)',b'Garmin f\xc4\x93nix 3',b'507'
-1222430116,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-946663217,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1199350703,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-946633267,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1524831683,b'Mizuno Wave Hitogami 4\n(647.4 mi)',b'Garmin Forerunner 35',b'\xe2\x80\x94'
-2326629237,b'\xe2\x80\x94',b'TomTom',b'\xe2\x80\x94'
-1221545145,b'adidas Energy Boost\n(628.0 mi)',b'Garmin Forerunner 210',b'\xe2\x80\x94'
-946526733,b'HOKA ONE ONE Clyton\n(880.6 mi)',b'Garmin f\xc4\x93nix 2',b'\xe2\x80\x94'
-946663699,b'\xe2\x80\x94',b'Garmin v\xc3\xadvoactive HR',b'263'
-2325428840,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1946207852,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2749557703,b'Nike Zoom Air Pegasus 35\n(441.3 mi)',b'TomTom',b'245'
-1512513539,b'\xe2\x80\x94',b'Garmin Forerunner 25',b'\xe2\x80\x94'
-1890500585,"b'ASICS Nimbus\n(1,943.7 mi)'",b'Polar M400',b'\xe2\x80\x94'
-2748825182,"b'Nike Pegasus Turbo\n(5,510.3 mi)'",b'Garmin Forerunner 935',b'\xe2\x80\x94'
-2838833492,b'Nike Next%\n(55.4 mi)',b'Garmin Forerunner 245 Music',b'268'
-2786235759,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2839233296,b'Nike Vaporfly next% PINK\n(282.5 mi)',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-1221562382,b'adidas Boston 5\n(390.0 mi)',b'Garmin Forerunner 735XT',b'707'
-951472359,b'adidas adizero adios (blue)\n(329.8 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-2292204913,b'Nike Flyknit Vaporfly 4% red #2\n(785.8 mi)',b'Polar Vantage V',b'197'
-1892977136,b'Nike Zoom Pegasus turbo\n(515.5 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1512526051,b'adidas Adizero Boston 6 - MARATHON SHOES\n(266.1 mi)',b'Garmin Forerunner 935',b'268'
-879882777,b'New Balance M1040\n(223.3 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1844969610,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'274'
-1524823698,b'adidas Boston 2017\n(176.6 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1525401624,b'adidas adios boost 3\n(327.2 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-2786575767,b'Nike VaporFly 4%\n(87.1 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1263346438,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-2292063686,b'adidas Adizero Adios 3 (Grey/White)\n(282.8 mi)',b'Garmin Forerunner 235',b'321'
-1264547261,b'\xe2\x80\x94',b'Garmin Forerunner 610',b'\xe2\x80\x94'
-2786394788,b'adidas Solar glide\n(851.3 mi)',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-2754340377,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'346'
-1091027275,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1222587502,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'500'
-2292174392,b'Nike VaporFly 4%\n(168.7 mi)',b'Garmin f\xc4\x93nix 5',b'416'
-2748908410,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2839177827,b'adidas adios 4s\n(168.2 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1890746518,b'Nike Vaporfly 4% Flynit Red\n(151.5 mi)',b'Suunto',b'\xe2\x80\x94'
-2325327183,b'Nike Vapour Fly 4%\n(115.1 mi)',b'Garmin f\xc4\x93nix 5 Plus',b'258'
-2293115484,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2749010218,b'Nike flyknit zoom 4%\n(498.4 mi)',b'Garmin Forerunner 630',b'637'
-2839243686,b'Nike 4%\n(39.3 mi)',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-2325379480,b'Nike Vaporfly 4%(4th)\n(307.8 mi)',b'Garmin Forerunner 935',b'501'
-946594316,b'Newton Distance Elite (Boston 2017)\n(108.4 mi)',b'Garmin Forerunner 920XT',b'385'
-1515053406,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1512697361,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-2292018798,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1512409057,"b'Nike Elite 9\n(9,646.7 mi)'",b'Garmin Forerunner 935',b'314'
-2325899196,b'\xe2\x80\x94',b'Garmin Forerunner 645',b'204'
-1845474110,b'\xe2\x80\x94',b'Garmin v\xc3\xadvoactive HR',b'100'
-1845196345,b'Saucony Kinvara 8 (Grey)-pr1\n(201.0 mi)',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-2748714704,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-2325907481,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1524721519,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-2325432233,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1512247927,b'Saucony Kinvara 8\n(310.7 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-2838928928,"b'HOKA ONE ONE Stinson\n(11,204.8 mi)'",b'Garmin Forerunner 235',b'648'
-2292635464,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-2787338955,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1946224928,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2786136865,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1890447139,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1890400286,b'Nike zoom vaporfly 4%\n(787.5 mi)',b'Garmin Forerunner 935',b'191'
-1525855452,b'New Balance 1500v4\n(48.1 mi)',b'Suunto',b'\xe2\x80\x94'
-1512527558,b'adidas Boston white\n(481.4 mi)',b'Polar M600',b'\xe2\x80\x94'
-2292329499,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-2748964125,"b'Nike PEGASUS 34\n(10,179.4 mi)'",b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1535927347,b'Nike Zoom Pegasus 3x\n(419.1 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1221442551,b'Mizuno Wave Rider 20 - 1709\n(410.7 mi)',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-1199349509,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'357'
-1512293234,b'Newton Distance III\n(191.6 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-946814567,b'New Balance 1500v2\n(600.2 mi)',b'GPX',b'\xe2\x80\x94'
-2292649599,b'\xe2\x80\x94',b'Polar Vantage V',b'\xe2\x80\x94'
-1221445763,b'Brooks Adrenaline GTS\n(454.7 mi)',b'TomTom',b'\xe2\x80\x94'
-1199252053,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1845086753,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1263204697,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1263145030,"b'HOKA ONE ONE Challenger ATR2 Gr\xc3\xa5\n(1,157.7 mi)'",b'Suunto Ambit3 Peak',b'\xe2\x80\x94'
-1512751939,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-946576510,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'516'
-1263061203,b'Nike Zoom structure 19\n(530.4 mi)',b'Garmin v\xc3\xadvoactive HR',b'699'
-1845019580,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5 Plus',b'420'
-1199151412,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'201'
-2325320565,b'Nike VaporFly 4% Orange/white #1\n(120.8 mi)',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-1512333084,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'460'
-1263300891,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1946791196,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5 Plus',b'\xe2\x80\x94'
-948877144,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-2294985526,"b'Saucony Kinvara 8 Marl\n(4,446.0 mi)'",b'Garmin Forerunner 935',b'151'
-1512633695,b'Newton Five\n(336.1 mi)',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-946601577,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1518308598,b'\xe2\x80\x94',b'Garmin Forerunner 15',b'\xe2\x80\x94'
-1199530893,b'Newton Newton Distance Elite\n(117.2 mi)',b'Garmin Forerunner 920XT',b'543'
-1424573277,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-1847161577,b'HOKA ONE ONE Tracer 2 - Red\n(37.7 mi)',b'Garmin Forerunner 235',b'421'
-1262925148,b'\xe2\x80\x94',b'Garmin Forerunner 35',b'430'
-2786519888,b'Nike ZoomX Vaporfly Next%\n(42.9 mi)',b'Garmin Forerunner 920XT',b'269'
-1221782909,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-2748954726,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1846809638,b'Nike Pegasus 35 Turbo BLN\n(334.4 mi)',b'Suunto Ambit3 Peak',b'\xe2\x80\x94'
-946505899,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1221602247,b'Vibram Bikilas\n(870.4 mi)',b'Garmin Forerunner 910XT',b'657'
-1221159077,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-1512326951,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-2786138696,b'adidas Boston 7\n(502.4 mi)',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-2749125024,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-2292242314,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-946644689,b'\xe2\x80\x94',b'Garmin Forerunner 25',b'\xe2\x80\x94'
-2325327711,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'680'
-2325297385,b'Mizuno Wave Rider 22\n(561.3 mi)',b'Garmin Forerunner 620',b'491'
-1199114789,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1528736021,"b'New Balance New Balance 680 v4\n(1,014.0 mi)'",b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1317744247,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'241'
-1424637298,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1424637298,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1262964560,"b'New Balance Vazee Pace\n(1,531.0 mi)'",b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1946320740,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-2749067932,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-1214886292,b'adidas Energy Boost 3\n(537.9 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2749080221,b'Inov-8 TrailRoc 270\n(846.4 mi)',b'Polar Vantage V',b'224'
-1512580685,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1199433151,b'adidas Ultra Boosts\n(512.3 mi)',b'Suunto Ambit3 Peak',b'\xe2\x80\x94'
-1204651564,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-2786500315,b'New Balance 1400 v6 Black/Blue\n(418.8 mi)',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1512499193,b'Brooks Asteria\n(250.5 mi)',b'Garmin Forerunner 920XT',b'323'
-2878589156,"b'Nike Pegasus Turbo\n(5,045.0 mi)'",b'Garmin Forerunner 945',b'326'
-1892798619,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1890397075,b'Nike VaporFly 4%\n(90.6 mi)',b'Garmin Forerunner 630',b'473'
-1512383944,b'Altra Escalante Boston18 Racers\n(298.8 mi)',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-951113412,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-2049974861,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-2838920714,b'Skechers Razorblade Romance\n(332.0 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-2786541127,b'Nike Next\n(216.7 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1524513054,b'ASICS Hyperspeed\n(172.0 mi)',b'Garmin v\xc3\xadvoactive',b'312'
-2748964553,b'Nike ZoomX\n(307.0 mi)',b'Garmin f\xc4\x93nix 5',b'610'
-1199150349,b'adidas Supernova Glide 9 vs2\n(312.3 mi)',b'Garmin Forerunner 235',b'331'
-1847962326,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-2748998374,b'Nike Vaporfly 4% - orange\n(81.0 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-946615187,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1324913115,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-4303716751,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-946980023,b'Mizuno Hitogami V3\n(322.5 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1424569853,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'267'
-2792324328,b'\xe2\x80\x94',b'Garmin Forerunner 35',b'\xe2\x80\x94'
-1949734701,"b'Nike Pegasus 33\n(2,005.4 mi)'",b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-2786336733,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'619'
-2292355819,"b'HOKA ONE ONE Clifton\n(1,987.6 mi)'",b'Garmin Forerunner 235',b'\xe2\x80\x94'
-2748701274,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'211'
-1221178915,b'Saucony Freedom ISO\n(650.1 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1424579018,b'HOKA ONE ONE Clifton 4\n(563.6 mi)',b'Garmin Forerunner 235',b'741'
-1525537741,b'\xe2\x80\x94',b'TomTom',b'\xe2\x80\x94'
-1845806283,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-2292309328,b'\xe2\x80\x94',b'Strava iPhone App',b'\xe2\x80\x94'
-1946448507,b'New Balance 1400v6 Black\n(342.8 mi)',b'Garmin Forerunner 735XT',b'452'
-2292453417,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-2789768282,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-2292194414,b'Saucony Freedom ISO\n(316.8 mi)',b'Garmin f\xc4\x93nix 5X',b'\xe2\x80\x94'
-2749061253,b'\xe2\x80\x94',b'COROS PACE',b'495'
-1262927090,b'adidas Adistar Boost\n(445.4 mi)',b'Garmin Forerunner 735XT',b'302'
-1199347669,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1221462151,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-2325656646,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-1845380604,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1221297709,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'566'
-1512435317,b'New Balance 890 V4 White\n(721.2 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-2292192821,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1859412633,"b'adidas Energy Boost\n(6,564.2 mi)'",b'Suunto Ambit2',b'\xe2\x80\x94'
-1524494066,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'323'
-946566391,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'471'
-1890670083,"b'New Balance 1400 V5\n(2,179.8 mi)'",b'Garmin f\xc4\x93nix 5',b'198'
-946613593,b'HOKA ONE ONE Clifton 2\n(406.6 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1845191047,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1199494218,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'361'
-946815369,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-1946280001,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-1890533096,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1214155313,"b'New Balance MT00BL\n(7,454.6 mi)'",b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1266812806,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-2749320146,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1263135210,b'ASICS Gel Hyper Speed 7 - #1\n(191.3 mi)',b'Garmin Forerunner 920XT',b'394'
-2292666578,b'\xe2\x80\x94',b'Garmin Forerunner 645 Music',b'639'
-946504598,b'Nike Flyknit Racer\n(240.3 mi)',b'Garmin f\xc4\x93nix 3',b'507'
-1890747945,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-2786584518,b'\xe2\x80\x94',b'TomTom',b'\xe2\x80\x94'
-1424607566,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-1336507591,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1262962736,b'Skechers Go Run 5 (Nite Owl)\n(660.9 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1946140920,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5X',b'\xe2\x80\x94'
-1424566494,"b'adidas \xe3\x82\xa2\xe3\x83\x87\xe3\x82\xa3\xe3\x82\xbc\xe3\x83\xad\xe3\x82\xb8\xe3\x83\xa3\xe3\x83\x91\xe3\x83\xb3\n(2,263.9 mi)'",b'Garmin Forerunner 935',b'381'
-2292440793,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2838863650,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2749107340,b'HOKA ONE ONE Carbon X\n(224.9 mi)',b'Garmin f\xc4\x93nix 3',b'320'
-1067913079,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'779'
-1222896659,b'\xe2\x80\x94',b'Garmin Forerunner 10',b'\xe2\x80\x94'
-1224473947,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1845185856,b'On Cloudflow\n(352.5 mi)',b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1946157809,b'\xe2\x80\x94',b'Garmin v\xc3\xadvoactive',b'\xe2\x80\x94'
-1890381541,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5S',b'454'
-2750773415,"b'New Balance 890 v7\n(1,420.5 mi)'",b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-2292645540,b'Brooks Hyperion\n(138.8 mi)',b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1512529836,"b'Newton Distancia\n(4,590.1 mi)'",b'Garmin Forerunner 230',b'123'
-2847834495,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1890812444,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1890310535,b'Nike PEGASUS 34\n(622.2 mi)',b'Garmin Forerunner 235',b'345'
-1844962848,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-2326004920,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'655'
-1524578811,"b'Mizuno Wave Rider 18\n(6,982.2 mi)'",b'Garmin Forerunner 235',b'\xe2\x80\x94'
-2748910649,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1221312770,b'Nike Lunar epic flynit green 2\n(328.1 mi)',b'Garmin Forerunner 35',b'562'
-1845028033,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1949209599,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2326212364,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1524644154,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1846014453,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1524623614,"b'Kalenji KipRace\n(5,160.8 mi)'",b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1524847334,b'ASICS GEL DS Racer 11\n(200.9 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1424590785,b'ASICS GEL trainer 22\n(298.2 mi)',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-1263061626,b'adidas adios Mauve\n(251.7 mi)',b'Suunto',b'\xe2\x80\x94'
-2786399249,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-946615554,b'ASICS DS Racer 11\n(343.9 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-1845175726,b'Nike Vaporfly 4% Fk #1\n(180.4 mi)',b'Garmin f\xc4\x93nix 5',b'329'
-2749607349,"b'Nike Zoom Elite 9\n(3,092.6 mi)'",b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1512559320,b'\xe2\x80\x94',b'Suunto Spartan Ultra',b'490'
-1946640727,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5 Plus',b'336'
-
-946719662,b'\xe2\x80\x94',b'Strava Android App',b'\xe2\x80\x94'
-4248270201,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1845745266,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'406'
-2325372044,"b'ASICS Nimbus Gel 21\n(1,905.4 mi)'",b'Garmin Forerunner 235',b'744'
-1946502344,b'adidas adios boost\n(127.3 mi)',b'Apple Watch Series 2',b'325'
-1512387504,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-946641736,b'Mizuno Musha\n(773.8 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-897322578,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1262871401,b'Vibram KSO EVO\n(371.7 mi)',b'Garmin Forerunner 735XT',b'335'
-1199106883,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-1946705181,b'\xe2\x80\x94',b'Apple Watch Series 3',b'\xe2\x80\x94'
-1299509844,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1524493372,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1221191556,b'Altra The One 2.5 III\n(207.2 mi)',b'Garmin Forerunner 735XT',b'273'
-1946616317,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-958035660,b'ASICS Tri 9\n(380.5 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1198998825,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1512595840,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-946597855,b'adidas BOSTON BOOST\n(301.1 mi)',b'Garmin Forerunner 235',b'370'
-1200636250,b'ASICS DynaFlyte\n(407.9 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1512336579,b'New Balance Hanzo\n(70.1 mi)',b'Garmin Forerunner 935',b'258'
-1512673260,"b'adidas Energy Boost\n(4,950.3 mi)'",b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1221335827,b'\xe2\x80\x94',b'Garmin Forerunner 35',b'\xe2\x80\x94'
-1262890696,b'Brooks Launch\n(236.4 mi)',b'Strava iPhone App',b'\xe2\x80\x94'
-991618494,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1946144015,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1512429761,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1525861472,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1263247269,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'372'
-1263033220,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1845382050,b'adidas Boston\n(528.4 mi)',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-1845005152,b'Nike VaporFly 4%\n(50.2 mi)',b'Garmin f\xc4\x93nix 5X',b'165'
-2292377524,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5S Plus',b'\xe2\x80\x94'
-2839001824,"b'adidas adizero aktiv\n(4,357.2 mi)'",b'Polar Vantage V Titan',b'760'
-1946231932,b'Nike Vaporfly Obsidian NYC\n(66.5 mi)',b'Polar V800',b'\xe2\x80\x94'
-1221136378,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'239'
-2749256270,b'adidas Adizero Adios Boost 4\n(500.4 mi)',b'Garmin Forerunner 235',b'315'
-2325616992,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-1263000604,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-2748831605,"b'adidas Boston\n(4,512.7 mi)'",b'Garmin Forerunner 735XT',b'175'
-2841967760,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1845756218,b'\xe2\x80\x94',b'Suunto Spartan Sport',b'\xe2\x80\x94'
-1512902426,b'adidas Adizero Sub2\n(93.1 mi)',b'Polar V800',b'\xe2\x80\x94'
-1845216208,b'New Balance 1400 V5\n(264.3 mi)',b'Garmin Forerunner 935',b'597'
-879837271,b'Nike Lunaracer\n(169.6 mi)',b'Garmin Forerunner 735XT',b'142'
-2786204814,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'402'
-1946362754,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1524465574,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-946510519,b'Nike streak flyknit black\n(414.4 mi)',b'Garmin Forerunner 235',b'674'
-1526087821,b'Nike React (White)\n(73.9 mi)',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-946738394,b'\xe2\x80\x94',b'Microsoft Band',b'613'
-891570988,b'\xe2\x80\x94',b'Garmin Forerunner 225',b'328'
-1524802293,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'679'
-1263027130,b'Nike Lunar Racer 4\n(416.8 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-2786417749,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1267394766,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1262902676,b'Newton Fate 2\n(383.0 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1263241353,b'adidas Adios Boost 3 Cinza\n(326.7 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-2292238357,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'610'
-1271235905,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1946264493,b'adidas adios\n(240.0 mi)',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-2749414483,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-1845057219,b'\xe2\x80\x94',b'Polar M400',b'\xe2\x80\x94'
-2749277138,b'Reebok Floatride Run Fast blue & lime\n(47.6 mi)',b'Polar M430',b'\xe2\x80\x94'
-2748788929,b'adidas Adizero Adios 3 M\n(258.4 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1263126390,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'692'
-1512535636,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-2469621219,b'\xe2\x80\x94',b'Garmin Forerunner 25',b'\xe2\x80\x94'
-1512524392,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-1424576912,b'Nike Lunaracer\n(276.2 mi)',b'Garmin v\xc3\xadvoactive HR',b'293'
-1524573366,"b'Crocs Classics\n(5,787.1 mi)'",b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1424703266,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-946587862,b'adidas Boston 6\n(386.7 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-946758468,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'355'
-1946364778,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-4452164045,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1525184228,"b'HOKA ONE ONE Clifton 3\n(2,588.8 mi)'",b'Garmin Forerunner 735XT',b'481'
-946640614,b'New Balance Zante1\n(236.1 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1890506990,b'Nike Vomero 12\n(367.5 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1512728379,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1524492820,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'205'
-2326769592,b'Nike zoom vaporfly 4%\n(879.7 mi)',b'Garmin f\xc4\x93nix 3',b'345'
-947341138,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1846016491,"b'Brooks Transcend\n(2,677.7 mi)'",b'Garmin Forerunner 645 Music',b'\xe2\x80\x94'
-1947887868,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-1525128730,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'298'
-1845053861,b'New Balance FuelCell\n(84.2 mi)',b'Garmin Forerunner 235',b'452'
-1890642400,b'Saucony Kinvara 7 - Black\n(582.5 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-2838812163,b'Nike VaporFly 4%\n(549.0 mi)',b'Garmin f\xc4\x93nix 5 Plus',b'219'
-1512709363,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1523161170,"b'Nike Free RN Flyknit\n(2,349.0 mi)'",b'Garmin Forerunner 235',b'622'
-1524819397,b'adidas boost\n(669.9 mi)',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1221703440,b'Nike Air Zoom Fly\n(401.7 mi)',b'Garmin Forerunner 735XT',b'666'
-2838973361,b'Nike Vaporfly ZoomX Next%\n(208.6 mi)',b'Garmin f\xc4\x93nix 5',b'173'
-1262987937,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'259'
-2839291626,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1998080972,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1946299873,b'\xe2\x80\x94',b'Apple Watch Series 4',b'\xe2\x80\x94'
-2749889482,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1514893498,b'New Balance Zante 3\n(247.2 mi)',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-1262924084,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-1844881065,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1845204727,b'Nike zoom vaporfly 4%\n(101.8 mi)',b'Garmin Forerunner 935',b'620'
-1845588715,b'Nike VaporFly 4%\n(143.3 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1845627742,b'\xe2\x80\x94',b'Polar V800',b'\xe2\x80\x94'
-1890376007,b'Saucony Guide ISO\n(308.8 mi)',b'Garmin Forerunner 235',b'75'
-1263149004,"b'ASICS Nimbus 15\n(9,194.4 mi)'",b'Garmin f\xc4\x93nix 3',b'402'
-1262944563,b'New Balance 1500v3\n(87.3 mi)',b'Garmin Forerunner 735XT',b'315'
-1894866806,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5S',b'\xe2\x80\x94'
-2292194601,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5X',b'\xe2\x80\x94'
-1525291406,b'Saucony Freedom Iso Ryono\n(421.7 mi)',b'Polar V800',b'386'
-1946642652,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-1844961462,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-2325741949,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-1946210151,b'Brooks Pureflow 7\n(421.8 mi)',b'Garmin Forerunner 935',b'167'
-1199186520,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'388'
-1424598298,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-1202481698,b'\xe2\x80\x94',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-2325355443,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-2325293903,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-1263317541,b'Altra Escalante\n(354.4 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-946721734,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1893148009,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1946259326,b'ASICS Gel Nimbus 20 Blue/Yellow\n(781.8 mi)',b'Garmin Forerunner 935',b'420'
-1221292505,"b'Saucony Cohesion 9\n(3,578.9 mi)'",b'Garmin Forerunner 235',b'\xe2\x80\x94'
-2327469372,b'\xe2\x80\x94',b'Suunto Ambit3 Sport',b'\xe2\x80\x94'
-1890707705,b'Nike Vaporfly\n(50.0 mi)',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-2838929601,b'\xe2\x80\x94',b'Suunto Ambit3 Sport',b'\xe2\x80\x94'
-2292257279,"b'adidas Adizero Adios 4 2019\n(1,109.8 mi)'",b'Garmin Forerunner 735XT',b'309'
-1946329715,b'Newton Motion 6\n(452.3 mi)',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-2748902093,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1262961457,b'adidas Glide Boost\n(539.2 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-2753699304,"b'Saucony any\n(14,460.8 mi)'",b'Garmin Forerunner 25',b'\xe2\x80\x94'
-1199051673,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-1946195804,b'\xe2\x80\x94',b'Garmin Forerunner 35',b'\xe2\x80\x94'
-2786053211,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1222549543,b'\xe2\x80\x94',b'Garmin Forerunner 310XT',b'\xe2\x80\x94'
-1845060098,b'\xe2\x80\x94',b'Garmin Forerunner 645',b'612'
-1525807711,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'393'
-1892752150,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1946185553,b'\xe2\x80\x94',b'Garmin v\xc3\xadvoactive HR',b'\xe2\x80\x94'
-1262913324,b'adidas Japan Boost 3\n(495.4 mi)',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1845642716,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-946768607,b'Nike Zoom Elite\n(160.8 mi)',b'Garmin Forerunner 225',b'\xe2\x80\x94'
-2838836588,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'255'
-1037514245,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1512906431,b'Reebok Harmony Racer\n(227.3 mi)',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1262951550,b'Nike Structure 21\n(803.1 mi)',b'Garmin Forerunner 735XT',b'65'
-1263183092,b'Nike Lunar3\n(106.4 mi)',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-946649639,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'456'
-1946137710,b'On Cloudflash\n(72.6 mi)',b'Garmin Forerunner 235',b'272'
-1845172436,b'New Balance 1500V4blanc\n(657.0 mi)',b'Garmin Forerunner 645 Music',b'\xe2\x80\x94'
-1264658698,"b'Nike Flyknit Racer\n(3,790.6 mi)'",b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1890393890,b'Nike VaporFly 4%\n(39.7 mi)',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-1264382082,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1844834229,b'Nike Zoom Vaporfly 4% (grey)\n(141.2 mi)',b'Garmin Forerunner 735XT',b'474'
-1846103804,b'adidas Pure Boost\n(439.9 mi)',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-1201370677,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-1845022567,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-2292270155,"b'ASICS Kayno 22 Gel\n(7,784.5 mi)'",b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1265996979,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1263298049,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1946290877,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2748696995,"b'adidas Ultraboost ST M black\n(6,063.1 mi)'",b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1890396243,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-2292649007,b'Nike Streak LT 4\n(293.8 mi)',b'Suunto Ambit2 R',b'\xe2\x80\x94'
-2749059111,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-967517813,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-2838766209,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 6S Pro',b'227'
-1948222048,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1947327231,b'\xe2\x80\x94',b'Garmin Forerunner 405',b'\xe2\x80\x94'
-1946336416,b'New Balance 880v7.4\n(337.7 mi)',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-2999651705,b'\xe2\x80\x94',b'Garmin v\xc3\xadvoactive 3',b'\xe2\x80\x94'
-1513852291,b'\xe2\x80\x94',b'Garmin Forerunner 230',b'\xe2\x80\x94'
-1890393721,b'Nike Epic React Flyknit\n(621.8 mi)',b'Garmin v\xc3\xadvoactive HR',b'\xe2\x80\x94'
-1512606473,"b'Nike Pegasus 33 (2nd pair)\n(4,611.0 mi)'",b'Garmin Forerunner 25',b'\xe2\x80\x94'
-1946774063,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1512313775,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'654'
-1882197451,b'adidas adizero adios\n(91.5 mi)',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2325362090,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-2749128458,b'Saucony Freedom\n(581.7 mi)',b'Garmin Forerunner 630',b'663'
-1199093959,b'\xe2\x80\x94',b'Garmin Forerunner 35',b'\xe2\x80\x94'
-1946416876,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-2838806096,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-2325401494,b'Mizuno Wave Rider 22 Osaka\n(541.6 mi)',b'Apple Watch Series 3',b'\xe2\x80\x94'
-2292240449,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-2789527559,"b'Nike Structure\n(7,170.1 mi)'",b'Polar M430',b'\xe2\x80\x94'
-1844958520,b'Nike Zoom Fly\n(559.2 mi)',b'Garmin Forerunner 235',b'280'
-1526468920,b'\xe2\x80\x94',b'Garmin Forerunner 910XT',b'\xe2\x80\x94'
-1890561317,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-2786239505,b'Nike Nike ZoomX Vaporfly NEXT%\n(94.2 mi)',b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-1946639714,"b'Nike PEGASUS 34 - LONDON\n(3,237.2 mi)'",b'Garmin Forerunner 935',b'\xe2\x80\x94'
-946725297,b'\xe2\x80\x94',b'Garmin v\xc3\xadvoactive',b'\xe2\x80\x94'
-2749321368,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1891252804,b'Nike Vapor Fly 4% AZUL\n(578.0 mi)',b'Garmin Forerunner 935',b'200'
-1946197992,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1221165203,b'\xe2\x80\x94',b'Garmin Forerunner 630',b'\xe2\x80\x94'
-1524811722,b'New Balance Zante v4 SIlver\n(390.5 mi)',b'Garmin f\xc4\x93nix 5',b'192'
-1512661670,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-946912927,b'Skechers GOmeb Speed 3 2016\n(388.5 mi)',b'Garmin Forerunner 620',b'\xe2\x80\x94'
-1199919957,b'\xe2\x80\x94',b'Garmin Forerunner 735XT',b'\xe2\x80\x94'
-2325274986,b'Nike Vaporfly 4% Flyknit\n(489.6 mi)',b'Garmin Forerunner 235',b'337'
-1224570726,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-2325290578,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1954897450,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 3',b'\xe2\x80\x94'
-1331546028,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1221460698,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-2325340103,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'\xe2\x80\x94'
-1512413052,b'\xe2\x80\x94',b'Suunto',b'\xe2\x80\x94'
-1891111481,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'\xe2\x80\x94'
-2049488164,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-1845051035,b'\xe2\x80\x94',b'\xe2\x80\x94',b'\xe2\x80\x94'
-1221549578,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'\xe2\x80\x94'
-2292607806,b'adidas adizero black/white tempo 9\n(442.2 mi)',b'Garmin f\xc4\x93nix 3',b'441'
-1512266003,"b'Nike Epic React\n(1,030.2 mi)'",b'Garmin Forerunner 735XT',b'390'
-946716341,b'\xe2\x80\x94',b'Garmin Forerunner 220',b'\xe2\x80\x94'
-1229794109,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'386'
-947515251,b'\xe2\x80\x94',b'Garmin Forerunner 10',b'\xe2\x80\x94'
-1891079121,b'\xe2\x80\x94',b'Garmin Forerunner 935',b'371'
-1524581679,b'\xe2\x80\x94',b'Garmin Forerunner 920XT',b'\xe2\x80\x94'
-2325475783,b'\xe2\x80\x94',b'Garmin f\xc4\x93nix 5',b'380'
-1890641075,b'Nike Zoom Fly\n(317.6 mi)',b'Suunto',b'\xe2\x80\x94'
-1524683530,b'\xe2\x80\x94',b'Garmin Forerunner 235',b'384'
-2748766301,"b'HOKA ONE ONE Clifton 3\n(7,660.0 mi)'",b'Garmin f\xc4\x93nix 5X',b'\xe2\x80\x94'
+activity_id,shoes,device,suffer,vaporfly
+402503778,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+552416209,"b'adidas Adizero Tempo\n(3,325.0 mi)'",Garmin Forerunner 235,b'385',0
+207307777,"b'Brooks Adrenaline GTS\n(2,167.6 mi)'",Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+207462917,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+556516803,b'Newton Gravity 5\n(819.4 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+1259257289,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+220449131,"b'Brooks Ghost\n(1,037.2 mi)'",Garmin Forerunner 620,b'\xe2\x80\x94',0
+289322304,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+1264433752,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+292915271,b'adidas Supernova Glide Boost\n(655.9 mi)',TomTom,b'\xe2\x80\x94',0
+446482988,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+1612178182,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+232240072,b'Mizuno Sayonara 1\n(510.7 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+965099467,"b'Puma Bio Ride Bolt\n(3,642.9 mi)'",Garmin Forerunner 410,b'\xe2\x80\x94',0
+424648564,b'Mizuno Wave Rider 17\n(445.0 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+550176231,"b'Unbranded\n(8,138.6 mi)'",Garmin Forerunner 620,b'\xe2\x80\x94',0
+410976393,"b'La Sportiva Helios\n(1,637.2 mi)'",Garmin Forerunner 620,b'\xe2\x80\x94',0
+289576056,b'Nike LunaRacer 3 (Blue)\n(527.7 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+401188707,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'260',0
+425058168,b'\xe2\x80\x94',Suunto Ambit3 Sport,b'\xe2\x80\x94',0
+257081855,b'\xe2\x80\x94',Garmin Forerunner 610,b'373',0
+1182608371,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+350512006,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+289310242,b'\xe2\x80\x94',Strava Android App,b'\xe2\x80\x94',0
+426438328,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+549396080,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+549842056,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+401278383,b'Nike Zoom Streak 5 (Laser Crimson)\n(733.2 mi)',TomTom,b'\xe2\x80\x94',0
+555518906,b'\xe2\x80\x94',Suunto Ambit,b'\xe2\x80\x94',0
+289243007,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+289667000,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+293737859,b'\xe2\x80\x94',Garmin f\xc4\x93nix 2,b'367',0
+567180964,b'\xe2\x80\x94',Polar V800,b'482',0
+902598739,b'\xe2\x80\x94',GPX,b'\xe2\x80\x94',0
+864084263,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'565',0
+214801870,"b'Brooks Glycerin\n(1,293.4 mi)'",Strava Android App,b'\xe2\x80\x94',0
+701233944,b'\xe2\x80\x94',GPX,b'\xe2\x80\x94',0
+401358938,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+424861696,"b'Brooks Glycerin\n(2,116.2 mi)'",Garmin Forerunner 620,b'359',0
+293000366,b'Nike Zoom Streak 4 - Yellow\n(377.0 mi)',Garmin Forerunner 410,b'\xe2\x80\x94',0
+739581776,"b'Skechers Go Ultra\n(10,122.3 mi)'",Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+254438023,b'\xe2\x80\x94',Garmin Forerunner 405,b'\xe2\x80\x94',0
+739997043,b'adidas adios boost 2.0\n(108.8 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+418239913,b'\xe2\x80\x94',Garmin Forerunner 10,b'\xe2\x80\x94',0
+425795790,b'Nike Lunar 3\n(109.7 mi)',GPX,b'\xe2\x80\x94',0
+258334843,b'Newton Gravity III\n(887.8 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+557446749,b'\xe2\x80\x94',Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+880554209,"b'New Balance 890v5\n(2,704.7 mi)'",\xe2\x80\x94,b'\xe2\x80\x94',0
+549716575,b'Luna Sandals Venado 9/18/2015\n(554.6 mi)',Garmin Forerunner 620,b'247',0
+200750938,b'\xe2\x80\x94',Garmin Forerunner 110,b'\xe2\x80\x94',0
+550351738,"b'adidas\n(14,934.0 mi)'",Garmin Forerunner 220,b'\xe2\x80\x94',0
+401712793,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+549553092,b'New Balance 1400v3\n(499.7 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+410980834,b'Altra Torin 2.0 (2nd pair)\n(77.4 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+401270464,b'\xe2\x80\x94',Garmin Forerunner 620,b'598',0
+741087429,b'\xe2\x80\x94',Suunto,b'\xe2\x80\x94',0
+216256937,b'Brooks Adrenaline GTS 14 (red)\n(496.0 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1222758170,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+427696211,b'New Balance 890 v5\n(838.8 mi)',Garmin Forerunner 410,b'\xe2\x80\x94',0
+290778480,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+739731588,b'Brooks Ghost\n(403.4 mi)',Garmin Forerunner 610,b'728',0
+418476604,"b'On CloudRacer\n(1,756.9 mi)'",\xe2\x80\x94,b'\xe2\x80\x94',0
+556027529,b'New Balance 1400 v4\n(196.6 mi)',Polar M400,b'\xe2\x80\x94',0
+293191495,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+411040093,b'adidas Adios Boost 2\n(228.2 mi)',Garmin Forerunner 910XT,b'322',0
+556166862,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+289257358,"b'HOKA ONE ONE\n(1,506.9 mi)'",Garmin Forerunner 220,b'\xe2\x80\x94',0
+412325997,b'\xe2\x80\x94',Garmin Forerunner 210,b'\xe2\x80\x94',0
+424655028,b'adidas adios bost Size 10\n(635.1 mi)',Strava iPhone App,b'\xe2\x80\x94',0
+293195656,b'\xe2\x80\x94',Garmin Forerunner 405,b'\xe2\x80\x94',0
+411224572,b'ASICS Nimbus 17\n(594.0 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+549382861,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+739979656,b'\xe2\x80\x94',Garmin f\xc4\x93nix 2,b'\xe2\x80\x94',0
+135592786,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+424697032,b'Brooks Adrenaline GTS\n(305.9 mi)',Garmin Forerunner 920XT,b'232',0
+200892921,b'ASICS kayano azul\n(253.5 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+401918783,b'Brooks Ghost\n(150.0 mi)',Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+739691494,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+424772665,b'Nike Zoom Elite 8\n(584.1 mi)',Garmin f\xc4\x93nix 2,b'\xe2\x80\x94',0
+549599678,b'Saucony Guide 7: Yellow-White (01.31.16)\n(447.2 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+293623241,"b'Saucony Triumph 10\n(1,703.8 mi)'",Garmin Forerunner 405,b'\xe2\x80\x94',0
+259324866,b'Saucony Triumph 11\n(688.5 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+203391394,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+1276463892,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+289750093,b'Saucony Mirage #5 Blue\n(230.3 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+401200109,b'\xe2\x80\x94',Garmin Forerunner 225,b'\xe2\x80\x94',0
+407339285,b'\xe2\x80\x94',TomTom,b'\xe2\x80\x94',0
+631381599,b'On Cloudster\n(468.0 mi)',Garmin Forerunner 910XT,b'379',0
+133329031,b'Pearl Izumi E:motion N1 Road\n(263.3 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+950796714,b'adidas adios\n(224.0 mi)',GPX,b'\xe2\x80\x94',0
+242544084,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+4358333024,b'\xe2\x80\x94',Suunto Ambit2 S,b'\xe2\x80\x94',0
+289387157,b'ASICS 33-DFA\n(93.9 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+298385325,b'adidas\n(346.0 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+232483033,b'adidas energy boost vert fluo\n(316.0 mi)',GPX,b'\xe2\x80\x94',0
+214965059,b'\xe2\x80\x94',Suunto Ambit2,b'\xe2\x80\x94',0
+289229393,b'Saucony kinvara 5\n(510.2 mi)',Strava iPhone App,b'\xe2\x80\x94',0
+742838808,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+411232901,b'\xe2\x80\x94',Garmin Forerunner 10,b'\xe2\x80\x94',0
+705577640,b'adidas Adizero Boston\n(755.5 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+293158752,b'Newton Distance Racer\n(134.9 mi)',Garmin Forerunner 310XT,b'658',0
+401423964,b'Brooks Ghost\n(515.2 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+258816175,b'Mizuno \xe3\x82\xa6\xe3\x82\xa8\xe3\x83\xbc\xe3\x83\x96\xe3\x82\xb9\xe3\x83\x9a\xe3\x83\xbc\xe3\x82\xb5\xe3\x83\xbc\xe3\x83\x80\xe3\x82\xa4\xe3\x83\x8a\xe3\x83\xaf\xe3\x82\xa4\xe3\x83\x89\n(92.0 mi)',Suunto Ambit2,b'\xe2\x80\x94',0
+206968906,b'\xe2\x80\x94',\xe2\x80\x94,b'354',0
+293636489,b'\xe2\x80\x94',\xe2\x80\x94,b'479',0
+424763065,b'Skechers Go Run Ultra 2 Black/Lime\n(451.3 mi)',Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+550597869,b'Newton Gravity\n(815.3 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+290169905,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'230',0
+132706072,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+214943603,b'Saucony Type A5 white/blue/yellow NEW 2014\n(26.6 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+214897640,b'Nike LunarSpider LT+ 2\n(42.4 mi)',Suunto Ambit2,b'279',0
+292932088,b'Newton Distace\n(272.8 mi)',Garmin Forerunner 910XT,b'360',0
+215084167,b'Nike Lunarglide +5\n(130.0 mi)',Garmin f\xc4\x93nix 2,b'\xe2\x80\x94',0
+411858964,b'Mizuno Inspire 10\n(988.8 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+739526386,b'\xe2\x80\x94',Garmin v\xc3\xadvoactive,b'469',0
+555627314,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+3006701225,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+960303826,b'Altra Torin 2015\n(87.5 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+555371544,b'adidas glide boost blue\n(484.9 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+200902495,"b'New Balance 890 v4\n(9,927.6 mi)'",Garmin Forerunner 210,b'\xe2\x80\x94',0
+549783159,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'610',0
+401162567,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+739670199,"b'ASICS 2000 4 (1)\n(12,775.5 mi)'",Garmin Forerunner 230,b'\xe2\x80\x94',0
+201362646,b'\xe2\x80\x94',Garmin Forerunner 210,b'\xe2\x80\x94',0
+555828254,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+411084285,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+217312476,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+550807364,b'Saucony kinvara 6\n(377.6 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+289323839,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+414779915,b'New Balance 880 v2 (Blue)\n(543.0 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+741930007,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+214811210,b'\xe2\x80\x94',Suunto Ambit3 Sport,b'\xe2\x80\x94',0
+426091843,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+293784838,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+216592812,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+425086628,b'Saucony Fastwitch 6\n(512.3 mi)',TomTom,b'\xe2\x80\x94',0
+1024825709,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+423017756,b'\xe2\x80\x94',Garmin Forerunner 15,b'\xe2\x80\x94',0
+555388268,"b'Mizuno Wave Insire 11 Blue\n(1,015.5 mi)'",Garmin Forerunner 220,b'\xe2\x80\x94',0
+740031809,b'Newton Distance SIII\n(230.4 mi)',Garmin Forerunner 735XT,b'885',0
+293056091,b'Nike Pegasus 29+ Breathe\n(78.2 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+299300056,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+739516717,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+704076979,b'\xe2\x80\x94',Garmin Forerunner 210,b'\xe2\x80\x94',0
+402028175,b'ASICS Kayano\n(430.2 mi)',TomTom,b'\xe2\x80\x94',0
+555500147,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+405609087,b'\xe2\x80\x94',Suunto Ambit3 Peak,b'\xe2\x80\x94',0
+411293178,"b'Brooks Adrenaline GTX\n(2,761.7 mi)'",Garmin f\xc4\x93nix 2,b'\xe2\x80\x94',0
+555404444,b'ASICS DS Trainer 20\n(295.7 mi)',Garmin Forerunner 620,b'391',0
+216501805,b'Mizuno\n(346.8 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+289259389,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+570196457,b'\xe2\x80\x94',Garmin Forerunner 10,b'\xe2\x80\x94',0
+215220550,b'ASICS\n(989.7 mi)',Suunto Ambit,b'\xe2\x80\x94',0
+411024516,b'Brooks racer st\n(523.0 mi)',Suunto Ambit2 S,b'\xe2\x80\x94',0
+148666118,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+549656494,b'Saucony\n(700.2 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+290115199,"b'ASICS GEL-Nimbus 15 LITE-SHOW\n(1,017.9 mi)'",Garmin Forerunner 305,b'\xe2\x80\x94',0
+555279093,b'ASICS GT 1000\n(607.1 mi)',Garmin v\xc3\xadvoactive,b'\xe2\x80\x94',0
+289256623,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+549483070,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+427151337,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+555287835,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+401170543,b'Mizuno Hitogami 2\n(329.1 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+785813802,"b'adidas Adios Boost 2\n(7,373.0 mi)'",GPX,b'\xe2\x80\x94',0
+555429358,b'Nike Lunarlon 7 (marathon 2016)\n(854.3 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+300575978,"b'adidas adizero boost2\n(1,159.4 mi)'",Garmin Forerunner 410,b'\xe2\x80\x94',0
+323872251,"b'Nike air zoom structure 18\n(1,211.6 mi)'",GPX,b'\xe2\x80\x94',0
+289399134,b'Mizuno Wave Hitogami 2\n(346.9 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+411902621,b'adidas UltraBoost\n(388.4 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+739665692,b'\xe2\x80\x94',Garmin Forerunner 235,b'308',0
+196439626,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+555261223,b'\xe2\x80\x94',Suunto Ambit3 Sport,b'\xe2\x80\x94',0
+739628367,b'Newton Newton Distance V\n(258.3 mi)',Garmin Forerunner 735XT,b'321',0
+401791695,b'Brooks PureConnect\n(805.9 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+293439356,"b'adidas boost\n(3,236.7 mi)'",Garmin Forerunner 610,b'\xe2\x80\x94',0
+550751376,"b'ASICS GT 2000 Series\n(3,165.6 mi)'",Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+653039043,b'\xe2\x80\x94',GPX,b'\xe2\x80\x94',0
+141843796,b'\xe2\x80\x94',Garmin Forerunner 610,b'338',0
+424684352,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+425127453,b'Brooks PureCadence\n(260.0 mi)',Garmin Forerunner 210,b'\xe2\x80\x94',0
+411518802,b'ASICS DS Racer\n(100.4 mi)',Garmin Forerunner 620,b'317',0
+739540229,"b'New Balance Zante\n(3,615.5 mi)'",Garmin Forerunner 235,b'698',0
+200757823,b'\xe2\x80\x94',Garmin Forerunner 610,b'242',0
+207072229,"b'Nike Lunar Eclipse\n(9,236.2 mi)'",Garmin Forerunner 620,b'\xe2\x80\x94',0
+549376512,b'\xe2\x80\x94',Garmin Forerunner 25,b'\xe2\x80\x94',0
+555690499,b'Brooks Ravenna\n(829.9 mi)',TomTom,b'\xe2\x80\x94',0
+424613418,b'Brooks Glycerin\n(455.1 mi)',Strava iPhone App,b'\xe2\x80\x94',0
+556338042,b'\xe2\x80\x94',Suunto Ambit2,b'\xe2\x80\x94',0
+214805312,b'ASICS Gel Kayano 20\n(259.4 mi)',Garmin Forerunner 620,b'448',0
+292418258,"b'No name\n(6,274.0 mi)'",Garmin Forerunner 305,b'\xe2\x80\x94',0
+289450747,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+401477823,b'Nike Flyknit Racer Sherbet\n(395.3 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+293001634,b'\xe2\x80\x94',Garmin Forerunner 205,b'\xe2\x80\x94',0
+696250225,b'\xe2\x80\x94',Fitbit Surge,b'\xe2\x80\x94',0
+292984203,b'ASICS Gel - Cumulus 16 Lite - Show\n(547.7 mi)',Garmin Forerunner 10,b'\xe2\x80\x94',0
+299992127,b'\xe2\x80\x94',Garmin Forerunner 405,b'\xe2\x80\x94',0
+425516196,b'Saucony FlexFilm A5\n(624.1 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+740440697,b'New Balance 1400v3 - Lime\n(239.4 mi)',Soleus GPS,b'\xe2\x80\x94',0
+549508965,b'New Balance RC 1400 v3\n(268.6 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1387182712,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+401375095,b'Pearl Izumi ROAD N 0\n(923.1 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+739584596,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+401856204,b'Saucony Fastwitch 6\n(408.4 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+133042318,b'Saucony Kinvara 3 Birthday Bostonians\n(306.7 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+556716173,"b'Saucony Triumph\n(3,321.4 mi)'",Garmin Forerunner 410,b'\xe2\x80\x94',0
+549606164,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+401190455,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'789',0
+214894019,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+427738688,"b'Brooks Adrenaline GTS\n(1,950.7 mi)'",Garmin Forerunner 610,b'\xe2\x80\x94',0
+658370584,b'\xe2\x80\x94',Garmin Forerunner 110,b'\xe2\x80\x94',0
+549355937,"b'Saucony Fasttwich 6\n(20,631.8 mi)'",Garmin Forerunner 920XT,b'566',0
+402901551,b'Saucony kinvara 6\n(619.6 mi)',Garmin Forerunner 610,b'328',0
+553760556,b'\xe2\x80\x94',Suunto Ambit3 Peak,b'\xe2\x80\x94',0
+289402091,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+555313707,b'Saucony Omni 13 new\n(502.0 mi)',Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+743477032,b'Nike Pegasus 33\n(649.5 mi)',Suunto,b'\xe2\x80\x94',0
+555307463,b'Nike Free 5.0 (#5)\n(501.2 mi)',Garmin Forerunner 25,b'\xe2\x80\x94',0
+289265058,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+556141368,b'\xe2\x80\x94',Garmin Forerunner 305,b'\xe2\x80\x94',0
+206602570,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+401295862,"b'ASICS Nimbus\n(6,002.4 mi)'",Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+549526642,b'adidas adios\n(82.3 mi)',Garmin f\xc4\x93nix 2,b'\xe2\x80\x94',0
+739657388,b'Nike Flyknit Free\n(95.6 mi)',Garmin f\xc4\x93nix 3,b'115',0
+555597872,b'\xe2\x80\x94',Garmin Forerunner 225,b'\xe2\x80\x94',0
+549557157,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+290388472,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+739746961,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+401105506,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+401217196,b'Nike Lunarracers\n(280.9 mi)',Garmin Forerunner 110,b'\xe2\x80\x94',0
+739875425,b'\xe2\x80\x94',TomTom,b'\xe2\x80\x94',0
+410961894,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+739887614,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+292975603,b'Zoot Unassigned\n(572.8 mi)',Garmin Forerunner 620,b'411',0
+401193928,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+555510458,b'\xe2\x80\x94',GPX,b'339',0
+206563370,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+739625715,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+739608589,b'Nike LunarTempo- Third Edition Green\n(171.1 mi)',Garmin Forerunner 630,b'\xe2\x80\x94',0
+427297612,"b'ASICS Kayano 21\n(2,559.6 mi)'",Garmin Forerunner 210,b'\xe2\x80\x94',0
+555260282,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+293178019,b'\xe2\x80\x94',Garmin Forerunner 110,b'\xe2\x80\x94',0
+739561308,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+258422084,b'ASICS Gel Kayano 20\n(744.1 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+206625130,b'HOKA ONE ONE Huaka\n(351.2 mi)',Garmin Forerunner 620,b'364',0
+556714459,b'\xe2\x80\x94',Garmin Forerunner 225,b'\xe2\x80\x94',0
+424623639,b'adidas adios boost\n(843.7 mi)',TomTom,b'314',0
+289402545,b'New Balance 1400 v2\n(292.0 mi)',Garmin Forerunner 210,b'\xe2\x80\x94',0
+426195483,b'ASICS Kayano 19\n(453.5 mi)',GPX,b'412',0
+132848969,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+549388302,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+555291207,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+289317934,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+290540997,b'\xe2\x80\x94',Garmin Forerunner 10,b'\xe2\x80\x94',0
+555505539,b'\xe2\x80\x94',Garmin Forerunner 235,b'242',0
+549517472,b'Nike Streak LT\n(210.7 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+290189952,b'adidas Boston 5\n(456.0 mi)',Garmin Forerunner 405,b'\xe2\x80\x94',0
+551373033,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+424637243,"b'Newton\n(1,559.7 mi)'",Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+740048922,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+555783062,b'Brooks racer st\n(631.5 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+549381990,b'Brooks Adrenaline GTS\n(269.2 mi)',Garmin Forerunner 920XT,b'322',0
+563475648,"b'adidas Adizero Adios Boost 2 (second pair)\n(7,638.9 mi)'",Garmin Forerunner 410,b'\xe2\x80\x94',0
+290436699,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+819234379,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+427297609,b'\xe2\x80\x94',Garmin Forerunner 210,b'\xe2\x80\x94',0
+253283573,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+556250514,b'\xe2\x80\x94',TomTom,b'\xe2\x80\x94',0
+555239067,b'adidas Boost supernova 8\n(473.3 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+555684326,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+2769914456,b'\xe2\x80\x94',Garmin Forerunner 225,b'355',0
+289262855,b'Saucony kinvara 5\n(467.3 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+739706038,b'ASICS Hyperspeed 7\n(956.3 mi)',Garmin Forerunner 230,b'\xe2\x80\x94',0
+289205126,b'adidas adios\n(320.4 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+550885160,b'adidas Adios Boost II\n(498.0 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+214892032,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+410975994,b'New Balance 1400 v3 Red/Pink\n(283.3 mi)',Suunto Ambit3 Sport,b'337',0
+428474349,b'\xe2\x80\x94',Suunto Ambit2,b'\xe2\x80\x94',0
+739535436,b'Newton Gravity 5\n(222.8 mi)',Garmin Forerunner 235,b'444',0
+431703265,b'\xe2\x80\x94',Garmin Forerunner 210,b'\xe2\x80\x94',0
+739946841,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+404959636,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+553238009,b'\xe2\x80\x94',Garmin Forerunner 110,b'\xe2\x80\x94',0
+293091421,"b'Brooks Ghost\n(2,278.9 mi)'",\xe2\x80\x94,b'627',0
+739781836,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+739820010,"b'adidas adios\n(1,115.6 mi)'",Garmin Forerunner 620,b'\xe2\x80\x94',0
+739731992,b'Nike Pegasus 33\n(411.7 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+401534648,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+555837206,b'\xe2\x80\x94',TomTom,b'\xe2\x80\x94',0
+217710977,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+133823774,b'adidas adios boost\n(29.8 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+739927842,b'Nike Zoom Streak 6 (Racer Blue)\n(192.8 mi)',Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+245672562,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+289500886,b'Saucony kinvara 5\n(401.0 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+200593761,b'\xe2\x80\x94',Garmin Forerunner 620,b'323',0
+295478664,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+201653359,b'ASICS GT 2000 (Black)\n(268.6 mi)',Garmin Forerunner 405,b'\xe2\x80\x94',0
+555288072,b'\xe2\x80\x94',Garmin Forerunner 235,b'579',0
+555500306,b'adidas Glide\n(401.5 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+424744189,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+216473967,b'ASICS cumulus 16\n(379.4 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+292847181,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+556455751,b'\xe2\x80\x94',Garmin Forerunner 405,b'\xe2\x80\x94',0
+3009433722,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+133154217,b'Mizuno Sayonara black/white 2\n(155.2 mi)',Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+743969681,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+4093053694,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+424747204,b'\xe2\x80\x94',Garmin epix,b'\xe2\x80\x94',0
+1280950956,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+415613822,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+403028356,b'ASICS NOOSA 10\n(287.8 mi)',Suunto Ambit2,b'\xe2\x80\x94',0
+739532281,b'Newton Distance S IV\n(123.2 mi)',Strava iPhone App,b'\xe2\x80\x94',0
+293803676,b'\xe2\x80\x94',Garmin Forerunner 620,b'652',0
+292863603,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'374',0
+551946710,b'Saucony Kinvara\n(428.9 mi)',Garmin Forerunner 15,b'\xe2\x80\x94',0
+549800473,"b'New Balance 880v4\n(3,457.8 mi)'",Garmin Forerunner 220,b'\xe2\x80\x94',0
+550078182,b'\xe2\x80\x94',Garmin Forerunner 630,b'633',0
+424799862,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+289807889,b'\xe2\x80\x94',Garmin f\xc4\x93nix 2,b'\xe2\x80\x94',0
+424711161,b'Mizuno Wave Rider\n(401.9 mi)',Strava iPhone App,b'\xe2\x80\x94',0
+741167994,b'Nike lunarglide\n(306.3 mi)',Garmin Forerunner 405,b'\xe2\x80\x94',0
+735549425,b'\xe2\x80\x94',GPX,b'\xe2\x80\x94',0
+741194332,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+550254045,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+206748603,b'Saucony Kinvara 3 - Silver/Blue/Orange Stripe\n(351.2 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+549517236,b'\xe2\x80\x94',Garmin Forerunner 405,b'\xe2\x80\x94',0
+289949958,b'Brooks Glycerin\n(448.9 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+425447257,b'Brooks Adrenaline GTS\n(533.7 mi)',Garmin Forerunner 225,b'\xe2\x80\x94',0
+549987416,b'adidas adizero boston 5 #1\n(529.2 mi)',Garmin Forerunner 405,b'\xe2\x80\x94',0
+549487314,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+289501162,b'Saucony Triumph 11\n(402.3 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+133350428,b'Newton Gravity yellow\n(404.4 mi)',Garmin Forerunner 305,b'\xe2\x80\x94',0
+2928086196,b'\xe2\x80\x94',\xe2\x80\x94,b'461',0
+293134847,"b'Inov-8 195\n(3,858.0 mi)'",Garmin Forerunner 610,b'\xe2\x80\x94',0
+404257261,b'\xe2\x80\x94',Suunto Ambit,b'\xe2\x80\x94',0
+739708778,b'HOKA ONE ONE Clifton 3\n(616.2 mi)',Garmin Forerunner 910XT,b'357',0
+555525950,b'\xe2\x80\x94',Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+401168512,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+4306257129,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+549379571,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+258225776,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+740670603,b'New Balance MRC1600v2\n(108.9 mi)',Garmin f\xc4\x93nix 3,b'363',0
+553601734,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+991069288,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+740183488,b'\xe2\x80\x94',Garmin Forerunner 405,b'\xe2\x80\x94',0
+425073983,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+549367262,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+401195682,b'Brooks PureCadence\n(760.2 mi)',Garmin Forerunner 920XT,b'779',0
+549758922,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+551079806,"b'Saucony Ride 7\n(11,061.6 mi)'",Garmin Forerunner 630,b'\xe2\x80\x94',0
+207403470,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+206720801,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+549438633,"b""Newton Gravity (girl's)\n(544.6 mi)""",Garmin Forerunner 920XT,b'832',0
+740403523,b'Nike Lunartempo2-Orange\n(133.3 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+211254285,b'\xe2\x80\x94',Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+549792844,b'Brooks Launch\n(519.0 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+216187665,b'\xe2\x80\x94',Garmin Forerunner 305,b'\xe2\x80\x94',0
+809482899,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+132835166,b'Saucony Type A5\n(270.1 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+555411057,"b'Saucony Mirage 5\n(7,473.0 mi)'",Garmin Forerunner 225,b'\xe2\x80\x94',0
+293429733,b'\xe2\x80\x94',Garmin Forerunner 110,b'\xe2\x80\x94',0
+401566443,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+555675053,b'Brooks Adrenaline GTS\n(278.4 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+412650607,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+504052394,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+289839953,b'\xe2\x80\x94',TomTom,b'\xe2\x80\x94',0
+289276046,b'HOKA ONE ONE Clifton\n(337.6 mi)',Garmin f\xc4\x93nix 3,b'327',0
+207015221,b'\xe2\x80\x94',Suunto Ambit2 S,b'\xe2\x80\x94',0
+555779505,b'adidas Adizero Ace 7\n(206.1 mi)',GPX,b'\xe2\x80\x94',0
+401230977,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+424717089,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'658',0
+289296159,b'Mizuno Wave 18\n(463.1 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+739794592,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+215029394,b'New Balance Fresh Foam 980 V1 AW14 Black/Green\n(440.7 mi)',Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+404571951,"b'Salomon S-Lab Sense 4 Ultra\n(2,615.1 mi)'",Garmin f\xc4\x93nix 3,b'231',0
+739801291,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+134511290,"b'No name\n(6,274.0 mi)'",Garmin Forerunner 305,b'\xe2\x80\x94',0
+280027818,b'\xe2\x80\x94',Garmin Forerunner 405,b'\xe2\x80\x94',0
+555654400,b'\xe2\x80\x94',Strava Android App,b'\xe2\x80\x94',0
+993489584,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+549423427,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+549432978,b'Saucony kinvara 7\n(333.5 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+289366612,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+555797763,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+206837524,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+424721769,b'adidas BOSTON BOOST\n(704.3 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+550771007,b'ASICS Gel Pursue 2\n(506.7 mi)',Suunto Ambit2,b'\xe2\x80\x94',0
+200497324,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+293269857,b'ASICS nimbus 16\n(552.5 mi)',Garmin Forerunner 610,b'343',0
+411154591,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+424630231,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+411099331,b'Saucony Guide 8\n(301.0 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+424723553,b'\xe2\x80\x94',Garmin v\xc3\xadvoactive,b'\xe2\x80\x94',0
+401391046,b'\xe2\x80\x94',Garmin Forerunner 225,b'\xe2\x80\x94',0
+223354507,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+289484234,"b'HOKA ONE ONE Stinson EVO\n(12,401.5 mi)'",Garmin Forerunner 620,b'\xe2\x80\x94',0
+739833456,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+296235176,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+215196610,"b'HOKA ONE ONE Clifton\n(1,187.0 mi)'",Garmin Forerunner 620,b'\xe2\x80\x94',0
+411028202,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+3445823896,b'\xe2\x80\x94',Suunto Ambit,b'\xe2\x80\x94',0
+555811264,b'Nike Flyknit Lunar 3\n(542.5 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',0
+549455020,b'adidas BB 5\n(147.4 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+2981697565,"b'Crocs Crocs\n(1,732.1 mi)'",\xe2\x80\x94,b'\xe2\x80\x94',0
+200536826,b'Mizuno Wave Rider   17 Lime\n(538.5 mi)',Suunto Ambit2,b'\xe2\x80\x94',0
+739866219,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+550423786,b'\xe2\x80\x94',Suunto Ambit,b'289',0
+739770234,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+739672823,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+849271884,b'Mizuno Wave Rider 18\n(60.4 mi)',Garmin Forerunner 225,b'\xe2\x80\x94',0
+206746987,b'Saucony Fastwitch 6\n(54.8 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+3813824442,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+264502985,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+556394340,b'ASICS Hyperspeed 6 Pair 3\n(150.3 mi)',Garmin Forerunner 620,b'675',0
+426737384,b'\xe2\x80\x94',GPX,b'\xe2\x80\x94',0
+411845320,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+289208128,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+739667458,b'Merrell Vapor Gloves 2\n(567.1 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+549645197,b'ASICS Nimbus 17 Black / Red\n(854.0 mi)',Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+555511152,b'Brooks Transcend\n(831.4 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+413412953,b'\xe2\x80\x94',Garmin Forerunner 610,b'347',0
+215315553,b'Newton Distance Elite\n(316.8 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+289238880,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+549402936,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+204196231,b'adidas Feather 2\n(120.7 mi)',GPX,b'\xe2\x80\x94',0
+560284343,b'ASICS YELLOW HYPERSPEED\n(64.4 mi)',Garmin Forerunner 15,b'\xe2\x80\x94',0
+739712368,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+685704072,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+549478506,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+3243034553,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+429044510,b'adidas Energy\n(357.1 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+745666923,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+424829184,b'adidas Mineral Ultra Boost\n(792.9 mi)',Garmin Forerunner 10,b'\xe2\x80\x94',0
+401121945,b'ASICS Nimbus 17\n(776.5 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+424770560,b'Nike Lunartempo (Volt)\n(321.1 mi)',TomTom,b'\xe2\x80\x94',0
+270350401,b'Nike Lunarglide 8\n(547.1 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+555445673,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+411061922,b'Saucony kinvara 5\n(390.2 mi)',Strava Android App,b'\xe2\x80\x94',0
+549611609,b'\xe2\x80\x94',Garmin Forerunner 620,b'585',0
+206524692,b'\xe2\x80\x94',GPX,b'\xe2\x80\x94',0
+459818243,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+549629042,b'\xe2\x80\x94',Suunto Ambit3 Peak,b'298',0
+555414677,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+555249123,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+133098352,b'Nike Flyknit +1 (Blue)\n(601.4 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+431711286,b'\xe2\x80\x94',Garmin Forerunner 405,b'\xe2\x80\x94',0
+424764864,b'Saucony Triumph ISO\n(339.3 mi)',Garmin Forerunner 620,b'159',0
+515685169,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+556406266,b'adidas Adizero feather 4\n(152.0 mi)',Garmin f\xc4\x93nix 2,b'\xe2\x80\x94',0
+549567888,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+410961600,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'634',0
+199038019,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+292840918,b'\xe2\x80\x94',Suunto Ambit,b'\xe2\x80\x94',0
+430698644,b'\xe2\x80\x94',GPX,b'\xe2\x80\x94',0
+451714451,b'\xe2\x80\x94',Polar V800,b'261',0
+157014713,b'\xe2\x80\x94',Garmin Forerunner 405,b'\xe2\x80\x94',0
+556800974,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+206826023,b'Brooks PureDrift\n(224.2 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+424825514,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+739590625,b'adidas Adizero Adios 3\n(324.4 mi)',Strava iPhone App,b'\xe2\x80\x94',0
+555626724,b'\xe2\x80\x94',Garmin v\xc3\xadvoactive,b'\xe2\x80\x94',0
+555372500,b'\xe2\x80\x94',Garmin Forerunner 225,b'283',0
+424872939,b'Mizuno Wave Inspire 9 #2\n(373.9 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+695145329,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+557534635,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+293781408,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+289388210,b'\xe2\x80\x94',Garmin Forerunner 620,b'331',0
+549394984,b'ASICS FA-33\n(326.1 mi)',TomTom,b'\xe2\x80\x94',0
+549504622,b'adidas Adios adizero 3\n(331.4 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+555499672,b'Saucony Kinvara 5  - New July 15\n(151.7 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+739975737,b'ASICS DS Trainer 20\n(533.5 mi)',Garmin Forerunner 610,b'\xe2\x80\x94',0
+292974310,"b'Nike Free 5.0\n(1,605.8 mi)'",Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+555403708,b'adidas Adios Boost 2\n(417.2 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+292876224,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+739696896,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+401217829,b'Saucony Vitarra\n(789.9 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+993436658,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1504252865,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+289358180,b'adidas Energy Boost 2.0\n(59.7 mi)',\xe2\x80\x94,b'269',0
+739622608,b'\xe2\x80\x94',Garmin Forerunner 235,b'241',0
+201299967,b'ASICS GT 2000 V2\n(303.3 mi)',Garmin Forerunner 405,b'\xe2\x80\x94',0
+293853711,"b'Newton Gravity 2013\n(6,251.1 mi)'",GPX,b'\xe2\x80\x94',0
+555272702,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+424715686,b'HOKA ONE ONE Huaka 2\n(309.7 mi)',Garmin Forerunner 620,b'473',0
+292844138,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+462865556,"b'Nike Pegasus\n(3,306.2 mi)'",\xe2\x80\x94,b'\xe2\x80\x94',0
+555871736,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+135867634,b'\xe2\x80\x94',Garmin Forerunner 405,b'\xe2\x80\x94',0
+425311455,b'\xe2\x80\x94',Garmin Forerunner 110,b'\xe2\x80\x94',0
+555368239,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+555264564,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+549817169,b'adidas Energy Boost\n(745.4 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+249083930,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+740540859,b'Brooks Adrenaline GTS\n(267.5 mi)',Garmin Forerunner 15,b'\xe2\x80\x94',0
+258199795,"b'Mizuno wave aero 12 slim Race\n(1,776.7 mi)'",Garmin Forerunner 410,b'\xe2\x80\x94',0
+1189092177,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+289393968,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+289357251,b'ASICS Gel Cumulus 16\n(588.1 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+201818541,b'\xe2\x80\x94',Garmin Forerunner 410,b'\xe2\x80\x94',0
+555510468,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+401527934,b'New Balance MR 1400 #8\n(555.9 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1946628010,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+2325776413,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+1512257044,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'383',0
+946555160,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1424617151,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2838936835,b'\xe2\x80\x94',Garmin Forerunner 935,b'564',0
+879835315,b'Brooks Launch\n(518.4 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1199160226,b'adidas adios adizeros 3\n(205.9 mi)',TomTom,b'\xe2\x80\x94',0
+1845092702,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+1199788991,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+1845254453,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+2292495583,b'\xe2\x80\x94',Garmin v\xc3\xadvoactive HR,b'\xe2\x80\x94',0
+2292284678,b'Nike PEGASUS 34\n(632.4 mi)',Garmin Forerunner 235,b'344',0
+946613379,"b'Saucony\n(14,135.5 mi)'",Garmin Forerunner 220,b'\xe2\x80\x94',0
+1262967963,b'\xe2\x80\x94',Garmin Forerunner 235,b'692',0
+1199062749,b'Nike the 1%\n(222.4 mi)',Garmin Forerunner 235,b'473',1
+1890480315,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+1199104203,b'Nike LunarTempo 2\n(256.8 mi)',Garmin f\xc4\x93nix 5,b'621',0
+1524529202,b'Nike Zoom Fly\n(117.0 mi)',Garmin Forerunner 630,b'\xe2\x80\x94',0
+1713317755,b'\xe2\x80\x94',Garmin Forerunner 35,b'\xe2\x80\x94',0
+2786125343,b'Nike Vaporfly 4% Flyknit\n(28.6 mi)',\xe2\x80\x94,b'220',1
+1512438040,b'Nike Free Flyknit Rn Crimson\n(500.4 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1263313491,"b'HOKA ONE ONE Clifton 2\n(1,060.4 mi)'",Garmin Forerunner 225,b'\xe2\x80\x94',0
+2839114174,b'Nike Vaporfly Next%\n(49.0 mi)',Garmin Forerunner 935,b'448',1
+1221315238,b'Saucony kinvara 7\n(170.1 mi)',Garmin Forerunner 235,b'580',0
+1890977607,"b'adidas adios 3\n(3,844.3 mi)'",Garmin Forerunner 935,b'301',0
+2750090266,b'\xe2\x80\x94',Garmin Forerunner 645 Music,b'\xe2\x80\x94',0
+1199263871,b'Saucony Fastwitch 7 Yellow\n(520.6 mi)',\xe2\x80\x94,b'406',0
+2325333992,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1199931038,b'New Balance Fresh From Boracay V2 blau Marathon\n(591.7 mi)',Polar V800,b'\xe2\x80\x94',0
+1263217651,b'adidas Supernova\n(657.2 mi)',Garmin Forerunner 235,b'317',0
+1512226735,"b'HOKA ONE ONE Clayton 2 (III)\n(2,159.4 mi)'",Garmin Forerunner 935,b'246',0
+1424574053,b'\xe2\x80\x94',Garmin v\xc3\xadvoactive,b'\xe2\x80\x94',0
+1257869505,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+2292204546,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'282',0
+1221377798,b'Brooks Adrenaline GTS\n(634.7 mi)',Garmin Forerunner 225,b'428',0
+1512480416,b'Skechers Go Run 5 Black\n(481.9 mi)',Garmin Forerunner 935,b'470',0
+1845110515,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2786208518,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+1845844920,b'\xe2\x80\x94',Apple Watch Series 2,b'433',0
+2325652664,b'adidas adizero Boston 6 white/solar red\n(456.1 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1424653598,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'400',0
+1263298107,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+2325814625,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2786169246,b'\xe2\x80\x94',Garmin Forerunner 945,b'501',0
+1891128477,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+2325652570,b'\xe2\x80\x94',Garmin Forerunner 225,b'\xe2\x80\x94',0
+2325301807,"b'adidas Boston 6\n(13,593.3 mi)'",Garmin v\xc3\xadvoactive HR,b'\xe2\x80\x94',0
+946689523,b'New Balance Zante v3 Boston (4/12/17)\n(434.0 mi)',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1524927473,b'Altra Escalante\n(501.1 mi)',Garmin Forerunner 235,b'502',0
+2749069885,b'Nike Pegasus 35\n(168.3 mi)',Garmin f\xc4\x93nix 3,b'507',0
+1222430116,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+946663217,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1199350703,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+946633267,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1524831683,b'Mizuno Wave Hitogami 4\n(647.4 mi)',Garmin Forerunner 35,b'\xe2\x80\x94',0
+2326629237,b'\xe2\x80\x94',TomTom,b'\xe2\x80\x94',0
+1221545145,b'adidas Energy Boost\n(628.0 mi)',Garmin Forerunner 210,b'\xe2\x80\x94',0
+946526733,b'HOKA ONE ONE Clyton\n(880.6 mi)',Garmin f\xc4\x93nix 2,b'\xe2\x80\x94',0
+946663699,b'\xe2\x80\x94',Garmin v\xc3\xadvoactive HR,b'263',0
+2325428840,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1946207852,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2749557703,b'Nike Zoom Air Pegasus 35\n(441.3 mi)',TomTom,b'245',0
+1512513539,b'\xe2\x80\x94',Garmin Forerunner 25,b'\xe2\x80\x94',0
+1890500585,"b'ASICS Nimbus\n(1,943.7 mi)'",Polar M400,b'\xe2\x80\x94',0
+2748825182,"b'Nike Pegasus Turbo\n(5,510.3 mi)'",Garmin Forerunner 935,b'\xe2\x80\x94',0
+2838833492,b'Nike Next%\n(55.4 mi)',Garmin Forerunner 245 Music,b'268',1
+2786235759,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2839233296,b'Nike Vaporfly next% PINK\n(282.5 mi)',Garmin Forerunner 735XT,b'\xe2\x80\x94',1
+1221562382,b'adidas Boston 5\n(390.0 mi)',Garmin Forerunner 735XT,b'707',0
+951472359,b'adidas adizero adios (blue)\n(329.8 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+2292204913,b'Nike Flyknit Vaporfly 4% red #2\n(785.8 mi)',Polar Vantage V,b'197',1
+1892977136,b'Nike Zoom Pegasus turbo\n(515.5 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1512526051,b'adidas Adizero Boston 6 - MARATHON SHOES\n(266.1 mi)',Garmin Forerunner 935,b'268',0
+879882777,b'New Balance M1040\n(223.3 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+1844969610,b'\xe2\x80\x94',Garmin Forerunner 620,b'274',0
+1524823698,b'adidas Boston 2017\n(176.6 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1525401624,b'adidas adios boost 3\n(327.2 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+2786575767,b'Nike VaporFly 4%\n(87.1 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',1
+1263346438,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+2292063686,b'adidas Adizero Adios 3 (Grey/White)\n(282.8 mi)',Garmin Forerunner 235,b'321',0
+1264547261,b'\xe2\x80\x94',Garmin Forerunner 610,b'\xe2\x80\x94',0
+2786394788,b'adidas Solar glide\n(851.3 mi)',Garmin Forerunner 935,b'\xe2\x80\x94',0
+2754340377,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'346',0
+1091027275,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1222587502,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'500',0
+2292174392,b'Nike VaporFly 4%\n(168.7 mi)',Garmin f\xc4\x93nix 5,b'416',1
+2748908410,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2839177827,b'adidas adios 4s\n(168.2 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1890746518,b'Nike Vaporfly 4% Flynit Red\n(151.5 mi)',Suunto,b'\xe2\x80\x94',1
+2325327183,b'Nike Vapour Fly 4%\n(115.1 mi)',Garmin f\xc4\x93nix 5 Plus,b'258',1
+2293115484,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2749010218,b'Nike flyknit zoom 4%\n(498.4 mi)',Garmin Forerunner 630,b'637',1
+2839243686,b'Nike 4%\n(39.3 mi)',Garmin Forerunner 225,b'\xe2\x80\x94',1
+2325379480,b'Nike Vaporfly 4%(4th)\n(307.8 mi)',Garmin Forerunner 935,b'501',1
+946594316,b'Newton Distance Elite (Boston 2017)\n(108.4 mi)',Garmin Forerunner 920XT,b'385',0
+1515053406,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+1512697361,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+2292018798,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1512409057,"b'Nike Elite 9\n(9,646.7 mi)'",Garmin Forerunner 935,b'314',0
+2325899196,b'\xe2\x80\x94',Garmin Forerunner 645,b'204',0
+1845474110,b'\xe2\x80\x94',Garmin v\xc3\xadvoactive HR,b'100',0
+1845196345,b'Saucony Kinvara 8 (Grey)-pr1\n(201.0 mi)',Garmin Forerunner 630,b'\xe2\x80\x94',0
+2748714704,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+2325907481,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1524721519,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+2325432233,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1512247927,b'Saucony Kinvara 8\n(310.7 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',0
+2838928928,"b'HOKA ONE ONE Stinson\n(11,204.8 mi)'",Garmin Forerunner 235,b'648',0
+2292635464,b'\xe2\x80\x94',Garmin Forerunner 225,b'\xe2\x80\x94',0
+2787338955,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+1946224928,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2786136865,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1890447139,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1890400286,b'Nike zoom vaporfly 4%\n(787.5 mi)',Garmin Forerunner 935,b'191',1
+1525855452,b'New Balance 1500v4\n(48.1 mi)',Suunto,b'\xe2\x80\x94',0
+1512527558,b'adidas Boston white\n(481.4 mi)',Polar M600,b'\xe2\x80\x94',0
+2292329499,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+2748964125,"b'Nike PEGASUS 34\n(10,179.4 mi)'",Garmin Forerunner 235,b'\xe2\x80\x94',0
+1535927347,b'Nike Zoom Pegasus 3x\n(419.1 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1221442551,b'Mizuno Wave Rider 20 - 1709\n(410.7 mi)',Garmin Forerunner 630,b'\xe2\x80\x94',0
+1199349509,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'357',0
+1512293234,b'Newton Distance III\n(191.6 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+946814567,b'New Balance 1500v2\n(600.2 mi)',GPX,b'\xe2\x80\x94',0
+2292649599,b'\xe2\x80\x94',Polar Vantage V,b'\xe2\x80\x94',0
+1221445763,b'Brooks Adrenaline GTS\n(454.7 mi)',TomTom,b'\xe2\x80\x94',0
+1199252053,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1845086753,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1263204697,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1263145030,"b'HOKA ONE ONE Challenger ATR2 Gr\xc3\xa5\n(1,157.7 mi)'",Suunto Ambit3 Peak,b'\xe2\x80\x94',0
+1512751939,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+946576510,b'\xe2\x80\x94',Garmin Forerunner 630,b'516',0
+1263061203,b'Nike Zoom structure 19\n(530.4 mi)',Garmin v\xc3\xadvoactive HR,b'699',0
+1845019580,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5 Plus,b'420',0
+1199151412,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'201',0
+2325320565,b'Nike VaporFly 4% Orange/white #1\n(120.8 mi)',Garmin Forerunner 935,b'\xe2\x80\x94',1
+1512333084,b'\xe2\x80\x94',Garmin Forerunner 235,b'460',0
+1263300891,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1946791196,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5 Plus,b'\xe2\x80\x94',0
+948877144,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+2294985526,"b'Saucony Kinvara 8 Marl\n(4,446.0 mi)'",Garmin Forerunner 935,b'151',0
+1512633695,b'Newton Five\n(336.1 mi)',Garmin Forerunner 225,b'\xe2\x80\x94',0
+946601577,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1518308598,b'\xe2\x80\x94',Garmin Forerunner 15,b'\xe2\x80\x94',0
+1199530893,b'Newton Newton Distance Elite\n(117.2 mi)',Garmin Forerunner 920XT,b'543',0
+1424573277,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+1847161577,b'HOKA ONE ONE Tracer 2 - Red\n(37.7 mi)',Garmin Forerunner 235,b'421',0
+1262925148,b'\xe2\x80\x94',Garmin Forerunner 35,b'430',0
+2786519888,b'Nike ZoomX Vaporfly Next%\n(42.9 mi)',Garmin Forerunner 920XT,b'269',1
+1221782909,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+2748954726,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1846809638,b'Nike Pegasus 35 Turbo BLN\n(334.4 mi)',Suunto Ambit3 Peak,b'\xe2\x80\x94',0
+946505899,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1221602247,b'Vibram Bikilas\n(870.4 mi)',Garmin Forerunner 910XT,b'657',0
+1221159077,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+1512326951,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+2786138696,b'adidas Boston 7\n(502.4 mi)',Garmin Forerunner 935,b'\xe2\x80\x94',0
+2749125024,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+2292242314,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+946644689,b'\xe2\x80\x94',Garmin Forerunner 25,b'\xe2\x80\x94',0
+2325327711,b'\xe2\x80\x94',Garmin Forerunner 630,b'680',0
+2325297385,b'Mizuno Wave Rider 22\n(561.3 mi)',Garmin Forerunner 620,b'491',0
+1199114789,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1528736021,"b'New Balance New Balance 680 v4\n(1,014.0 mi)'",Garmin Forerunner 230,b'\xe2\x80\x94',0
+1317744247,b'\xe2\x80\x94',Garmin Forerunner 630,b'241',0
+1424637298,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1424637298,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1262964560,"b'New Balance Vazee Pace\n(1,531.0 mi)'",Garmin Forerunner 230,b'\xe2\x80\x94',0
+1946320740,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+2749067932,b'\xe2\x80\x94',Garmin Forerunner 225,b'\xe2\x80\x94',0
+1214886292,b'adidas Energy Boost 3\n(537.9 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+2749080221,b'Inov-8 TrailRoc 270\n(846.4 mi)',Polar Vantage V,b'224',0
+1512580685,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1199433151,b'adidas Ultra Boosts\n(512.3 mi)',Suunto Ambit3 Peak,b'\xe2\x80\x94',0
+1204651564,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+2786500315,b'New Balance 1400 v6 Black/Blue\n(418.8 mi)',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1512499193,b'Brooks Asteria\n(250.5 mi)',Garmin Forerunner 920XT,b'323',0
+2878589156,"b'Nike Pegasus Turbo\n(5,045.0 mi)'",Garmin Forerunner 945,b'326',0
+1892798619,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1890397075,b'Nike VaporFly 4%\n(90.6 mi)',Garmin Forerunner 630,b'473',1
+1512383944,b'Altra Escalante Boston18 Racers\n(298.8 mi)',Garmin Forerunner 230,b'\xe2\x80\x94',0
+951113412,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+2049974861,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+2838920714,b'Skechers Razorblade Romance\n(332.0 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',0
+2786541127,b'Nike Next\n(216.7 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',1
+1524513054,b'ASICS Hyperspeed\n(172.0 mi)',Garmin v\xc3\xadvoactive,b'312',0
+2748964553,b'Nike ZoomX\n(307.0 mi)',Garmin f\xc4\x93nix 5,b'610',0
+1199150349,b'adidas Supernova Glide 9 vs2\n(312.3 mi)',Garmin Forerunner 235,b'331',0
+1847962326,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+2748998374,b'Nike Vaporfly 4% - orange\n(81.0 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',1
+946615187,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1324913115,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+4303716751,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+946980023,b'Mizuno Hitogami V3\n(322.5 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+1424569853,b'\xe2\x80\x94',Garmin Forerunner 620,b'267',0
+2792324328,b'\xe2\x80\x94',Garmin Forerunner 35,b'\xe2\x80\x94',0
+1949734701,"b'Nike Pegasus 33\n(2,005.4 mi)'",Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+2786336733,b'\xe2\x80\x94',Garmin Forerunner 935,b'619',0
+2292355819,"b'HOKA ONE ONE Clifton\n(1,987.6 mi)'",Garmin Forerunner 235,b'\xe2\x80\x94',0
+2748701274,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'211',0
+1221178915,b'Saucony Freedom ISO\n(650.1 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1424579018,b'HOKA ONE ONE Clifton 4\n(563.6 mi)',Garmin Forerunner 235,b'741',0
+1525537741,b'\xe2\x80\x94',TomTom,b'\xe2\x80\x94',0
+1845806283,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+2292309328,b'\xe2\x80\x94',Strava iPhone App,b'\xe2\x80\x94',0
+1946448507,b'New Balance 1400v6 Black\n(342.8 mi)',Garmin Forerunner 735XT,b'452',0
+2292453417,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+2789768282,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+2292194414,b'Saucony Freedom ISO\n(316.8 mi)',Garmin f\xc4\x93nix 5X,b'\xe2\x80\x94',0
+2749061253,b'\xe2\x80\x94',COROS PACE,b'495',0
+1262927090,b'adidas Adistar Boost\n(445.4 mi)',Garmin Forerunner 735XT,b'302',0
+1199347669,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1221462151,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+2325656646,b'\xe2\x80\x94',Garmin Forerunner 225,b'\xe2\x80\x94',0
+1845380604,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1221297709,b'\xe2\x80\x94',Garmin Forerunner 235,b'566',0
+1512435317,b'New Balance 890 V4 White\n(721.2 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+2292192821,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1859412633,"b'adidas Energy Boost\n(6,564.2 mi)'",Suunto Ambit2,b'\xe2\x80\x94',0
+1524494066,b'\xe2\x80\x94',Garmin Forerunner 935,b'323',0
+946566391,b'\xe2\x80\x94',Garmin Forerunner 235,b'471',0
+1890670083,"b'New Balance 1400 V5\n(2,179.8 mi)'",Garmin f\xc4\x93nix 5,b'198',0
+946613593,b'HOKA ONE ONE Clifton 2\n(406.6 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1845191047,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1199494218,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'361',0
+946815369,b'\xe2\x80\x94',Garmin Forerunner 225,b'\xe2\x80\x94',0
+1946280001,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+1890533096,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1214155313,"b'New Balance MT00BL\n(7,454.6 mi)'",Garmin Forerunner 235,b'\xe2\x80\x94',0
+1266812806,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+2749320146,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1263135210,b'ASICS Gel Hyper Speed 7 - #1\n(191.3 mi)',Garmin Forerunner 920XT,b'394',0
+2292666578,b'\xe2\x80\x94',Garmin Forerunner 645 Music,b'639',0
+946504598,b'Nike Flyknit Racer\n(240.3 mi)',Garmin f\xc4\x93nix 3,b'507',0
+1890747945,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+2786584518,b'\xe2\x80\x94',TomTom,b'\xe2\x80\x94',0
+1424607566,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+1336507591,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1262962736,b'Skechers Go Run 5 (Nite Owl)\n(660.9 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1946140920,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5X,b'\xe2\x80\x94',0
+1424566494,"b'adidas \xe3\x82\xa2\xe3\x83\x87\xe3\x82\xa3\xe3\x82\xbc\xe3\x83\xad\xe3\x82\xb8\xe3\x83\xa3\xe3\x83\x91\xe3\x83\xb3\n(2,263.9 mi)'",Garmin Forerunner 935,b'381',0
+2292440793,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2838863650,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2749107340,b'HOKA ONE ONE Carbon X\n(224.9 mi)',Garmin f\xc4\x93nix 3,b'320',0
+1067913079,b'\xe2\x80\x94',Garmin Forerunner 235,b'779',0
+1222896659,b'\xe2\x80\x94',Garmin Forerunner 10,b'\xe2\x80\x94',0
+1224473947,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1845185856,b'On Cloudflow\n(352.5 mi)',Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+1946157809,b'\xe2\x80\x94',Garmin v\xc3\xadvoactive,b'\xe2\x80\x94',0
+1890381541,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5S,b'454',0
+2750773415,"b'New Balance 890 v7\n(1,420.5 mi)'",Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+2292645540,b'Brooks Hyperion\n(138.8 mi)',Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+1512529836,"b'Newton Distancia\n(4,590.1 mi)'",Garmin Forerunner 230,b'123',0
+2847834495,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1890812444,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1890310535,b'Nike PEGASUS 34\n(622.2 mi)',Garmin Forerunner 235,b'345',0
+1844962848,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+2326004920,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'655',0
+1524578811,"b'Mizuno Wave Rider 18\n(6,982.2 mi)'",Garmin Forerunner 235,b'\xe2\x80\x94',0
+2748910649,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1221312770,b'Nike Lunar epic flynit green 2\n(328.1 mi)',Garmin Forerunner 35,b'562',0
+1845028033,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1949209599,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2326212364,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1524644154,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1846014453,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1524623614,"b'Kalenji KipRace\n(5,160.8 mi)'",Garmin Forerunner 235,b'\xe2\x80\x94',0
+1524847334,b'ASICS GEL DS Racer 11\n(200.9 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1424590785,b'ASICS GEL trainer 22\n(298.2 mi)',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+1263061626,b'adidas adios Mauve\n(251.7 mi)',Suunto,b'\xe2\x80\x94',0
+2786399249,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+946615554,b'ASICS DS Racer 11\n(343.9 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+1845175726,b'Nike Vaporfly 4% Fk #1\n(180.4 mi)',Garmin f\xc4\x93nix 5,b'329',1
+2749607349,"b'Nike Zoom Elite 9\n(3,092.6 mi)'",Garmin Forerunner 235,b'\xe2\x80\x94',0
+1512559320,b'\xe2\x80\x94',Suunto Spartan Ultra,b'490',0
+1946640727,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5 Plus,b'336',0
+946719662,b'\xe2\x80\x94',Strava Android App,b'\xe2\x80\x94',0
+4248270201,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1845745266,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'406',0
+2325372044,"b'ASICS Nimbus Gel 21\n(1,905.4 mi)'",Garmin Forerunner 235,b'744',0
+1946502344,b'adidas adios boost\n(127.3 mi)',Apple Watch Series 2,b'325',0
+1512387504,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+946641736,b'Mizuno Musha\n(773.8 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+897322578,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1262871401,b'Vibram KSO EVO\n(371.7 mi)',Garmin Forerunner 735XT,b'335',0
+1199106883,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+1946705181,b'\xe2\x80\x94',Apple Watch Series 3,b'\xe2\x80\x94',0
+1299509844,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1524493372,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1221191556,b'Altra The One 2.5 III\n(207.2 mi)',Garmin Forerunner 735XT,b'273',0
+1946616317,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+958035660,b'ASICS Tri 9\n(380.5 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+1198998825,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1512595840,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+946597855,b'adidas BOSTON BOOST\n(301.1 mi)',Garmin Forerunner 235,b'370',0
+1200636250,b'ASICS DynaFlyte\n(407.9 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1512336579,b'New Balance Hanzo\n(70.1 mi)',Garmin Forerunner 935,b'258',0
+1512673260,"b'adidas Energy Boost\n(4,950.3 mi)'",Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1221335827,b'\xe2\x80\x94',Garmin Forerunner 35,b'\xe2\x80\x94',0
+1262890696,b'Brooks Launch\n(236.4 mi)',Strava iPhone App,b'\xe2\x80\x94',0
+991618494,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1946144015,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1512429761,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1525861472,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+1263247269,b'\xe2\x80\x94',Garmin Forerunner 225,b'372',0
+1263033220,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1845382050,b'adidas Boston\n(528.4 mi)',Garmin Forerunner 935,b'\xe2\x80\x94',0
+1845005152,b'Nike VaporFly 4%\n(50.2 mi)',Garmin f\xc4\x93nix 5X,b'165',1
+2292377524,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5S Plus,b'\xe2\x80\x94',0
+2839001824,"b'adidas adizero aktiv\n(4,357.2 mi)'",Polar Vantage V Titan,b'760',0
+1946231932,b'Nike Vaporfly Obsidian NYC\n(66.5 mi)',Polar V800,b'\xe2\x80\x94',1
+1221136378,b'\xe2\x80\x94',Garmin Forerunner 235,b'239',0
+2749256270,b'adidas Adizero Adios Boost 4\n(500.4 mi)',Garmin Forerunner 235,b'315',0
+2325616992,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+1263000604,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+2748831605,"b'adidas Boston\n(4,512.7 mi)'",Garmin Forerunner 735XT,b'175',0
+2841967760,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1845756218,b'\xe2\x80\x94',Suunto Spartan Sport,b'\xe2\x80\x94',0
+1512902426,b'adidas Adizero Sub2\n(93.1 mi)',Polar V800,b'\xe2\x80\x94',0
+1845216208,b'New Balance 1400 V5\n(264.3 mi)',Garmin Forerunner 935,b'597',0
+879837271,b'Nike Lunaracer\n(169.6 mi)',Garmin Forerunner 735XT,b'142',0
+2786204814,b'\xe2\x80\x94',Garmin Forerunner 935,b'402',0
+1946362754,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1524465574,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+946510519,b'Nike streak flyknit black\n(414.4 mi)',Garmin Forerunner 235,b'674',0
+1526087821,b'Nike React (White)\n(73.9 mi)',Garmin Forerunner 935,b'\xe2\x80\x94',0
+946738394,b'\xe2\x80\x94',Microsoft Band,b'613',0
+891570988,b'\xe2\x80\x94',Garmin Forerunner 225,b'328',0
+1524802293,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'679',0
+1263027130,b'Nike Lunar Racer 4\n(416.8 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+2786417749,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1267394766,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1262902676,b'Newton Fate 2\n(383.0 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1263241353,b'adidas Adios Boost 3 Cinza\n(326.7 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+2292238357,b'\xe2\x80\x94',Garmin Forerunner 935,b'610',0
+1271235905,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1946264493,b'adidas adios\n(240.0 mi)',Garmin Forerunner 230,b'\xe2\x80\x94',0
+2749414483,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+1845057219,b'\xe2\x80\x94',Polar M400,b'\xe2\x80\x94',0
+2749277138,b'Reebok Floatride Run Fast blue & lime\n(47.6 mi)',Polar M430,b'\xe2\x80\x94',0
+2748788929,b'adidas Adizero Adios 3 M\n(258.4 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1263126390,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'692',0
+1512535636,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+2469621219,b'\xe2\x80\x94',Garmin Forerunner 25,b'\xe2\x80\x94',0
+1512524392,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+1424576912,b'Nike Lunaracer\n(276.2 mi)',Garmin v\xc3\xadvoactive HR,b'293',0
+1524573366,"b'Crocs Classics\n(5,787.1 mi)'",Garmin Forerunner 220,b'\xe2\x80\x94',0
+1424703266,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+946587862,b'adidas Boston 6\n(386.7 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+946758468,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'355',0
+1946364778,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+4452164045,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1525184228,"b'HOKA ONE ONE Clifton 3\n(2,588.8 mi)'",Garmin Forerunner 735XT,b'481',0
+946640614,b'New Balance Zante1\n(236.1 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1890506990,b'Nike Vomero 12\n(367.5 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1512728379,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1524492820,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'205',0
+2326769592,b'Nike zoom vaporfly 4%\n(879.7 mi)',Garmin f\xc4\x93nix 3,b'345',1
+947341138,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1846016491,"b'Brooks Transcend\n(2,677.7 mi)'",Garmin Forerunner 645 Music,b'\xe2\x80\x94',0
+1947887868,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+1525128730,b'\xe2\x80\x94',Garmin Forerunner 235,b'298',0
+1845053861,b'New Balance FuelCell\n(84.2 mi)',Garmin Forerunner 235,b'452',0
+1890642400,b'Saucony Kinvara 7 - Black\n(582.5 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+2838812163,b'Nike VaporFly 4%\n(549.0 mi)',Garmin f\xc4\x93nix 5 Plus,b'219',1
+1512709363,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1523161170,"b'Nike Free RN Flyknit\n(2,349.0 mi)'",Garmin Forerunner 235,b'622',0
+1524819397,b'adidas boost\n(669.9 mi)',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1221703440,b'Nike Air Zoom Fly\n(401.7 mi)',Garmin Forerunner 735XT,b'666',0
+2838973361,b'Nike Vaporfly ZoomX Next%\n(208.6 mi)',Garmin f\xc4\x93nix 5,b'173',1
+1262987937,b'\xe2\x80\x94',Garmin Forerunner 630,b'259',0
+2839291626,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1998080972,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1946299873,b'\xe2\x80\x94',Apple Watch Series 4,b'\xe2\x80\x94',0
+2749889482,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1514893498,b'New Balance Zante 3\n(247.2 mi)',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+1262924084,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+1844881065,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1845204727,b'Nike zoom vaporfly 4%\n(101.8 mi)',Garmin Forerunner 935,b'620',1
+1845588715,b'Nike VaporFly 4%\n(143.3 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',1
+1845627742,b'\xe2\x80\x94',Polar V800,b'\xe2\x80\x94',0
+1890376007,b'Saucony Guide ISO\n(308.8 mi)',Garmin Forerunner 235,b'75',0
+1263149004,"b'ASICS Nimbus 15\n(9,194.4 mi)'",Garmin f\xc4\x93nix 3,b'402',0
+1262944563,b'New Balance 1500v3\n(87.3 mi)',Garmin Forerunner 735XT,b'315',0
+1894866806,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5S,b'\xe2\x80\x94',0
+2292194601,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5X,b'\xe2\x80\x94',0
+1525291406,b'Saucony Freedom Iso Ryono\n(421.7 mi)',Polar V800,b'386',0
+1946642652,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+1844961462,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+2325741949,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+1946210151,b'Brooks Pureflow 7\n(421.8 mi)',Garmin Forerunner 935,b'167',0
+1199186520,b'\xe2\x80\x94',Garmin Forerunner 630,b'388',0
+1424598298,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+1202481698,b'\xe2\x80\x94',Garmin Forerunner 620,b'\xe2\x80\x94',0
+2325355443,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+2325293903,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+1263317541,b'Altra Escalante\n(354.4 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',0
+946721734,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1893148009,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1946259326,b'ASICS Gel Nimbus 20 Blue/Yellow\n(781.8 mi)',Garmin Forerunner 935,b'420',0
+1221292505,"b'Saucony Cohesion 9\n(3,578.9 mi)'",Garmin Forerunner 235,b'\xe2\x80\x94',0
+2327469372,b'\xe2\x80\x94',Suunto Ambit3 Sport,b'\xe2\x80\x94',0
+1890707705,b'Nike Vaporfly\n(50.0 mi)',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',1
+2838929601,b'\xe2\x80\x94',Suunto Ambit3 Sport,b'\xe2\x80\x94',0
+2292257279,"b'adidas Adizero Adios 4 2019\n(1,109.8 mi)'",Garmin Forerunner 735XT,b'309',0
+1946329715,b'Newton Motion 6\n(452.3 mi)',Garmin Forerunner 935,b'\xe2\x80\x94',0
+2748902093,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+1262961457,b'adidas Glide Boost\n(539.2 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+2753699304,"b'Saucony any\n(14,460.8 mi)'",Garmin Forerunner 25,b'\xe2\x80\x94',0
+1199051673,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+1946195804,b'\xe2\x80\x94',Garmin Forerunner 35,b'\xe2\x80\x94',0
+2786053211,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+1222549543,b'\xe2\x80\x94',Garmin Forerunner 310XT,b'\xe2\x80\x94',0
+1845060098,b'\xe2\x80\x94',Garmin Forerunner 645,b'612',0
+1525807711,b'\xe2\x80\x94',Garmin Forerunner 235,b'393',0
+1892752150,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1946185553,b'\xe2\x80\x94',Garmin v\xc3\xadvoactive HR,b'\xe2\x80\x94',0
+1262913324,b'adidas Japan Boost 3\n(495.4 mi)',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1845642716,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+946768607,b'Nike Zoom Elite\n(160.8 mi)',Garmin Forerunner 225,b'\xe2\x80\x94',0
+2838836588,b'\xe2\x80\x94',Garmin Forerunner 935,b'255',0
+1037514245,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1512906431,b'Reebok Harmony Racer\n(227.3 mi)',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1262951550,b'Nike Structure 21\n(803.1 mi)',Garmin Forerunner 735XT,b'65',0
+1263183092,b'Nike Lunar3\n(106.4 mi)',Garmin Forerunner 230,b'\xe2\x80\x94',0
+946649639,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'456',0
+1946137710,b'On Cloudflash\n(72.6 mi)',Garmin Forerunner 235,b'272',0
+1845172436,b'New Balance 1500V4blanc\n(657.0 mi)',Garmin Forerunner 645 Music,b'\xe2\x80\x94',0
+1264658698,"b'Nike Flyknit Racer\n(3,790.6 mi)'",Garmin Forerunner 230,b'\xe2\x80\x94',0
+1890393890,b'Nike VaporFly 4%\n(39.7 mi)',Garmin Forerunner 935,b'\xe2\x80\x94',1
+1264382082,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1844834229,b'Nike Zoom Vaporfly 4% (grey)\n(141.2 mi)',Garmin Forerunner 735XT,b'474',1
+1846103804,b'adidas Pure Boost\n(439.9 mi)',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+1201370677,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+1845022567,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+2292270155,"b'ASICS Kayno 22 Gel\n(7,784.5 mi)'",Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+1265996979,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1263298049,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1946290877,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2748696995,"b'adidas Ultraboost ST M black\n(6,063.1 mi)'",Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+1890396243,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+2292649007,b'Nike Streak LT 4\n(293.8 mi)',Suunto Ambit2 R,b'\xe2\x80\x94',0
+2749059111,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+967517813,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+2838766209,b'\xe2\x80\x94',Garmin f\xc4\x93nix 6S Pro,b'227',0
+1948222048,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1947327231,b'\xe2\x80\x94',Garmin Forerunner 405,b'\xe2\x80\x94',0
+1946336416,b'New Balance 880v7.4\n(337.7 mi)',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+2999651705,b'\xe2\x80\x94',Garmin v\xc3\xadvoactive 3,b'\xe2\x80\x94',0
+1513852291,b'\xe2\x80\x94',Garmin Forerunner 230,b'\xe2\x80\x94',0
+1890393721,b'Nike Epic React Flyknit\n(621.8 mi)',Garmin v\xc3\xadvoactive HR,b'\xe2\x80\x94',0
+1512606473,"b'Nike Pegasus 33 (2nd pair)\n(4,611.0 mi)'",Garmin Forerunner 25,b'\xe2\x80\x94',0
+1946774063,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1512313775,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'654',0
+1882197451,b'adidas adizero adios\n(91.5 mi)',\xe2\x80\x94,b'\xe2\x80\x94',0
+2325362090,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+2749128458,b'Saucony Freedom\n(581.7 mi)',Garmin Forerunner 630,b'663',0
+1199093959,b'\xe2\x80\x94',Garmin Forerunner 35,b'\xe2\x80\x94',0
+1946416876,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+2838806096,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+2325401494,b'Mizuno Wave Rider 22 Osaka\n(541.6 mi)',Apple Watch Series 3,b'\xe2\x80\x94',0
+2292240449,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+2789527559,"b'Nike Structure\n(7,170.1 mi)'",Polar M430,b'\xe2\x80\x94',0
+1844958520,b'Nike Zoom Fly\n(559.2 mi)',Garmin Forerunner 235,b'280',0
+1526468920,b'\xe2\x80\x94',Garmin Forerunner 910XT,b'\xe2\x80\x94',0
+1890561317,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+2786239505,b'Nike Nike ZoomX Vaporfly NEXT%\n(94.2 mi)',Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',1
+1946639714,"b'Nike PEGASUS 34 - LONDON\n(3,237.2 mi)'",Garmin Forerunner 935,b'\xe2\x80\x94',0
+946725297,b'\xe2\x80\x94',Garmin v\xc3\xadvoactive,b'\xe2\x80\x94',0
+2749321368,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1891252804,b'Nike Vapor Fly 4% AZUL\n(578.0 mi)',Garmin Forerunner 935,b'200',1
+1946197992,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1221165203,b'\xe2\x80\x94',Garmin Forerunner 630,b'\xe2\x80\x94',0
+1524811722,b'New Balance Zante v4 SIlver\n(390.5 mi)',Garmin f\xc4\x93nix 5,b'192',0
+1512661670,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+946912927,b'Skechers GOmeb Speed 3 2016\n(388.5 mi)',Garmin Forerunner 620,b'\xe2\x80\x94',0
+1199919957,b'\xe2\x80\x94',Garmin Forerunner 735XT,b'\xe2\x80\x94',0
+2325274986,b'Nike Vaporfly 4% Flyknit\n(489.6 mi)',Garmin Forerunner 235,b'337',1
+1224570726,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+2325290578,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1954897450,b'\xe2\x80\x94',Garmin f\xc4\x93nix 3,b'\xe2\x80\x94',0
+1331546028,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1221460698,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+2325340103,b'\xe2\x80\x94',Garmin Forerunner 235,b'\xe2\x80\x94',0
+1512413052,b'\xe2\x80\x94',Suunto,b'\xe2\x80\x94',0
+1891111481,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'\xe2\x80\x94',0
+2049488164,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+1845051035,b'\xe2\x80\x94',\xe2\x80\x94,b'\xe2\x80\x94',0
+1221549578,b'\xe2\x80\x94',Garmin Forerunner 935,b'\xe2\x80\x94',0
+2292607806,b'adidas adizero black/white tempo 9\n(442.2 mi)',Garmin f\xc4\x93nix 3,b'441',0
+1512266003,"b'Nike Epic React\n(1,030.2 mi)'",Garmin Forerunner 735XT,b'390',0
+946716341,b'\xe2\x80\x94',Garmin Forerunner 220,b'\xe2\x80\x94',0
+1229794109,b'\xe2\x80\x94',Garmin Forerunner 935,b'386',0
+947515251,b'\xe2\x80\x94',Garmin Forerunner 10,b'\xe2\x80\x94',0
+1891079121,b'\xe2\x80\x94',Garmin Forerunner 935,b'371',0
+1524581679,b'\xe2\x80\x94',Garmin Forerunner 920XT,b'\xe2\x80\x94',0
+2325475783,b'\xe2\x80\x94',Garmin f\xc4\x93nix 5,b'380',0
+1890641075,b'Nike Zoom Fly\n(317.6 mi)',Suunto,b'\xe2\x80\x94',0
+1524683530,b'\xe2\x80\x94',Garmin Forerunner 235,b'384',0
+2748766301,"b'HOKA ONE ONE Clifton 3\n(7,660.0 mi)'",Garmin f\xc4\x93nix 5X,b'\xe2\x80\x94',0
