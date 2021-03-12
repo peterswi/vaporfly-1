@@ -47,11 +47,11 @@ def scrape_activities(username, password, inputCsv, outCsv):
     with open(outCsv, 'a',newline='') as results_file:
         strava_write=csv.writer(results_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             
-        #firstrow=['activity_id','shoes','device','suffer']
+       # firstrow=['activity_id','shoes','device','suffer']
         #strava_write.writerow(firstrow)
 
         count =0
-        for activity in activities[210:]:
+        for activity in activities[526:]:
             
             row=[]
             row.append(activity)
@@ -98,18 +98,26 @@ def scrape_activities(username, password, inputCsv, outCsv):
                     print('gear: ',gear_entry)
                     print('device: ',device_entry)
                     print('suffer score: ',suffer_entry)
-
-                if ((count%100==0)and(count>0)):
+            # what if we got rid of this sleep call?... just let it run till a 429. making this sleep after count=1000 to simulate
+                if ((count%2000==0)and(count>0)):
                     print('""""""')
                     print('count: ',count)
                     print('sleeping for 15 min to avoid requests problem')
+                    t = time.localtime()
+                    current_time = time.strftime("%H:%M:%S", t)
+                    print(current_time)
                     time.sleep(900)
                     print('awake!')
                     print('"""""')
+    
+                    
             else: 
                 #just doing the same thing, but after 15 minutes
                 print('""""""')
                 print('Error Code ',nav_page.status_code,'. Sleeping for 15 minutes, then trying again.')
+                t = time.localtime()
+                current_time = time.strftime("%H:%M:%S", t)
+                print(current_time)
                 time.sleep(900)
                 
                 #Send browser to page again
@@ -152,7 +160,12 @@ def scrape_activities(username, password, inputCsv, outCsv):
                     print('gear: ',gear_entry)
                     print('device: ',device_entry)
                     print('suffer score: ',suffer_entry)
-
+            if (count%25==1):
+                print('count: ',count)
+                time.sleep(2)
+                t = time.localtime()
+                current_time = time.strftime("%H:%M:%S", t)
+                print(current_time)
             count=count+1
 
 
@@ -161,7 +174,9 @@ def scrape_activities(username, password, inputCsv, outCsv):
     print(f"Completed Execution in {duration:0.2f} seconds")
 
 #example program call
-scrape_activities(user_pass[3][0],user_pass[3][1],'inputCsv/input0.csv','outputActivityCsv/output0.csv')
+#scrape_activities(user_pass[1][0],user_pass[1][1],'inputCsv/input2.csv','outputActivityCsv/output2.csv')
+#scrape_activities(user_pass[1][0],user_pass[1][1],'inputCsv/input3.csv','outputActivityCsv/output3.csv')
+scrape_activities(user_pass[3][0],user_pass[3][1],'inputCsv/input4.csv','outputActivityCsv/output4.csv')
 
 #down here, could just line up like 10 program calls. or could let maxwell's computer try PARALLEL processing
 
