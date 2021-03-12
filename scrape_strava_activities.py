@@ -3,7 +3,6 @@ import requests
 import csv
 import pandas as pd
 import urllib3
-import mechanize
 import http.cookiejar
 import time
 import sys
