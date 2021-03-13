@@ -114,7 +114,8 @@ def scrape_activities(inputList):
     
                     
             else: 
-                #just doing the same thing, but after 15 minutes
+                #just doing the same thing, but after 30 minutes
+                #could recursively call this function with a new username & pass once hit error
                 print('""""""')
                 print('Error Code ',nav_page.status_code,'. Sleeping for 30 minutes, then trying again.')
                 t = time.localtime()
@@ -177,9 +178,9 @@ def scrape_activities(inputList):
 
 # PROGRAM CALLS UP NEXT:
 
-scrape_activities([user_pass[2][0],user_pass[2][1],'inputCsv/input5.csv','outputActivityCsv/output5.csv'])
-scrape_activities([user_pass[3][0],user_pass[3][1],'inputCsv/input6.csv','outputActivityCsv/output6.csv'])
-scrape_activities([user_pass[1][0],user_pass[1][1],'inputCsv/input7.csv','outputActivityCsv/output7.csv'])
+scrape_activities([user_pass[2][0],user_pass[2][1],'inputCsv/input8.csv','outputActivityCsv/output8.csv'])
+scrape_activities([user_pass[3][0],user_pass[3][1],'inputCsv/input9.csv','outputActivityCsv/output9.csv'])
+scrape_activities([user_pass[1][0],user_pass[1][1],'inputCsv/input10.csv','outputActivityCsv/output10.csv'])
 
 #scrape_activities(user_pass[3][0],user_pass[3][1],'inputCsv/input4.csv','outputActivityCsv/output4.csv')
 
