@@ -10,11 +10,13 @@ import mechanicalsoup
 from passwords import user_pass
 
 #GOING TO NEED TO BE LOGGED IN FOR THIS SCRAPE
-def scrape_activities(username, password, inputCsv, outCsv):
+def scrape_activities(inputList):
     tic=time.perf_counter()
     # TRY THIS USING MULTIPLE ACCOUNTS / BROWSERS?
-    user=username
-    password=password
+    user=inputList[0]
+    password=inputList[1]
+    inputCsv=inputList[2]
+    outCsv=inputList[3]
 
     print('Users and Pass:')
     print(user,password)
@@ -44,14 +46,14 @@ def scrape_activities(username, password, inputCsv, outCsv):
     url = "https://strava.com/activities/{}"
 
 
-    with open(outCsv, 'a',newline='') as results_file:
+    with open(outCsv, 'w',newline='') as results_file:
         strava_write=csv.writer(results_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             
-       # firstrow=['activity_id','shoes','device','suffer']
-        #strava_write.writerow(firstrow)
+        firstrow=['activity_id','shoes','device','suffer']
+        strava_write.writerow(firstrow)
 
         count =0
-        for activity in activities[526:]:
+        for activity in activities[:]:
             
             row=[]
             row.append(activity)
@@ -114,11 +116,11 @@ def scrape_activities(username, password, inputCsv, outCsv):
             else: 
                 #just doing the same thing, but after 15 minutes
                 print('""""""')
-                print('Error Code ',nav_page.status_code,'. Sleeping for 15 minutes, then trying again.')
+                print('Error Code ',nav_page.status_code,'. Sleeping for 30 minutes, then trying again.')
                 t = time.localtime()
                 current_time = time.strftime("%H:%M:%S", t)
                 print(current_time)
-                time.sleep(900)
+                time.sleep(1800)
                 
                 #Send browser to page again
                 nav_page=browser.get(activity_url)
@@ -173,10 +175,13 @@ def scrape_activities(username, password, inputCsv, outCsv):
     duration = toc - tic
     print(f"Completed Execution in {duration:0.2f} seconds")
 
-#example program call
-#scrape_activities(user_pass[1][0],user_pass[1][1],'inputCsv/input2.csv','outputActivityCsv/output2.csv')
-#scrape_activities(user_pass[1][0],user_pass[1][1],'inputCsv/input3.csv','outputActivityCsv/output3.csv')
-scrape_activities(user_pass[3][0],user_pass[3][1],'inputCsv/input4.csv','outputActivityCsv/output4.csv')
+# PROGRAM CALLS UP NEXT:
+
+scrape_activities([user_pass[2][0],user_pass[2][1],'inputCsv/input5.csv','outputActivityCsv/output5.csv'])
+scrape_activities([user_pass[3][0],user_pass[3][1],'inputCsv/input6.csv','outputActivityCsv/output6.csv'])
+scrape_activities([user_pass[1][0],user_pass[1][1],'inputCsv/input7.csv','outputActivityCsv/output7.csv'])
+
+#scrape_activities(user_pass[3][0],user_pass[3][1],'inputCsv/input4.csv','outputActivityCsv/output4.csv')
 
 #down here, could just line up like 10 program calls. or could let maxwell's computer try PARALLEL processing
 
