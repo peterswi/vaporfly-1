@@ -119,7 +119,7 @@ def scrape_activities(inputList):
                     
             else: 
                 #iterating through all 3 accounts
-                
+                print('429 encountered')
                 userCount=userCount+1
                 if (userCount%3==1):
                     user=user_pass[1][0]
@@ -241,11 +241,10 @@ def scrape_activities(inputList):
 
 # PROGRAM CALLS UP NEXT:
 
-scrape_activities([user_pass[2][0],user_pass[2][1],'inputCsv/input8.csv','outputActivityCsv/output8.csv'])
-scrape_activities([user_pass[3][0],user_pass[3][1],'inputCsv/input9.csv','outputActivityCsv/output9.csv'])
-scrape_activities([user_pass[1][0],user_pass[1][1],'inputCsv/input10.csv','outputActivityCsv/output10.csv'])
+scrape_activities(['inputCsv/input9.csv','outputActivityCsv/output9.csv'])
+scrape_activities(['inputCsv/input8.csv','outputActivityCsv/output8.csv'])
 
-#scrape_activities(user_pass[3][0],user_pass[3][1],'inputCsv/input4.csv','outputActivityCsv/output4.csv')
+
 
 #down here, could just line up like 10 program calls. or could let maxwell's computer try PARALLEL processing
 
