@@ -29,4 +29,4 @@ def clean(csv):
     data.to_csv(csv,index=False)
 
 #Cleaned 1-18, 20-25
-#clean('outputActivityCsv/output24.csv')
+clean('outputActivityCsv/output19.csv')
