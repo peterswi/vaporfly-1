@@ -28,4 +28,5 @@ def clean(csv):
     print('num vaporfly:',len(data[data['vaporfly']==1].index))
     data.to_csv(csv,index=False)
 
-clean('outputActivityCsv/activityScrapeTest.csv')
+#Cleaned 1-18, 20-25
+#clean('outputActivityCsv/output24.csv')
