@@ -241,10 +241,9 @@ def scrape_activities(inputList):
 
 # PROGRAM CALLS UP NEXT:
 
-scrape_activities(['inputCsv/input13.csv','outputActivityCsv/output13.csv'])
-scrape_activities(['inputCsv/input14.csv','outputActivityCsv/output14.csv'])
-scrape_activities(['inputCsv/input15.csv','outputActivityCsv/output15.csv'])
-scrape_activities(['inputCsv/input16.csv','outputActivityCsv/output16.csv'])
+scrape_activities(['inputCsv/input17.csv','outputActivityCsv/output17.csv'])
+scrape_activities(['inputCsv/input18.csv','outputActivityCsv/output18.csv'])
+
 
 
 
