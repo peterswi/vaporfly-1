@@ -3,10 +3,17 @@ import pandas as pd
 
 def clean(csv):
     data=pd.read_csv(csv)
+    data['reported_PR']=0
     data['race']=''
     data['timeSec']=0
     
+    prCount=0
     for i in range(25451):
+        activityTitle=data['Strava Activity'][i]
+        if (' PR ' in activityTitle.upper()) or (' PB ' in activityTitle.upper()) or ('PERSONAL' in activityTitle.upper()):
+            data['reported_PR'][i]=1
+            prCount=prCount+1
+        
         full=data['race_name'][i]
         
         if ('TOKYO' in full.upper()):
@@ -60,9 +67,9 @@ def clean(csv):
         pace=data['Pace'][i]
         pace=pace[2:(len(pace)-1)]
         data['Pace'][i]=pace
-
+       
         
-    
+    print("Total PRs: ",prCount)
     data.to_csv('csv/CleanResults.csv',index=False)
 
-clean('csv/repeatAthletes.csv')
+clean('csv/CleanResults.csv')
