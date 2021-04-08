@@ -1,4 +1,5 @@
-
+# install.packages("gtsummary")
+library(gtsummary)
 #args <- commandArgs(trailingOnly = TRUE)
 args <- c("MSampleShoe.csv","men_fit.RData")
 input_perf_csv <- args[1]
@@ -52,9 +53,11 @@ ols3 <- lm(log(y) ~ x1 + (f1) + (f2))
 
 print(summary(fit1))
 print(summary(fit2))
-print(summary(ols1))
-print(summary(ols2))
-print(summary(ols3))
+#print(tbl_regression(fit1, exponentiate = TRUE))
+#print(tbl_regression(fit2, exponentiate = TRUE))
+#print(summary(ols1))
+#print(summary(ols2))
+#print(summary(ols3))
 
 vc <- lme4::VarCorr(fit1)
 covparms1 <- c(vc$f1,vc$f2,attr(vc,"sc")^2)
