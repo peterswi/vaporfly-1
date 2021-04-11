@@ -1,7 +1,6 @@
-# install.packages("gtsummary")
-library(gtsummary)
+
 #args <- commandArgs(trailingOnly = TRUE)
-args <- c("MSampleShoe.csv","men_fit.RData")
+args <- c("women_sampled_shoe.csv","women_fit.RData")
 input_perf_csv <- args[1]
 output_rdata <- args[2]
 

@@ -9,10 +9,10 @@
 
 # read in the command arguments
 # args <- commandArgs( trailingOnly = TRUE )
-input_scraped <- 'testwomenscrape.csv'
+input_scraped <- 'women_scraped.csv'
 input_matches <- 'women_matches.csv'
 max_time_minutes <- 165
-output_csv <- 'testWomenSample.csv'
+output_csv <- 'women_sampled.csv'
 
 # read in the data
 dat <- read.csv( input_scraped, as.is = TRUE)
